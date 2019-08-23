@@ -1,0 +1,147 @@
+@keyframes blinkingBg{
+	0%{     background-color: orangered;}
+	49%{    background-color: transparent;}
+	50%{    background-color: transparent;}
+	85%{    background-color: orangered;}
+	100%{   background-color: orangered;}
+}
+@keyframes blinkingText{
+	0%{     color: yellowgreen;}
+	49%{    color: transparent;}
+	50%{    color: transparent;}
+	80%{    color: yellowgreen;}
+	100%{   color: yellowgreen;}
+}
+@keyframes blinkingTextRed{
+	0%{     color: red;}
+	49%{    color: transparent;}
+	50%{    color: transparent;}
+	80%{    color: red;}
+	100%{   color: red;}
+}
+@keyframes blinkingTexti{
+	0%{     color: inherit;}
+	49%{    color: transparent;}
+	50%{    color: transparent;}
+	80%{    color: inherit;}
+	100%{   color: inherit;}
+}
+@keyframes blinkingTextii{
+	0%{     color: transparent;font-size:1rem;}
+	29%{    color: inherit;font-size:1rem;}
+	50%{    color: inherit;font-size:1rem;}
+	80%{    color: transparent;font-size:1rem;}
+	100%{   color: transparent;font-size:1rem;}
+}
+mark.aft, mark.afts{
+	background:inherit;
+	color:inherit;
+	height:0;
+	mix-blend-mode: initial;
+	white-space: nowrap;
+}
+
+mark.afts:not([data-content])::after, mark.aft:not([data-content])::after{
+	content:"\25BA";
+	mix-blend-mode: inherit;
+	animation:blinkingText 2s infinite;
+	mix-blend-mode: darken;
+	font-family:initial;
+}
+mark[data-content]::after{
+	content:attr(data-content);
+}
+mark.afts::after{
+	animation:blinkingText 1s infinite;
+	border:none;
+	position:absolute;
+	margin:.002em 0 0 .0em;
+	box-shadow: none;
+	background:rgba(0,0,0,0);
+}
+.red > mark.afts::after{
+	animation:blinkingTextRed 1s infinite;
+}
+.red > mark.afts{
+	background:transparent;
+}
+mark.aft::after{
+	position:absolute;
+	opacity:inherit;
+	animation:blinkingBg 1s infinite;
+	border:none;
+	border-radius:.05em;
+	line-height:inherit;
+	padding:0;
+	margin-top:.16em;
+	box-shadow: none;
+	background:inherit;
+	color:inherit;
+	text-shadow:inherit;
+}
+.input > mark.aft::after{
+	margin-top:.0;
+}
+span.caretsub{
+	overflow:visible;
+	color:transparent;
+	white-space: pre-wrap;
+	height:0;
+	max-width:none;
+	width:fit-content;
+	pointer-events:none;
+	z-index:1;
+}
+.caretsub.anipause mark::after{
+	animation-play-state: initial;
+	animation-duration:120s;
+}
+div.caretshell > *, span.caretsub{
+	display:block;
+	font-family:inherit!important;
+	font-size:inherit!important;
+	line-height:inherit!important;
+	position: relative;
+	padding:0;
+	margin:0;
+	border:none;
+	background-color: rgba(0,0,0,0);
+	text-shadow: none;
+	mix-blend-mode: difference;
+}
+
+div.caretshell{
+	position:relative;
+	background:transparent;
+	color:transparent;
+	font-size:2rem;
+	display:table-cell;
+	z-index:0;
+	width:fit-content;
+	height: fit-content;
+	padding:0;
+	margin:0;
+	border:none;
+	overflow-x:visible;
+	text-shadow: 0 0 0 black;
+}
+
+div.caretshell > *:not(.caretsub){
+	width:auto;
+	color: transparent;
+	text-shadow: inherit;
+	background:cadetblue;
+	position:relative;
+	margin:0!important;
+	overflow:initial;
+	mix-blend-mode:exclusion;
+}
+div.caretshell > input[type="text"]{
+	overflow:hidden;
+}
+div.caretshell > *::-webkit-scrollbar-track,
+div.caretshell > *::-webkit-scrollbar,
+div.caretshell > *::-webkit-scrollbar-thumb{
+	display: none;
+	box-shadow:none!important;
+}
