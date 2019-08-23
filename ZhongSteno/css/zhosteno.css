@@ -1,0 +1,566 @@
+#zhong{
+	background-color:transparent;
+	--bkgcol: rgba(100,149,237,7);
+	position:fixed;
+	max-width:41.463rem;
+	width:65%;
+	min-height:4em;
+	min-width:3em;
+	border:2px solid rgba(190,190,190,.25);
+	font-family:'Arial Narrow';
+	z-index:11;
+	-moz-box-shadow:-2px 2px 17px 2px #404040;
+	box-shadow:-2px 2px 17px 2px rgba(64,64,64, .7);
+	border-radius:0 12px 12px 12px;
+	-moz-border-radius:0 12px 12px 12px;
+	-webkit-border-radius:0 12px 12px 12px;
+	font-size:1.53em;
+	padding:2px .7em 2px 3px;
+	overflow:visible;
+}
+div.ligan{
+	font-size:1.13rem;
+}
+#parakeys{
+	font-size:1.33rem;
+}
+span.ellipser div:not(.jump),
+#hotc div:not(.jump):not(.ligan){
+	font-size: 1.23em;
+}
+span.ellipser{
+	font-size:unset;
+}
+#qu > div.qu:hover,
+#zhong div.parakey:hover > .jump,
+#zhong div[data-jump] > .jump{
+	background:rgba(255,255,255, .65);
+	color:deeppink;
+	text-shadow: 0px 0px 14px white;
+	filter:invert(100%);
+	border-color:black;
+}
+#zhong span[data-strokes] div[data-jump],
+#zhong div[data-jump]{
+	filter:initial;
+	background:rgba(0,0,0, .45);
+	overflow:visible;
+}
+#zhong div#btnclose{
+	position:absolute;
+	font-size:1rem;
+	left:.1em;
+	top:-1.3em;
+	width:1.25em;
+	opacity:.5;
+	z-index:100;
+}
+#zhong #btnclose:hover{
+	opacity:.9;
+}
+div.parakey:hover > img,
+#zhong div#btnclose:hover > img{
+	filter:invert(.9);
+}
+
+#zhonger[open] ~ #zhong #hotc > div[tip]:nth-child(-n+12):not([tip="1"]):not(:nth-child(-n+4)):not([data-jump]),
+#zhong #hotc > div[tip]:nth-child(-n+12):not([tip="1"]):not(:nth-child(-n+4)):not([data-jump]),
+#zhong :not(#lotto) > div.blu:not([data-jump]){
+	color:lightgoldenrodyellow;
+	border-color:orangered;
+	background-color:orange;
+}
+#zhong #hotc > div:nth-child(-n+4):not([data-jump]),
+#zhong :not(#lotto) > .blu.reds:not([data-jump]){
+	color:lightgoldenrodyellow;
+	background-color:orangered;
+	border-color:orange;
+}
+span.ellipser span div div.jump[data-jump="up"],
+span.ellipser div[data-jump="up"] div.jump,
+span div:not(.parakey):hover div.jump,
+span.ellipser div:hover div.jump{
+	position:relative;
+	z-index:14;
+}
+span.ellipser span div[data-jump="up"] > div.jump,
+span.ellipser div[data-jump="up"] > div.jump,
+span:not(#hotc):not(.ligan) div:not(.parakey)[data-jump] > div.jump,
+span.ellipser div[data-jump] > div.jump{
+	text-shadow: 0px 0px 7px white;
+	border:.04em solid #E4FFAE;
+	box-shadow:-2px 2px 17px 2px #404040;
+	-moz-box-shadow:-2px 2px 17px 2px #404040;
+	-webkit-box-shadow:-2px 2px 17px 2px #404040;
+}
+span.ellipser div:not(.jump)[data-jump]{
+	z-index:4;
+	position:relative;
+}
+
+div.ligan > div.jump{
+	text-align: center;
+	min-width: 1.7em;
+/*	min-height:1.59em; */
+	line-height: 1.59em;
+	margin: -0.2em 0 0 0;
+	vertical-align: top;
+}
+#zhong #qu > .qu,
+#hotc div.ligan{
+	color: deeppink;
+	border-color: rgba(255,69,0, .65);
+/*	height:fit-content;*/
+	width: fit-content;
+	margin: 2px;
+	font-family: 'yaHeiUIL';
+	padding: 0;
+}
+#hotc div.ligan[data-jump]{
+	overflow:hidden;
+}
+#hotc span.ligan.pint{
+	height:4em;
+}
+#hotc span.ligan.pint > div.ligan{
+	font-size:1.1em;
+}
+span.ellipser:not(.ellipsed) div[data-jump]:hover > div.jump{
+	font-size:1.4em;
+	margin-top:-.3em;
+	margin-left:-.25em;
+}
+span.ellipser div[data-jump] > div.jump{
+	position:absolute;	/*fixed shows on hidden overflow */
+	display:block;
+	font-size:1.15em;
+	margin-top:-.1em;
+	margin-left:-.15em;
+	max-width:1.8em;
+	max-height:initial;
+	min-width:1.05em;
+	min-height:1.2em;
+	text-shadow:none!important;
+	z-index:5;
+	padding-left:.1em;
+	font-family:'zenKaiUni','jhengHeiUIR','microsoft yahei';
+}
+span.ellipser > span:empty{
+	display:none;
+}
+/***************************************************************************/
+#jung div.blu:hover,
+#jung:hover{
+	opacity:1;
+}
+/*-------------------------------------------------------------*/
+span#hotc{
+	background:rgba(94, 165, 216, .2);
+	border-collapse: separate;
+	border-spacing:4px 2px;
+}
+
+#qu:hover ~ #hotc,
+#zhong #hotc:hover,
+#zhong.flat span#hotc,
+#zhonger[open] ~ #zhong #hotc{
+	background:rgba(94, 165, 216, .5);
+}
+#zhonger[open] ~ #zhong span.ellipser,
+#zhong:hover span.ellipser{
+	background-color:rgba(105,98,120,.8);
+}
+#zhong::before, #zhong *::before,
+#zhong div:not(.jump):not([data-jump]),
+#zhong span.ellipsed div:not(.jump){
+	opacity:.2;
+}
+
+
+#zhong.hover span >  div:not(.jump),
+#zhong:hover::before, #zhong:hover *::before,
+#zhong:hover *:not(.ellipsed) div:not(.jump),
+#zhonger[open] ~ #zhong[israd="0"]::before,
+#zhonger[open] ~ #zhong div::before,
+#zhonger[open] ~ #zhong:not(:hover) *:not(.ellipsed) div:not(.jump),
+#zhonger[open] ~ #zhong:hover span.ellipsed.detach div:not(.jump){
+	opacity:.85;
+}
+#zhong div:not(.jump):hover{
+	opacity:.95;
+}
+#zhong:hover .ellipsed{
+	z-index:2;
+	position:relative;
+}
+
+/***************************************************************************/
+/***************************************************************************/
+
+#zhong span::-webkit-scrollbar,
+#zhong div::-webkit-scrollbar{
+	width:0;
+}
+span{
+	overflow-y:visible;
+}
+.stenoff,
+#zhong span.ellipser.ellipsed:not(.detach) > span[data-strokes] > div:not(.blu):not(.reds):not(.serti),
+#hotc > span.ligan:empty,
+[stenozho="postee"]:empty, [name="stenozho"]:empty
+,#zhong:empty{
+	display:none;
+}
+
+#zhong span[data-strokes] div{
+	width:1em;
+	overflow:hidden visible;
+}
+#zhong #qu > .qu.top-ends ~ .qu{
+	margin:.27em 1px 0 1px;
+}
+#zhong #qu > .qu,
+#btnclose,
+#zhong span > div{
+	display:inline-flex;
+	white-space:nowrap;
+	text-align:center;
+	padding:0 3px 3px 3px;
+	border:1px solid rgba(190, 190, 190, .5);
+	height:1.2em;
+	overflow-x:hidden;
+	margin:3px;
+	vertical-align:top;
+	background-color:white;
+	cursor:url('../css/cell.png'),url('../css/cell48.png'),crosshair;
+}
+#zhong span.ellipser > span:nth-of-type(odd) > div:not(.blu):not(.reds){
+	color:rgb(1,50,32);
+}
+#zhong span.ellipser > span:nth-of-type(even) > div:not(.blu){
+	background-color:#FFF4E2;
+	color:darkslategrey;
+}
+#zhong[israd="1"]:not([data-strokes^="10."]) #hotc > div{
+	font-size:1em;
+	margin-right:4px;
+}
+#zhong:not([israd="1"]) #hotc > div .jump{
+	max-width:1em;
+	overflow:hidden;
+}
+#btnclose.parakey,
+#zhong #parakeys > div.parakey{
+	background-color:var(--bkgcol);
+}
+span:not(#hotc) div:not(.jump):not(.ligan){
+	background:rgba(179, 231, 255, .83);
+}
+
+#hotc > span.ligan::after{
+	content:"Lagans";
+	color:goldenrod;
+	font-size:.65em;
+	font-style:italic;
+	transform:rotateX(55deg) rotateY(-15deg) perspective(200px);
+	margin-left:.3em;
+}
+#hotc > .ligan{
+	margin:.1em 0  0 .5em;
+	clear:both;
+	padding-right:.35em;
+}
+.ligan.flexbug.rfloat{
+	height:9.639rem;
+}
+
+#zhong span.ellipsed{
+	padding:.4em .1em;
+}
+#zhong > span, #zhong > span{
+	box-shadow: inset -25px 0 40px -2px rgba(0,0,0,.7);
+}
+.ellipser div:not(.blu) div[data-derived="1"]{
+	color:#e51083; /*deeppink*/
+}
+#zhong #hotc > div[tip]:not(:nth-child(-n+12)):not([data-jump]),
+#zhong :not(#lotto) > div.blu.verti:not([data-jump]){
+	color:seagreen;
+	border-color:orange;
+	background-color:powderblue;
+}
+#zhong span#hotc.zhongwen-void > div.jump[tip="1"]{
+	color:unset;
+	background-color:black;
+	margin-right:2px;
+	opacity:.38;
+	cursor:default;
+}
+#zhong:hover span#hotc.zhongwen-void > div.jump[tip="1"]{
+	opacity:unset;
+}
+#hotc > div:not([tip]){
+	display:table-cell;
+	border-color:darkgoldenrod;
+}
+#hotc > div > div.jump{
+	line-height:1.2em;
+}
+span.ellipser.unellipsed + .moless{
+	float:right;
+}
+#zhong span#hotc > div{
+	font-family:'yaHeiLight','ZenKaiUni','Arial Unicode MS';
+	font-weight:lighter;
+	width:auto;
+	color:hotpink;
+}
+span.ellipser, #hotc{
+	border-radius:0 .3em .3em .2em;
+	padding:.2em .05em;
+}
+span.ellipser, #hotc{
+	box-shadow:inset 0 0 20px 10px rgba(140,248,255, .1), 0 0 20px 12px rgba(140,248,255, .1);
+	min-width:-webkit-fill-available;
+}
+
+
+
+*.ellipser{
+	white-space:initial;
+}
+*.ellipser > span{
+	display:inline;
+}
+#zhong :not(#lotto) > div.blu[data-strokes]:not([data-jump]),
+#zhong .ellipser span[data-strokes] > div[data-strokes]{
+	border-left:1.45em outset lightcyan;
+	border-radius:.5em 0 0 .5em;
+	overflow:visible;
+}
+	span.ellipser span[data-strokes] > div[data-strokes]::before{
+		content:attr(data-strokes);
+		position:relative;
+		width:0;
+		color:steelblue;
+		right: .5em;
+		direction: rtl;
+		font-family:majorMono, consolas;
+		font-size:.7em;
+		z-index:10;
+		vertical-align:bottom;
+		line-height:1.9em;
+		mix-blend-mode:difference;
+	}
+
+
+[stenozho="postee"], [name="stenozho"]{
+	font-size:1.8rem;
+	max-width:-webkit-fill-available;
+	min-width:15em;
+	min-height:4em;
+	margin:.5rem .5rem 0 .5rem;
+	padding:1rem 1rem 0 1rem;
+	background-color:rgba(45,45,45,.8);
+	font-family:quotate,hanyiSlender, "dengxian";
+}
+#zhonger, #zhonger > summary{
+	position:relative;
+	display:inline-block;
+	font-size:1.5rem;
+	width:fit-content;
+	white-space:pre-line;
+	min-width:40%;
+}
+#parakeys{
+	display:flex;
+	flex-flow:column wrap;
+	height:7.5em;
+	direction:initial;
+	min-width:3.4em;
+	width:min-content;
+	position:absolute;
+	bottom:.5em;
+	right:-2.6em;
+	overflow:visible;
+	z-index:3;
+}
+#parakeys:hover{
+	z-index:13;
+}
+#zhong div.parakey{
+	display:block;
+	margin:2px;
+	padding:0;
+	border-color:black;
+	width:1.5em;
+	border-radius:3px;
+}
+div.parakey > .jump{
+	min-width:-webkit-fill-available;
+	text-align:center;
+	height:100%;
+}
+#zhong > div.parakey:hover,
+#zhong > div.parakey:hover,
+#parakeys div.parakey:hover{
+	border-color:rgba(200,200,200, .6);
+	overflow:visible;
+}
+#parakeys div.parakey:hover > div.jump{
+	text-shadow:initial;
+	mix-blend-mode:initial;
+}
+div.parakey > img{
+	height:100%;
+	width:100%;
+	background-size:cover;
+	mix-blend-mode:overlay;
+}
+div.parakey > input[type="checkbox"]{
+	transform: scale(1.45);
+	align-self:center;
+	margin:2px 0 0 2px;
+	padding:0;
+	width:100%;
+	mix-blend-mode:color-dodge;
+}
+div.parakey:hover ~ .parakey{
+	z-index:-1;
+}
+div.parakey:hover > :not([data-title]):not([data-title-left])::after{
+	display:none;
+}
+#btnclose[data-title]::after{
+	line-height:2.6em;
+}
+#btnclose[data-title]::after,
+#parakeys *[data-title-left]::after,
+#parakeys *[data-title]::after{
+	filter:inherit;
+	font-family:"arial";
+	font-size:.7rem;
+	line-height: 1.2em;
+	position:absolute;
+	white-space:pre;
+	width:min-content;
+	border:none;
+	border-radius: 8px;
+	box-shadow: inset 0 0 30px 8px rgba(0,0,0,.75), 0 0 30px 10px rgba(0,0,0,.95);
+	z-index: 20;
+}
+#btnclose[data-title]:hover::after,
+div.parakey[data-title]:hover::after,
+div.parakey:hover > .jump::after,
+div.parakey:hover > input::after{
+	content:attr(data-title);
+	color:var(--bkgcol);
+	left:2.6em;
+	top: -.8em;
+	direction:ltr;
+	vertical-align:middle;
+}
+div.parakey[data-title-left]:hover::after,
+div.parakey:hover > *[data-title-left]::after{
+	content:attr(data-title-left);
+	direction:rtl;
+	text-align:right;
+	right: 3em;
+	left: unset;
+	color: gold;
+	top: -.8em;
+}
+div.parakey[data-title-left]:hover::after{
+	right:.6em;
+	top:unset;
+}
+#zhong::before{
+	content:attr(data-strokes)" strokes";
+	position:absolute;
+	top:-1.18em;
+	right:4em;
+	font-family:majorMono,"t93y";
+	font-size:.9rem;
+	color:rgba(255,215,0,.9);
+	white-space:pre;
+	width:10em;
+	box-shadow: inset 0 0 17px 5px rgba(95,0,205,.65), 3px -4px 10px 3px rgba(95,0,205,.65);
+	border-radius: .4em;
+	tab-size:12;
+}
+#zhong[israd="1"]::before{
+	width:6em;
+}
+#zhong.flat #hotc div:not(.jump){
+	mix-blend-mode:luminosity;
+	opacity:1;
+}
+#zhong #qu.ceil{
+	background: linear-gradient(transparent,transparent,rgba(200,200,200, .7) 40%);
+	border:none;
+	min-height:2em;
+	align-content:flex-end;
+}
+#zhong #qu{
+	position:fixed;
+	display:inline-flex;
+	flex-flow:row wrap;
+	justify-content:center;
+/*	max-width:-webkit-fill-available;*/
+	max-width:10.2em;
+	border:1px solid rgba(128,128,128, .5);
+	border-top:none;
+	z-index:13;
+	background:linear-gradient(transparent 10%,rgba(200,200,200, .7) 40%, transparent);
+	border-radius:.2em;
+	font-size:1.7rem;
+	box-shadow:inset 0 0 30px 8px rgba(0,0,0,.45),0 0 30px 10px rgba(0,10,0,.65);
+}
+#zhong #qu.limbo .qu{
+	opacity:.85;
+	color:hotpink;
+	background-color:rgba(255,255,255,.5);
+	border-color:hotpink;
+	mix-blend-mode:darken;
+}
+#zhong:hover #qu.limbo,
+#zhong:hover #qu:not(:hover){
+	mix-blend-mode:multiply;
+	opacity:.37;
+}
+#zhong:hover #qu:not(:hover) .qu{
+	mix-blend-mode:multiply;
+}
+#zhong #qu > .qu{
+	display:table-cell;
+	background:rgba(20,20,40,1);
+	border-radius:.2em;
+	border-style:outset;
+	border-width:2px;
+	height:1.1em;
+	line-height:1.1em;
+	margin:0;
+	padding:2px;
+	color:rgba(16,194,98, 1);
+	opacity:.75;
+}
+#zhong #qu > .qu.rid{
+	color:highlight;
+}
+#zhong #qu:not(.ceil):hover{
+	border-color:rgba(255, 69, 0, .1);
+}
+#zhong #qu > .qu:hover{
+	background:darkblue;
+	opacity:initial;
+	z-index:101;
+}
+#qu > .top-ends ~ div:nth-child(6n+4){
+	margin-right:.35em!important;
+}
+#zhong.fit-small{
+	font-size:1rem;
+}
+#zhong.fit-medium{
+	font-size:1.3rem;
+}

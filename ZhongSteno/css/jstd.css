@@ -1,0 +1,217 @@
+*::-webkit-scrollbar-track{
+	background-color:rgba(70, 130, 180, .06);
+}
+*::-webkit-scrollbar,
+*::-webkit-scrollbar-thumb{
+	box-shadow: inset 0 0 20px 4px rgba(140,220,220,0.3);
+	background:transparent;
+}
+span{
+	margin:0;
+	padding:0 2px;
+	overflow-x:hidden;
+	display:inline-block;
+}
+.ghoul{
+	pointer-events:none;
+	opacity:.06!important;
+}
+*[data-vocab]::after{
+	content:attr(data-vocab);
+	padding:.1em .45em .45em .1em;
+	font-family:segoe wp light;
+	font-style:italic;
+	font-size:1.1rem;
+	font-weight:100;
+	color:inherit;
+	line-height:1.15em;
+	vertical-align:text-top;
+	display:inline-flex;
+	max-height: 2em;
+	max-width: 3.3em;
+	width:max-content;
+	white-space:initial;
+	hyphens:manual;
+	text-align:right;
+	mix-blend-mode: luminosity;
+}
+#prios{
+	margin-bottom:.66em;
+}
+#prios > #lotto{
+	max-height:-webkit-fill-available;
+	padding-right:.5em;
+	padding-left:1em;}
+em[data-vocab]{
+	font-style:normal;
+}
+#prios > #lotto > em[data-vocab]{
+	color:yellowgreen!important;
+	width:-webkit-fill-available;
+}
+#prios > #lotto li{
+	line-height:1.4em;
+}
+#prios > #lotto > *[data-vocab]::after{
+	max-width:max-content;
+}
+#prios:hover{
+	background-image:unset!important;
+	opacity:unset!important;
+	background-color:rgba(0,0,0,.75)!important;
+	z-index:20;
+}
+#prios:hover > #lotto {
+	padding-right:0 1em;
+}
+#prios{
+	top:.4em;
+	font-family:calibri;
+	font-size:1.4em;
+	max-width:35%;
+	background:url('../images/opaque-ye.png') repeat;
+	opacity:.9!important;
+}
+#prios span{
+	max-width:100%;
+	white-space:pre-line;
+	display:block;
+	padding:4px;
+	line-height:initial;
+}
+#prios, details > summary:focus{
+	border-color:transparent;
+	box-shadow:var(--ivy-box);
+	outline:none;
+	opacity:.7;
+}
+#prios ul{
+	padding-left:.9em;
+	margin:0;
+}
+#prios article.star{
+	position: absolute;
+	left: -.06em;
+	width: 0;
+	direction: rtl;
+	display: inline-flex;
+	flex-flow:column wrap;
+	vertical-align: middle;
+	overflow:visible;
+	white-space:pre;
+}
+#prios audio.star{
+	position: relative;
+	min-width: 12em;
+	width: 12em;
+	transform: scale(.73);
+}
+#prios audio.star:focus{
+	outline: none;
+}
+#prios em.data-glyphin{
+	direction:ltr;
+	border-radius:3px;
+	opacity:.5;
+	line-height: 1.2em;
+}
+#prios > *.pinged{
+	background:lightyellow;
+	box-shadow:var(--stary-box);
+	opacity:.8;
+	color:rgba(0,0,0,.6);
+}
+a > img{
+	width:1.5em;
+}
+em.identify{
+	filter:none!important;
+	mix-blend-mode:hard-light;
+	background:lightyellow!important;
+	box-shadow:1px 1px 2px rgba(0,255,80,.8), 0 0 .5em rgba(205,160,80,.9)!important;
+	display:inline-block;
+	z-index:3;
+}
+*:hover > *::after
+,*:hover::after{
+	pointer-events:none;
+}
+*.flexbug.rfloat{
+	float: right;
+	direction:rtl;
+	flex-wrap:wrap-reverse;
+	align-content:flex-start;
+}
+*.flexbug{
+	width:initial;
+	display: inline-flex;
+	flex: 0 0 100%;
+	overflow: hidden;
+	flex-flow: column wrap;
+}
+em.star ~ #ting{
+	position:relative;
+	display:flex;
+	height:0;
+	width:0;
+	right:-3px;
+	overflow:visible;
+}
+.star iframe#_audio{
+	display:inline-block;
+	position:relative;
+	top:-4em;
+	right:-1.5em;
+	transform:scale(.7);
+	height:6em;
+	width:12em;
+	border:none;
+	z-index:100;
+	opacity:.5;
+	background:transparent;
+}
+.star a{
+	height:fit-content;
+	color:cadetblue;
+	z-index:101;
+}
+.star a:visited{
+	color:highlight;
+}
+.submerge{
+	z-index:unset!important;
+}
+i[data-vary]{
+	opacity:.7;
+	font-style:normal;
+	cursor:url('../css/cell.png'),url('../css/cell48.png'),crosshair;
+}
+i[data-vary]:hover::after{
+	content:attr(data-vary);
+	display:inline-block;
+	font-family:unset;
+	letter-spacing:1px;
+	font-size:.77em;
+	line-height:1em;
+	color:white;
+	background:rgba(0,190,130, .6);
+	border-radius:5px;
+	position: absolute;
+	margin:-.43em auto auto -1em;
+	padding:0 3px 3px 3px;
+	z-index:-1;
+}
+mark[fore]::after{
+	content:attr(data-content);
+	color:transparent;
+	border:none;
+	border-radius:.35em;
+	position:absolute;
+	background:transparent;
+	background-image:linear-gradient(to right, rgba(205,205,0,.95),rgba(123, 255, 0, 0.5), transparent);
+	opacity:.6;
+	padding:0 .3em;
+	margin-left:-.07em;
+	margin-top:.15em;
+	font-size:.8em;
+}

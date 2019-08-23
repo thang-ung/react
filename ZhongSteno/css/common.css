@@ -1,0 +1,73 @@
+@font-face {
+	font-family:majorMono;
+	src:url(https://fonts.gstatic.com/s/majormonodisplay/v2/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeR.woff2) format('woff2');
+	unicode-range:U+30-39;
+}
+@font-face {
+	font-family:shareTech;
+	src:url(https://fonts.gstatic.com/s/sharetechmono/v8/J7aHnp1uDWRBEqV98dVQztYldFcLowEF.woff2) format('woff2');
+	font-weight:100;
+	unicode-range:U+30-39;
+}
+@font-face {
+	font-family:notosa;
+	src:url(https://fonts.gstatic.com/s/notosanssc/v9/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.34.woff2) format('woff2');
+	unicode-range: U+20, U+4E00-FA29;
+}
+@font-face {
+	font-family:minlaya;
+	src:local("microsoft himalaya");
+	unicode-range: U+0021-587F;
+}
+
+@font-face {
+	font-family:quotate;
+	src:url("../css/fonts/t93y.TTF") format("truetype");
+	unicode-range:U+2018-2019, U+201c-201d;
+}
+@font-face {
+	font-family:hanyiSlender;
+	src:url("../css/fonts/HANYI SLENDER-SIMPLIFIED CHINESE.TTF");
+}
+@font-face {
+	font-family:yaHeiLight;
+	src:url("../css/fonts/MicrosoftYaHeiLight.ttf") format("truetype");
+	unicode-range: U+20, U+4E00-10FFFF;
+}
+@font-face {
+	font-family:yaHeiUIL;
+	src:url("../css/fonts/MicrosoftYaHeiUILight.ttf") format("truetype");
+}
+@font-face{
+	font-family:t93y;
+	src:url("../css/fonts/t93y.TTF");
+}
+@font-face{
+	font-family:zheng;
+	src:url("../css/fonts/Morningstar1Lightm.ttf");
+	font-weight:400;
+}
+@font-face{
+	font-family:zenKaiUni;
+	src:url("../css/fonts/UKaiCN.woff") format("woff");
+	font-weight:400;
+}
+@font-face{
+	font-family:jhengHeiUIR;
+	src:url("../css/fonts/MicrosoftJhengHeiUIRegular.woff") format("woff");
+	font-weight:400;
+}
+:root{
+	background-color:black;
+	color:highlight;
+}
+body{
+	background:transparent;
+}
+.hidden{
+	display:none!important;
+}
+.maskout{
+	opacity:0!important;
+	pointer-events:none;
+}

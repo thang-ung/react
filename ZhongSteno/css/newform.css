@@ -1,0 +1,11 @@
+form.NameForm{
+	font:initial;
+}
+form.NameForm input[type="text"]{
+	border:1px solid darkgrey;
+	padding: 3px 7px;
+	border-radius:4px;
+}
+form.NameForm input[type="submit"]{
+	margin:0 6px;
+}
