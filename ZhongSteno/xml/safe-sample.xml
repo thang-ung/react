@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<safe>
+<!--	<fields value="*"/>-->
+	<fields>
+		<item name="first_name" type="STRING"/>
+		<item name="last_name" type="STRING"/>
+		<item name="full_name" type="STRING"/>
+		<item name="price" type="DECIMAL"/>
+		<item name="transaction"/>
+		<item name="audit_date"/>
+		<item name="ccy"/>
+		<item name="fund_name"/>
+	</fields>
+<!--	<functions value="*"/>-->
+	<functions>
+		<item name="between" args="any,any"/>
+		<item name="atop"/>
+		<item name="spin"/>
+		<item name="patting"/>
+		<item name="getscore"/>
+		<item name="toNumber"/>
+		<item name="costeffect" args="decimal,decimal"/>
+	</functions>
+	<options>
+		<item name="unary" value="false"/>
+		<item name="expand-r" value="true"/>
+	</options>
+</safe>

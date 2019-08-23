@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<BCPFORMAT xmlns="http://schemas.microsoft.com/sqlserver/2004/bulkload/format" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <RECORD>
+	<FIELD ID="1" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="2" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="3" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="4" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="5" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="6" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="7" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="8" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="9" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="10" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="11" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="12" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="13" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="14" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="15" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="16" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="17" xsi:type="CharTerm" TERMINATOR='\t' />
+	<FIELD ID="18" xsi:type="CharTerm" TERMINATOR="\r\n" />
+ </RECORD>
+ <ROW>
+	<COLUMN SOURCE="17" NAME="InvoiceDate" xsi:type="SQLDATETIME"/>
+	<COLUMN SOURCE="16" NAME="InvoiceNo" xsi:type="SQLNVARCHAR"/>
+	<COLUMN SOURCE="6" NAME="fleetLocation" xsi:type="SQLNVARCHAR"/>
+	<COLUMN SOURCE="2" NAME="LoadNo" xsi:type="SQLNVARCHAR"/>
+	<COLUMN SOURCE="9" NAME="customer" xsi:type="SQLNVARCHAR"/>
+	<COLUMN SOURCE="11" NAME="LineHaul" xsi:type="SQLFLT8"/>
+	<COLUMN SOURCE="12" NAME="FSC" xsi:type="SQLFLT8"/>
+	<COLUMN SOURCE="13" NAME="Accessorial" xsi:type="SQLFLT8"/>
+	<COLUMN SOURCE="14" NAME="Other" xsi:type="SQLFLT8"/>
+	<COLUMN SOURCE="15" NAME="AAPM" xsi:type="SQLFLT8"/>
+	<COLUMN SOURCE="10" NAME="miles" xsi:type="SQLFLT8"/>
+	<COLUMN SOURCE="3" NAME="shipper" xsi:type="SQLNVARCHAR"/>
+	<COLUMN SOURCE="4" NAME="shipperTime" xsi:type="SQLDATETIME"/>
+ </ROW>
+</BCPFORMAT>
+<!--
+bcp STAGE_BOLT_FEED in "j:\etl\sample\linehaul-regex.txt" -F2 -S devsql001 -d "SFSTAGING" -T -f bolt.xml
+1	,"
+2	",
+3	,
+4	,
+5	,"
+6	","
+7	","
+8	","
+9	","
+10	","
+11	","
+12	",
+13	,
+14	,"
+15	",
+16	,
+17	,
+18	.
+
+Employee Start Date
+Employee Name
+Date Worked (Punch In Date)
+Year
+Week Number
+Pay Type
+Location 1
+Location 2
+Area 1
+Area 2
+Department
+Manager
+First Punch
+Last Punch
+Hours Type
+Hours
+Avg Rate
+Ext. Amount
+5/1/2015,"Soloperto, Andrew",7/16/2015,2015,28,"CONTRACT","","","","","Dept Text","",06:00 AM,05:15 PM,"REGULAR",8.00,12.00,96.00
+5/1/2015,"Soloperto, Andrew",7/16/2015,2015,28,"CONTRACT","","","","","Dept Text","",06:00 AM,05:15 PM,"OT",2.50,18.00,45.00
+5/1/2015,"Soloperto, Andrew",7/16/2015,2015,28,"CONTRACT","","","","","Dept Text","",06:00 AM,05:15 PM,"DT",0.75,24.00,18.00
+4/13/2015,"Calabrese, Greg",7/15/2015,2015,28,"CONTRACT","","","","","Dept Text","",05:15 PM,04:45 AM,"REGULAR",8.00,12.50,100.00
+4/13/2015,"Calabrese, Greg",7/15/2015,2015,28,"CONTRACT","","","","","Dept Text","",05:15 PM,04:45 AM,"OT",2.50,18.75,46.88
+4/13/2015,"Calabrese, Greg",7/15/2015,2015,28,"CONTRACT","","","","","Dept Text","",05:15 PM,04:45 AM,"DT",1.00,25.00,25.00
+
+if exists(select 1 from sys.tables where name='STAGE_HR_FEED')
+	drop table STAGE_HR_FEED;
+go
+
+create table STAGE_HR_FEED(
+	 [EmployeeStartDate] datetime
+	, [EmployeeName] nvarchar(128)
+	, [DateWorked] datetime
+	, [Year] smallint
+	, [WeekNumber] tinyint
+	, [PayType] nvarchar(128)
+	, [Location1] nvarchar(128)
+	, [Location2] nvarchar(128)
+	, [Area1] nvarchar(128)
+	, [Area2] nvarchar(128)
+	, [Department] nvarchar(128)
+	, [Manager] nvarchar(128)
+	, [FirstPunch] datetime
+	, [LastPunch] datetime
+	, [HoursType] nvarchar(128)
+	, [Hours] decimal(6,3)
+	, [AvgRate] decimal(14,3)
+	, [Ext.Amount] decimal(14,3)
+
+	,PRIMARY KEY([EmployeeStartDate]
+	, [EmployeeName]
+	, [DateWorked]
+	, [Year]
+	, [WeekNumber]
+	, [HoursType]
+	, [LastPunch])
+	WITH(IGNORE_DUP_KEY=ON)
+);
+go
+
+select*from STAGE_HR_FEED
+--generate xml format file
+--bcp STAGE_HR_FEED format nul -c -f j:\bcpfmt.xml -x -S localhost -d "_STUBS" -T -q
+-->

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<radicals>
+<entry r="1" rad="一" n="1"/>
+<entry r="2" rad="丨" n="1"/>
+<entry r="3" rad="丶" n="1"/>
+<entry r="4" rad="丿 (乀,乁)" n="1" alt="0"/>
+<entry r="5" rad="乙 (乚,乛)" n="1" alt="0"/>
+<entry r="6" rad="亅" n="1"/>
+<entry r="7" rad="二" n="2"/>
+<entry r="8" rad="亠" n="2"/>
+<entry r="9" rad="人 (亻)" n="2" alt="0"/>
+<entry r="10" rad="儿" n="2"/>
+<entry r="11" rad="入" n="2"/>
+<entry r="12" rad="八 (丷)" n="2"/>
+<entry r="13" rad="冂" n="2"/>
+<entry r="14" rad="冖" n="2"/>
+<entry r="15" rad="冫" n="2"/>
+<entry r="16" rad="几" n="2"/>
+<entry r="17" rad="凵" n="2"/>
+<entry r="18" rad="刀 (刂)" n="2" alt="0"/>
+<entry r="19" rad="力" n="2"/>
+<entry r="20" rad="勹" n="2"/>
+<entry r="21" rad="匕" n="2"/>
+<entry r="22" rad="匚" n="2"/>
+<entry r="23" rad="匸" n="2"/>
+<entry r="24" rad="十" n="2"/>
+<entry r="25" rad="卜" n="2"/>
+<entry r="26" rad="卩 (㔾)" n="2" alt="0"/>
+<entry r="27" rad="厂" n="2"/>
+<entry r="28" rad="厶" n="2"/>
+<entry r="29" rad="又" n="2"/>
+<entry r="47" rad="巜 (巛, 川)" n="2" alt="1"/>
+<entry r="149" rad="讠 [言]" n="2" alt="1"/>
+<!--
+<entry r="170" rad="阝(阜)⊕●" n="2" alt="1"/>
+<entry r="163" rad="⻏(邑)●⊕" n="2" alt="1"/>
+-->
+<entry r="30" rad="口" n="3"/>
+<entry r="31" rad="囗" n="3"/>
+<entry r="32" rad="土" n="3"/>
+<entry r="33" rad="士" n="3"/>
+<entry r="34" rad="夂" n="3"/>
+<entry r="35" rad="夊" n="3"/>
+<entry r="36" rad="夕" n="3"/>
+<entry r="37" rad="大" n="3"/>
+<entry r="38" rad="女" n="3"/>
+<entry r="39" rad="子" n="3" uhead="子" utail="孿 [孪]" rtail="㝈"/>
+<entry r="40" rad="宀" n="3"/>
+<entry r="41" rad="寸" n="3"/>
+<entry r="42" rad="小" n="3"/>
+<entry r="43" rad="尢 (尣)" n="3" alt="0"/>
+<entry r="44" rad="尸" n="3"/>
+<entry r="45" rad="屮" n="3"/>
+<entry r="46" rad="山" n="3"/>
+<entry r="47" rad="川 (巜,巛)" n="3" alt="0"/>
+<entry r="48" rad="工" n="3"/>
+<entry r="49" rad="己" n="3"/>
+<entry r="50" rad="巾" n="3"/>
+<entry r="51" rad="干" n="3"/>
+<entry r="52" rad="幺" n="3"/>
+<entry r="53" rad="广" n="3"/>
+<entry r="54" rad="廴" n="3"/>
+<entry r="55" rad="廿 (廾)" n="3" alt="0"/>
+<entry r="56" rad="弋" n="3"/>
+<entry r="57" rad="弓" n="3"/>
+<entry r="58" rad="彐 (彑)" n="3"/>
+<entry r="59" rad="彡" n="3"/>
+<entry r="60" rad="彳" n="3"/>
+<entry r="61" rad="忄 (心)" n="3" alt="1"/>
+<entry r="64" rad="扌 (手)" n="3"/>
+<entry r="85" rad="氵 (水)" n="3" alt="1"/>
+<entry r="94" rad="犭 (犬)" n="3" alt="1"/>
+<entry r="162" rad="辶 (辵)" n="3" alt="1"/>
+<entry r="170" rad="阝(阜)⊕●" n="3" alt="1"/>
+<entry r="163" rad="⻏(邑)●⊕" n="3" alt="1"/>
+<entry r="169" rad="门 [門]" n="3" alt="s"/>
+<entry r="183" rad="飞 [飛]" n="3" alt="s"/>
+<entry r="184" rad="饣 [食]" n="3" alt="s"/>
+<entry r="187" rad="马 [馬]" n="3" alt="s"/>
+<entry r="61" rad="心 (忄)" n="4"/>
+<entry r="62" rad="戈" n="4"/>
+<entry r="63" rad="戶" n="4"/>
+<entry r="64" rad="手 (扌)" n="4"/>
+<entry r="65" rad="支" n="4"/>
+<entry r="66" rad="攴 (攵)" n="4" alt="0"/>
+<entry r="67" rad="文" n="4"/>
+<entry r="68" rad="斗" n="4"/>
+<entry r="69" rad="斤" n="4"/>
+<entry r="70" rad="方" n="4"/>
+<entry r="71" rad="无 (旡)" n="4" alt="0"/>
+<entry r="72" rad="日" n="4"/>
+<entry r="73" rad="曰" n="4"/>
+<entry r="74" rad="月" n="4"/>
+<entry r="130" rad="⺼ (肉)" n="4" alt="1"/>
+<entry r="75" rad="木 (朩)" n="4"/>
+<entry r="76" rad="欠" n="4"/>
+<entry r="77" rad="止" n="4"/>
+<entry r="78" rad="歹 (歺)" n="4" alt="0"/>
+<entry r="79" rad="殳" n="4"/>
+<entry r="80" rad="毋 (母)" n="4" alt="0"/>
+<entry r="81" rad="比" n="4"/>
+<entry r="82" rad="毛" n="4"/>
+<entry r="83" rad="氏" n="4"/>
+<entry r="84" rad="气" n="4"/>
+<entry r="85" rad="水 (氵)" n="4" alt="0"/>
+<entry r="86" rad="火 (灬)" n="4" alt="0"/>
+<entry r="87" rad="爪 (爫)" n="4" alt="0"/>
+<entry r="88" rad="父" n="4"/>
+<entry r="89" rad="爻" n="4"/>
+<entry r="90" rad="爿 (丬)" n="4" alt="0"/>
+<entry r="91" rad="片" n="4"/>
+<entry r="92" rad="牙" n="4"/>
+<entry r="93" rad="牛 (牜)" n="4" alt="0"/>
+<entry r="94" rad="犬 (犭)" n="4" alt="0"/>
+<entry r="43" rad="尣 (尢)" n="4" alt="1"/>
+<entry r="86" rad="灬 (火)" n="4" alt="1"/>
+<entry r="87" rad="爫 (爪)" n="4" alt="1"/>
+<entry r="96" rad="王 (玉)" n="4" alt="1"/>
+<entry r="120" rad="纟 (糸)" n="4" alt="s"/>
+<entry r="122" rad="罓 [网]" n="4" alt="s"/>
+<entry r="147" rad="见 (見)" n="4" alt="s"/>
+<entry r="154" rad="贝 (貝)" n="4" alt="s"/>
+<entry r="159" rad="车 (車)" n="4" alt="s"/>
+<entry r="162" rad="⻍ (辵)" n="4" alt="1"/>
+<entry r="168" rad="长 (長)" n="4" alt="s"/>
+<entry r="178" rad="韦 (韋)" n="4" alt="s"/>
+<entry r="182" rad="风 (風)" n="4" alt="s"/>
+<entry r="140" rad="艹 (艸)" n="4" alt="1"/>
+<!--<entry r="118" rad="⺮ (竹)" n="4" alt="1"/>-->
+<entry r="113" rad="礻 (示)" n="5" alt="1"/>
+<entry r="80" rad="母 (毋)" n="5" alt="1"/>
+<entry r="95" rad="玄" n="5"/>
+<entry r="96" rad="玉 (王)" n="5" alt="0"/>
+<entry r="97" rad="瓜" n="5"/>
+<entry r="98" rad="瓦" n="5"/>
+<entry r="99" rad="甘" n="5"/>
+<entry r="100" rad="生" n="5"/>
+<entry r="101" rad="用" n="5"/>
+<entry r="102" rad="田" n="5"/>
+<entry r="103" rad="疋" n="5"/>
+<entry r="104" rad="疒" n="5"/>
+<entry r="105" rad="癶" n="5"/>
+<entry r="106" rad="白" n="5"/>
+<entry r="107" rad="皮" n="5"/>
+<entry r="108" rad="皿" n="5"/>
+<entry r="109" rad="目" n="5"/>
+<entry r="110" rad="矛" n="5"/>
+<entry r="111" rad="矢" n="5"/>
+<entry r="112" rad="石" n="5"/>
+<entry r="113" rad="示 (礻)" n="5" alt="0"/>
+<entry r="114" rad="禸" n="5"/>
+<entry r="115" rad="禾" n="5"/>
+<entry r="116" rad="穴" n="5"/>
+<entry r="117" rad="立" n="5"/>
+<entry r="71" rad="旡 (无)" n="5" alt="1"/>
+<entry r="78" rad="歺 (歹)" n="5" alt="1"/>
+<entry r="122" rad="罒 (网)" n="5" alt="1"/>
+<entry r="167" rad="钅 [金]" n="5" alt="s"/>
+<entry r="196" rad="鸟 [鳥]" n="5" alt="s"/>
+<entry r="212" rad="龙 [龍]" n="5" alt="s"/>
+<entry r="145" rad="衤 (衣)" n="5" alt="1"/>
+<entry r="118" rad="竹" n="6"/>
+<entry r="119" rad="米" n="6"/>
+<entry r="120" rad="糸 (糹,纟)" n="6" alt="0"/>
+<entry r="121" rad="缶" n="6"/>
+<entry r="122" rad="网 (罒)" n="6" alt="0"/>
+<entry r="123" rad="羊" n="6"/>
+<entry r="124" rad="羽" n="6"/>
+<entry r="125" rad="老" n="6"/>
+<entry r="126" rad="而" n="6"/>
+<entry r="127" rad="耒" n="6"/>
+<entry r="128" rad="耳" n="6"/>
+<entry r="129" rad="聿" n="6"/>
+<entry r="130" rad="肉 (⺼)" n="6"/>
+<entry r="131" rad="臣" n="6"/>
+<entry r="132" rad="自" n="6"/>
+<entry r="133" rad="至" n="6"/>
+<entry r="134" rad="臼" n="6"/>
+<entry r="135" rad="舌" n="6"/>
+<entry r="136" rad="舛" n="6"/>
+<entry r="137" rad="舟" n="6"/>
+<entry r="138" rad="艮" n="6"/>
+<entry r="139" rad="色" n="6"/>
+<entry r="140" rad="艸 (艹)" n="6" alt="0"/>
+<entry r="141" rad="虍" n="6"/>
+<entry r="142" rad="虫" n="6"/>
+<entry r="143" rad="血" n="6"/>
+<entry r="144" rad="行" n="6"/>
+<entry r="145" rad="衣 (衤)" n="6" alt="0"/>
+<entry r="146" rad="西 (覀)" n="6"/>
+<entry r="118" rad="⺮ (竹)" n="6" alt="1"/>
+<entry r="181" rad="页 [頁]" n="6" alt="s"/>
+<entry r="210" rad="齐 [齊]" n="6" alt="s"/>
+<entry r="147" rad="見 [见]" n="7" alt="0"/>
+<entry r="148" rad="角" n="7"/>
+<entry r="149" rad="言 [讠]" n="7" alt="0"/>
+<entry r="150" rad="谷" n="7"/>
+<entry r="151" rad="豆" n="7"/>
+<entry r="152" rad="豕" n="7"/>
+<entry r="153" rad="豸" n="7"/>
+<entry r="154" rad="貝 [贝]" n="7" alt="0"/>
+<entry r="155" rad="赤" n="7"/>
+<entry r="156" rad="走" n="7"/>
+<entry r="157" rad="足" n="7"/>
+<entry r="158" rad="身" n="7"/>
+<entry r="159" rad="車 [车]" n="7"/>
+<entry r="160" rad="辛" n="7"/>
+<entry r="161" rad="辰" n="7"/>
+<entry r="162" rad="辵 (辶)" n="7" alt="0"/>
+<entry r="163" rad="邑 (⻏)" n="7" alt="0"/>
+<entry r="164" rad="酉" n="7"/>
+<entry r="165" rad="釆" n="7"/>
+<entry r="166" rad="里" n="7"/>
+<entry r="199" rad="麦 [麥]" n="7" alt="s"/>
+<entry r="213" rad="龟 [龜]" n="7" alt="s"/>
+<entry r="167" rad="金 [钅]" n="8" alt="0"/>
+<entry r="168" rad="長 [长]" n="8" alt="0"/>
+<entry r="169" rad="門 [门]" n="8" alt="0"/>
+<entry r="170" rad="阜 [⻏]" n="8" alt="0"/>
+<entry r="171" rad="隶" n="8"/>
+<entry r="172" rad="隹" n="8"/>
+<entry r="173" rad="雨" n="8"/>
+<entry r="174" rad="靑" n="8"/>
+<entry r="175" rad="非" n="8"/>
+<entry r="195" rad="鱼 [魚]" n="8" alt="s"/>
+<entry r="205" rad="黾 [黽]" n="8" alt="s"/>
+<entry r="208" rad="鼡 [鼠]" n="8" alt="s"/>
+<entry r="211" rad="齿 [齒]" n="8"/>
+<entry r="176" rad="面" n="9"/>
+<entry r="177" rad="革" n="9"/>
+<entry r="178" rad="韋 [韦]" n="9" alt="0"/>
+<entry r="179" rad="韭" n="9"/>
+<entry r="180" rad="音" n="9"/>
+<entry r="181" rad="頁 [页]" n="9" alt="0"/>
+<entry r="182" rad="風 [风]" n="9" alt="0"/>
+<entry r="183" rad="飛 [飞]" n="9" alt="0"/>
+<entry r="184" rad="食 (飠)[饣]" n="9" alt="0"/>
+<entry r="185" rad="首" n="9"/>
+<entry r="186" rad="香" n="9"/>
+<entry r="188" rad="骨" n="9"/>
+<entry r="187" rad="馬 [马]" n="10" alt="0"/>
+<entry r="188" rad="⾻⻣ (骨)" n="10"/>
+<entry r="189" rad="高" n="10"/>
+<entry r="190" rad="髟" n="10"/>
+<entry r="191" rad="鬥" n="10"/>
+<entry r="192" rad="鬯" n="10"/>
+<entry r="193" rad="鬲" n="10"/>
+<entry r="194" rad="鬼" n="10"/>
+<entry r="195" rad="魚 [鱼]" n="11" alt="0"/>
+<entry r="196" rad="鳥 [鸟]" n="11" alt="0"/>
+<entry r="197" rad="鹵" n="11"/>
+<entry r="198" rad="鹿" n="11"/>
+<entry r="199" rad="麥 [麦]" n="11"/>
+<entry r="200" rad="麻" n="11"/>
+<entry r="201" rad="黄 (黃)" n="11"/>
+<entry r="201" rad="黃 (黄)" n="12"/>
+<entry r="202" rad="黍" n="12"/>
+<entry r="203" rad="黑" n="12"/>
+<entry r="204" rad="黹" n="12"/>
+<entry r="205" rad="黽 [黾]" n="13" alt="0"/>
+<entry r="206" rad="鼎" n="13"/>
+<entry r="207" rad="鼓" n="13"/>
+<entry r="208" rad="鼠 [鼡]" n="13" alt="0"/>
+<entry r="209" rad="鼻" n="14"/>
+<entry r="210" rad="齊 [齐]" n="14" alt="0"/>
+<entry r="211" rad="齒 [齿]" n="15" alt="0"/>
+<entry r="212" rad="龍 [龙]" n="16" alt="0"/>
+<entry r="213" rad="龜 [龟]" n="16" alt="0"/>
+<entry r="214" rad="龠" n="17"/>
+</radicals>

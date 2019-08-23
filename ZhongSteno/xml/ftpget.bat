@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\GnuWin32\bin\wget.exe" -m -x --output-file="./logs/selectstaffing.log" --no-verbose --no-host-directories --cut-dirs="2" --directory-prefix="./downloads/" --user=sugarfoods --password="S0G@r4cds" "ftp://ftp.selectstaffing.com/cdsftpdata/SugarFoodsFTP/SampleData10_26.csv"

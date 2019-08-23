@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<BCPFORMAT xmlns="http://schemas.microsoft.com/sqlserver/2004/bulkload/format" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<RECORD>
+		<FIELD ID="1" xsi:type="NCharFixed" LENGTH="2" COLLATION="SQL_Latin1_General_CP850_BIN2"/>
+<!--
+		<FIELD ID="2" xsi:type="NCharPrefix" PREFIX_LENGTH="2" MAX_LENGTH="256" COLLATION="SQL_Latin1_General_CP1_CI_AS"/>
+-->
+		<FIELD ID="2" xsi:type="NCharTerm" TERMINATOR="\n\0" MAX_LENGTH="256" COLLATION="SQL_Latin1_General_CP1_CI_AS"/>
+	</RECORD>
+	<ROW>
+		<COLUMN SOURCE="1" NAME="glyph" xsi:type="SQLNVARCHAR"/>
+		<COLUMN SOURCE="2" NAME="pyn" xsi:type="SQLNVARCHAR"/>
+	</ROW>
+</BCPFORMAT>

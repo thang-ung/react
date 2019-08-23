@@ -1,0 +1,2605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="kanjie.xsl"?>
+<kanji category="simplified">
+<entry freq="A">1st set</entry>
+<entry freq="1" ji="碍(礙)">..</entry>
+<entry freq="2" ji="肮(骯)">..</entry>
+<entry freq="3" ji="袄(襖)">..</entry>
+<entry freq="B"/>
+<entry freq="4" ji="坝(壩)">..</entry>
+<entry freq="5" ji="板(闆)">..</entry>
+<entry freq="6" ji="办(辦)">..</entry>
+<entry freq="7" ji="帮(幫)">..</entry>
+<entry freq="8" ji="宝(寶)">..</entry>
+<entry freq="9" ji="报(報)">..</entry>
+<entry freq="10" ji="币(幣)">..</entry>
+<entry freq="11" ji="毙(斃)">..</entry>
+<entry freq="12" ji="标(標)">..</entry>
+<entry freq="13" ji="表(錶)">..</entry>
+<entry freq="14" ji="别(彆)">..</entry>
+<entry freq="15" ji="卜(蔔)">..</entry>
+<entry freq="16" ji="补(補)">..</entry>
+<entry freq="C"/>
+<entry freq="17" ji="才(纔)">..</entry>
+<entry freq="18" ji="蚕(蠶)">..</entry>
+<entry freq="19" ji="灿(燦)">..</entry>
+<entry freq="20" ji="层(層)">..</entry>
+<entry freq="21" ji="搀(攙)">..</entry>
+<entry freq="22" ji="谗(讒)">..</entry>
+<entry freq="23" ji="馋(饞)">..</entry>
+<entry freq="24" ji="缠(纏)">..</entry>
+<entry freq="25" ji="忏(懺)">..</entry>
+<entry freq="26" ji="偿(償)">..</entry>
+<entry freq="27" ji="厂(廠)">..</entry>
+<entry freq="28" ji="彻(徹)">..</entry>
+<entry freq="29" ji="尘(塵)">..</entry>
+<entry freq="30" ji="衬(襯)">..</entry>
+<entry freq="31" ji="称(稱)">..</entry>
+<entry freq="32" ji="惩(懲)">..</entry>
+<entry freq="33" ji="迟(遲)">..</entry>
+<entry freq="34" ji="冲(衝)">..</entry>
+<entry freq="35" ji="丑(醜)">..</entry>
+<entry freq="36" ji="出(齣)">..</entry>
+<entry freq="37" ji="础(礎)">..</entry>
+<entry freq="38" ji="处(處)">..</entry>
+<entry freq="39" ji="触(觸)">..</entry>
+<entry freq="40" ji="辞(辭)">..</entry>
+<entry freq="41" ji="聪(聰)">..</entry>
+<entry freq="42" ji="丛(叢)">..</entry>
+<entry freq="D"/>
+<entry freq="43" ji="担(擔)">..</entry>
+<entry freq="44" ji="胆(膽)">..</entry>
+<entry freq="45" ji="导(導)">..</entry>
+<entry freq="46" ji="灯(燈)">..</entry>
+<entry freq="47" ji="邓(鄧)">..</entry>
+<entry freq="48" ji="敌(敵)">..</entry>
+<entry freq="49" ji="籴(糴)">..</entry>
+<entry freq="50" ji="递(遞)">..</entry>
+<entry freq="51" ji="点(點)">..</entry>
+<entry freq="52" ji="淀(澱)">..</entry>
+<entry freq="53" ji="电(電)">..</entry>
+<entry freq="54" ji="冬(鼕)">..</entry>
+<entry freq="55" ji="斗(鬥)">..</entry>
+<entry freq="56" ji="独(獨)">..</entry>
+<entry freq="57" ji="吨(噸)">..</entry>
+<entry freq="58" ji="夺(奪)">..</entry>
+<entry freq="59" ji="堕(墮)">..</entry>
+<entry freq="E"/>
+<entry freq="60" ji="儿(兒)">..</entry>
+<entry freq="F"/>
+<entry freq="61" ji="矾(礬)">..</entry>
+<entry freq="62" ji="范(範)">..</entry>
+<entry freq="63" ji="飞(飛)">..</entry>
+<entry freq="64" ji="坟(墳)">..</entry>
+<entry freq="65" ji="奋(奮)">..</entry>
+<entry freq="66" ji="粪(糞)">..</entry>
+<entry freq="67" ji="凤(鳳)">..</entry>
+<entry freq="68" ji="肤(膚)">..</entry>
+<entry freq="69" ji="妇(婦)">..</entry>
+<entry freq="70" ji="复(復)">..</entry>
+<entry freq="71" ji="复(複)">..</entry>
+<entry freq="G"/>
+<entry freq="72" ji="盖(蓋)">..</entry>
+<entry freq="73" ji="干(乾)">..</entry>
+<entry freq="74" ji="干(幹)">..</entry>
+<entry freq="75" ji="赶(趕)">..</entry>
+<entry freq="76" ji="个(個)">..</entry>
+<entry freq="77" ji="巩(鞏)">..</entry>
+<entry freq="78" ji="沟(溝)">..</entry>
+<entry freq="79" ji="构(構)">..</entry>
+<entry freq="80" ji="购(購)">..</entry>
+<entry freq="81" ji="谷(榖)">..</entry>
+<entry freq="82" ji="顾(顧)">..</entry>
+<entry freq="83" ji="刮(颳)">..</entry>
+<entry freq="84" ji="关(關)">..</entry>
+<entry freq="85" ji="观(觀)">..</entry>
+<entry freq="86" ji="柜(櫃)">..</entry>
+<entry freq="H"/>
+<entry freq="87" ji="汉(漢)">..</entry>
+<entry freq="88" ji="号(號)">..</entry>
+<entry freq="89" ji="合(閤)">..</entry>
+<entry freq="90" ji="轰(轟)">..</entry>
+<entry freq="91" ji="后(後)">..</entry>
+<entry freq="92" ji="胡(鬍)">..</entry>
+<entry freq="93" ji="壶(壺)">..</entry>
+<entry freq="94" ji="沪(滬)">..</entry>
+<entry freq="95" ji="护(護)">..</entry>
+<entry freq="96" ji="划(劃)">..</entry>
+<entry freq="97" ji="怀(懷)">..</entry>
+<entry freq="98" ji="坏(壞)">..</entry>
+<entry freq="99" ji="欢(歡)">..</entry>
+<entry freq="100" ji="环(環)">..</entry>
+<entry freq="101" ji="还(還)">..</entry>
+<entry freq="102" ji="回(迴)">..</entry>
+<entry freq="103" ji="伙(夥)">..</entry>
+<entry freq="104" ji="获(獲)">..</entry>
+<entry freq="105" ji="获(穫)">..</entry>
+<entry freq="J"/>
+<entry freq="106" ji=" (击)">..</entry>
+<entry freq="107" ji=" (鸡)">..</entry>
+<entry freq="108" ji="积(積)">..</entry>
+<entry freq="109" ji="极(極)">..</entry>
+<entry freq="110" ji="际(際)">..</entry>
+<entry freq="111" ji="继(繼)">..</entry>
+<entry freq="112" ji="家(傢)">..</entry>
+<entry freq="113" ji="价(價)">..</entry>
+<entry freq="114" ji="艰(艱)">..</entry>
+<entry freq="115" ji="歼(殲)">..</entry>
+<entry freq="116" ji="茧(繭)">..</entry>
+<entry freq="117" ji="拣(揀)">..</entry>
+<entry freq="118" ji=" (硷)">..</entry>
+<entry freq="119" ji="舰(艦)">..</entry>
+<entry freq="120" ji="姜(薑)">..</entry>
+<entry freq="121" ji="浆(漿)">..</entry>
+<entry freq="122" ji="桨(槳)">..</entry>
+<entry freq="123" ji=" (奖)">..</entry>
+<entry freq="124" ji="讲(講)">..</entry>
+<entry freq="125" ji=" (酱)">..</entry>
+<entry freq="126" ji="胶(膠)">..</entry>
+<entry freq="127" ji="阶(階)">..</entry>
+<entry freq="128" ji="疖(癤)">..</entry>
+<entry freq="129" ji="洁(潔)">..</entry>
+<entry freq="130" ji="借(藉)">..</entry>
+<entry freq="131" ji="仅(僅)">..</entry>
+<entry freq="132" ji="惊(驚)">..</entry>
+<entry freq="133" ji="竞(競)">..</entry>
+<entry freq="134" ji="旧(舊)">..</entry>
+<entry freq="135" ji="剧(劇)">..</entry>
+<entry freq="136" ji="据(據)">..</entry>
+<entry freq="137" ji="惧(懼)">..</entry>
+<entry freq="138" ji="卷(捲)">..</entry>
+<entry freq="K"/>
+<entry freq="139" ji="开(開)">..</entry>
+<entry freq="140" ji="克(剋)">..</entry>
+<entry freq="141" ji="垦(墾)">..</entry>
+<entry freq="142" ji="恳(懇)">..</entry>
+<entry freq="143" ji="夸(誇)">..</entry>
+<entry freq="144" ji="块(塊)">..</entry>
+<entry freq="145" ji="亏(虧)">..</entry>
+<entry freq="146" ji="困(睏)">..</entry>
+<entry freq="L"/>
+<entry freq="147" ji="腊(臘)">..</entry>
+<entry freq="148" ji="蜡(蠟)">..</entry>
+<entry freq="149" ji="兰(蘭)">..</entry>
+<entry freq="150" ji="拦(攔)">..</entry>
+<entry freq="151" ji="栏(欄)">..</entry>
+<entry freq="152" ji="烂(爛)">..</entry>
+<entry freq="153" ji="累(纍)">..</entry>
+<entry freq="154" ji="垒(壘)">..</entry>
+<entry freq="155" ji="类(類)">..</entry>
+<entry freq="156" ji="里(裏)">..</entry>
+<entry freq="157" ji="礼(禮)">..</entry>
+<entry freq="158" ji="隶( )">..</entry>
+<entry freq="159" ji="帘(簾)">..</entry>
+<entry freq="160" ji="联(聯)">..</entry>
+<entry freq="161" ji="怜(憐)">..</entry>
+<entry freq="162" ji="炼(煉)">..</entry>
+<entry freq="163" ji="练(練)">..</entry>
+<entry freq="164" ji="粮(糧)">..</entry>
+<entry freq="165" ji="疗(療)">..</entry>
+<entry freq="166" ji="辽(遼)">..</entry>
+<entry freq="167" ji="了(瞭)">..</entry>
+<entry freq="168" ji="猎(獵)">..</entry>
+<entry freq="169" ji="临(臨)">..</entry>
+<entry freq="170" ji="邻(鄰)">..</entry>
+<entry freq="171" ji="岭(嶺)">..</entry>
+<entry freq="172" ji="庐(廬)">..</entry>
+<entry freq="173" ji="芦(蘆)">..</entry>
+<entry freq="174" ji="炉(爐)">..</entry>
+<entry freq="175" ji="陆(陸)">..</entry>
+<entry freq="176" ji="驴(驢)">..</entry>
+<entry freq="177" ji="乱(亂)">..</entry>
+<entry freq="M"/>
+<entry freq="178" ji="么( )">..</entry>
+<entry freq="179" ji="霉(黴)">..</entry>
+<entry freq="180" ji="蒙(矇)">..</entry>
+<entry freq="181" ji="蒙(濛)">..</entry>
+<entry freq="182" ji="蒙(懞)">..</entry>
+<entry freq="183" ji="梦(夢)">..</entry>
+<entry freq="184" ji="面(麵)">..</entry>
+<entry freq="185" ji="庙(廟)">..</entry>
+<entry freq="186" ji="灭(滅)">..</entry>
+<entry freq="187" ji="蔑(衊)">..</entry>
+<entry freq="188" ji="亩(畝)">..</entry>
+<entry freq="N"/>
+<entry freq="189" ji="恼(惱)">..</entry>
+<entry freq="190" ji="脑(腦)">..</entry>
+<entry freq="191" ji="拟(擬)">..</entry>
+<entry freq="192" ji="酿(釀)">..</entry>
+<entry freq="193" ji="疟(瘧)">..</entry>
+<entry freq="P"/>
+<entry freq="194" ji="盘(盤)">..</entry>
+<entry freq="195" ji="辟(闢)">..</entry>
+<entry freq="196" ji="苹(蘋)">..</entry>
+<entry freq="197" ji="凭(憑)">..</entry>
+<entry freq="198" ji="扑(撲)">..</entry>
+<entry freq="199" ji="仆(僕)">..</entry>
+<entry freq="200" ji="朴(樸)">..</entry>
+<entry freq="Q"/>
+<entry freq="201" ji="启( )">..</entry>
+<entry freq="202" ji="签(籤)">..</entry>
+<entry freq="203" ji="千(韆)">..</entry>
+<entry freq="204" ji="牵(牽)">..</entry>
+<entry freq="205" ji="纤(縴)">..</entry>
+<entry freq="206" ji="纤(纖)">..</entry>
+<entry freq="207" ji="窍(竅)">..</entry>
+<entry freq="208" ji="窃(竊)">..</entry>
+<entry freq="209" ji="寝(寢)">..</entry>
+<entry freq="210" ji="庆(慶)">..</entry>
+<entry freq="211" ji="琼(瓊)">..</entry>
+<entry freq="212" ji="秋(鞦)">..</entry>
+<entry freq="213" ji="曲( )">..</entry>
+<entry freq="214" ji="权(權)">..</entry>
+<entry freq="215" ji="劝(勸)">..</entry>
+<entry freq="216" ji="确(確)">..</entry>
+<entry freq="R"/>
+<entry freq="217" ji="让(讓)">..</entry>
+<entry freq="218" ji="扰(擾)">..</entry>
+<entry freq="219" ji="热(熱)">..</entry>
+<entry freq="220" ji="认(認)">..</entry>
+<entry freq="S"/>
+<entry freq="221" ji="洒(灑)">..</entry>
+<entry freq="222" ji="伞(傘)">..</entry>
+<entry freq="223" ji="丧(喪)">..</entry>
+<entry freq="224" ji="扫(掃)">..</entry>
+<entry freq="225" ji="涩(澀)">..</entry>
+<entry freq="226" ji="晒(曬)">..</entry>
+<entry freq="227" ji="伤(傷)">..</entry>
+<entry freq="228" ji="舍(捨)">..</entry>
+<entry freq="229" ji="沈(瀋)">..</entry>
+<entry freq="230" ji="声(聲)">..</entry>
+<entry freq="231" ji="胜(勝)">..</entry>
+<entry freq="232" ji="湿(濕)">..</entry>
+<entry freq="233" ji="实(實)">..</entry>
+<entry freq="234" ji="适(適)">..</entry>
+<entry freq="235" ji="势(勢)">..</entry>
+<entry freq="236" ji="兽(獸)">..</entry>
+<entry freq="237" ji="书(書)">..</entry>
+<entry freq="238" ji="术(術)">..</entry>
+<entry freq="239" ji="树(樹)">..</entry>
+<entry freq="240" ji="帅(帥)">..</entry>
+<entry freq="241" ji="松(鬆)">..</entry>
+<entry freq="242" ji="苏(蘇)">..</entry>
+<entry freq="243" ji="苏(囌)">..</entry>
+<entry freq="244" ji="虽(雖)">..</entry>
+<entry freq="245" ji="随(隨)">..</entry>
+<entry freq="T"/>
+<entry freq="246" ji="台(臺)">..</entry>
+<entry freq="247" ji="台(檯)">..</entry>
+<entry freq="248" ji="台(颱)">..</entry>
+<entry freq="249" ji="态(態)">..</entry>
+<entry freq="250" ji="坛(壇)">..</entry>
+<entry freq="251" ji="坛( )">..</entry>
+<entry freq="252" ji="叹(嘆)">..</entry>
+<entry freq="253" ji="誊(謄)">..</entry>
+<entry freq="254" ji="体(體)">..</entry>
+<entry freq="255" ji="粜(糶)">..</entry>
+<entry freq="256" ji="铁(鐵)">..</entry>
+<entry freq="257" ji="听(聽)">..</entry>
+<entry freq="258" ji="厅(廳)">..</entry>
+<entry freq="259" ji="头(頭)">..</entry>
+<entry freq="260" ji="图(圖)">..</entry>
+<entry freq="261" ji="涂(塗)">..</entry>
+<entry freq="262" ji="团(團)">..</entry>
+<entry freq="263" ji="团(糰)">..</entry>
+<entry freq="264" ji="椭(橢)">..</entry>
+<entry freq="W"/>
+<entry freq="265" ji="洼(窪)">..</entry>
+<entry freq="266" ji="袜(襪)">..</entry>
+<entry freq="267" ji="网(網)">..</entry>
+<entry freq="268" ji="卫(衛)">..</entry>
+<entry freq="269" ji="稳(穩)">..</entry>
+<entry freq="270" ji="务(務)">..</entry>
+<entry freq="271" ji="雾(霧)">..</entry>
+<entry freq="X"/>
+<entry freq="272" ji="牺(犧)">..</entry>
+<entry freq="273" ji="习(習)">..</entry>
+<entry freq="274" ji="系(係)">..</entry>
+<entry freq="275" ji="系(繫)">..</entry>
+<entry freq="276" ji="戏(戲)">..</entry>
+<entry freq="277" ji="虾(蝦)">..</entry>
+<entry freq="278" ji="吓(嚇)">..</entry>
+<entry freq="279" ji="咸(鹹)">..</entry>
+<entry freq="280" ji="显(顯)">..</entry>
+<entry freq="281" ji="宪(憲)">..</entry>
+<entry freq="282" ji="县(縣)">..</entry>
+<entry freq="283" ji="响(響)">..</entry>
+<entry freq="284" ji="向(嚮)">..</entry>
+<entry freq="285" ji="协(協)">..</entry>
+<entry freq="286" ji="胁(脅)">..</entry>
+<entry freq="287" ji="亵(褻)">..</entry>
+<entry freq="288" ji="衅(釁)">..</entry>
+<entry freq="289" ji="兴(興)">..</entry>
+<entry freq="290" ji="须(鬚)">..</entry>
+<entry freq="291" ji="悬(懸)">..</entry>
+<entry freq="292" ji="选(選)">..</entry>
+<entry freq="293" ji="旋(鏇)">..</entry>
+<entry freq="Y"/>
+<entry freq="294" ji="压(壓)">..</entry>
+<entry freq="295" ji="盐(鹽)">..</entry>
+<entry freq="296" ji="阳(陽)">..</entry>
+<entry freq="297" ji="养(養)">..</entry>
+<entry freq="298" ji="痒(癢)">..</entry>
+<entry freq="299" ji="样( )">..</entry>
+<entry freq="300" ji="钥(鑰)">..</entry>
+<entry freq="301" ji="药(藥)">..</entry>
+<entry freq="302" ji="爷(爺)">..</entry>
+<entry freq="303" ji="叶(葉)">..</entry>
+<entry freq="304" ji="医(醫)">..</entry>
+<entry freq="305" ji="亿(億)">..</entry>
+<entry freq="306" ji="忆(憶)">..</entry>
+<entry freq="307" ji="应(應)">..</entry>
+<entry freq="308" ji="痈(癰)">..</entry>
+<entry freq="309" ji="拥(擁)">..</entry>
+<entry freq="310" ji="佣(傭)">..</entry>
+<entry freq="311" ji="踊(踴)">..</entry>
+<entry freq="312" ji="忧(憂)">..</entry>
+<entry freq="313" ji="优(優)">..</entry>
+<entry freq="314" ji="邮(郵)">..</entry>
+<entry freq="315" ji="余(餘)">..</entry>
+<entry freq="316" ji="御(禦)">..</entry>
+<entry freq="317" ji="吁(籲)">..</entry>
+<entry freq="318" ji="郁(鬱)">..</entry>
+<entry freq="319" ji="誉(譽)">..</entry>
+<entry freq="320" ji="渊(淵)">..</entry>
+<entry freq="321" ji="园(園)">..</entry>
+<entry freq="322" ji="远(遠)">..</entry>
+<entry freq="323" ji="愿(願)">..</entry>
+<entry freq="324" ji="跃(躍)">..</entry>
+<entry freq="325" ji="运(運)">..</entry>
+<entry freq="326" ji="酝( )">..</entry>
+<entry freq="Z"/>
+<entry freq="327" ji="杂(雜)">..</entry>
+<entry freq="328" ji=" (赃)">..</entry>
+<entry freq="329" ji=" (脏)">..</entry>
+<entry freq="330" ji="脏(髒)">..</entry>
+<entry freq="331" ji="凿(鑿)">..</entry>
+<entry freq="332" ji="枣(棗)">..</entry>
+<entry freq="333" ji=" (灶)">..</entry>
+<entry freq="334" ji="斋(齋)">..</entry>
+<entry freq="335" ji="毡(氈)">..</entry>
+<entry freq="336" ji="战(戰)">..</entry>
+<entry freq="337" ji="赵(趙)">..</entry>
+<entry freq="338" ji="折(摺)">..</entry>
+<entry freq="339" ji="这(這)">..</entry>
+<entry freq="340" ji="征(徵)">..</entry>
+<entry freq="341" ji="症(癥)">..</entry>
+<entry freq="342" ji="证(證)">..</entry>
+<entry freq="343" ji="只(隻)">..</entry>
+<entry freq="344" ji="只(祗)">..</entry>
+<entry freq="345" ji="只(衹)">..</entry>
+<entry freq="346" ji="致(緻)">..</entry>
+<entry freq="347" ji="制(製)">..</entry>
+<entry freq="348" ji="钟(鐘)">..</entry>
+<entry freq="349" ji="钟(鍾)">..</entry>
+<entry freq="350" ji="肿(腫)">..</entry>
+<entry freq="351" ji="种(種)">..</entry>
+<entry freq="352" ji=" (众)">..</entry>
+<entry freq="353" ji="昼(晝)">..</entry>
+<entry freq="354" ji="朱(硃)">..</entry>
+<entry freq="355" ji="烛(燭)">..</entry>
+<entry freq="356" ji="筑(築)">..</entry>
+<entry freq="357" ji="庄(莊)">..</entry>
+<entry freq="358" ji="桩(樁)">..</entry>
+<entry freq="359" ji="妆(妝)">..</entry>
+<entry freq="360" ji="装(裝)">..</entry>
+<entry freq="361" ji="壮(壯)">..</entry>
+<entry freq="362" ji="状(狀)">..</entry>
+<entry freq="363" ji="准( )">..</entry>
+<entry freq="364" ji="浊(濁)">..</entry>
+<entry freq="365" ji="总(總)">..</entry>
+<entry freq="366" ji="钻(鑽)">..</entry>
+<entry freq="A">2nd set</entry>
+<entry freq="1" ji="爱(愛)">..</entry>
+<entry freq="B"/>
+<entry freq="2" ji="罢(罷)">..</entry>
+<entry freq="3" ji="备(備)">..</entry>
+<entry freq="4" ji="贝(貝)">..</entry>
+<entry freq="5" ji="笔(筆)">..</entry>
+<entry freq="6" ji="毕(畢)">..</entry>
+<entry freq="7" ji="边(邊)">..</entry>
+<entry freq="8" ji="宾(賓)">..</entry>
+<entry freq="C"/>
+<entry freq="9" ji="参(參)">..</entry>
+<entry freq="10" ji="仓(倉)">..</entry>
+<entry freq="11" ji="产( )">..</entry>
+<entry freq="12" ji="长(長)">..</entry>
+<entry freq="13" ji="尝(嘗)">..</entry>
+<entry freq="14" ji="车(車)">..</entry>
+<entry freq="15" ji="齿(齒)">..</entry>
+<entry freq="16" ji="虫(蟲)">..</entry>
+<entry freq="17" ji="刍(芻)">..</entry>
+<entry freq="18" ji="从(從)">..</entry>
+<entry freq="19" ji="窜(竄)">..</entry>
+<entry freq="D"/>
+<entry freq="20" ji="达(達)">..</entry>
+<entry freq="21" ji="带(帶)">..</entry>
+<entry freq="22" ji="单(單)">..</entry>
+<entry freq="23" ji="当(當)">..</entry>
+<entry freq="24" ji="当(噹)">..</entry>
+<entry freq="25" ji="党(黨)">..</entry>
+<entry freq="26" ji="东(東)">..</entry>
+<entry freq="27" ji="动(動)">..</entry>
+<entry freq="28" ji="断(斷)">..</entry>
+<entry freq="29" ji="对(對)">..</entry>
+<entry freq="30" ji="队(隊)">..</entry>
+<entry freq="E"/>
+<entry freq="31" ji="尔(爾)">..</entry>
+<entry freq="F"/>
+<entry freq="32" ji="发(發)">..</entry>
+<entry freq="33" ji="发(髮)">..</entry>
+<entry freq="34" ji="丰(豐)">..</entry>
+<entry freq="35" ji="风(風)">..</entry>
+<entry freq="G"/>
+<entry freq="36" ji="冈(岡)">..</entry>
+<entry freq="37" ji="广(廣)">..</entry>
+<entry freq="38" ji="归(歸)">..</entry>
+<entry freq="39" ji="龟(龜)">..</entry>
+<entry freq="40" ji="国(國)">..</entry>
+<entry freq="41" ji="过(過)">..</entry>
+<entry freq="H"/>
+<entry freq="42" ji="华(華)">..</entry>
+<entry freq="43" ji="画(畫)">..</entry>
+<entry freq="44" ji="汇(匯)">..</entry>
+<entry freq="45" ji="汇(彙)">..</entry>
+<entry freq="46" ji="会(會)">..</entry>
+<entry freq="J"/>
+<entry freq="47" ji="几(幾)">..</entry>
+<entry freq="48" ji="夹(夾)">..</entry>
+<entry freq="49" ji="戋(戔)">..</entry>
+<entry freq="50" ji="监(監)">..</entry>
+<entry freq="51" ji="见(見)">..</entry>
+<entry freq="52" ji="荐(薦)">..</entry>
+<entry freq="53" ji="将(將)">..</entry>
+<entry freq="54" ji="节(節)">..</entry>
+<entry freq="55" ji="尽(盡)">..</entry>
+<entry freq="56" ji="尽(儘)">..</entry>
+<entry freq="57" ji="进(進)">..</entry>
+<entry freq="58" ji="举(舉)">..</entry>
+<entry freq="K"/>
+<entry freq="59" ji="壳( )">..</entry>
+<entry freq="L"/>
+<entry freq="60" ji="来(來)">..</entry>
+<entry freq="61" ji="乐(樂)">..</entry>
+<entry freq="62" ji="离(離)">..</entry>
+<entry freq="63" ji="历(歷)">..</entry>
+<entry freq="64" ji="历(曆)">..</entry>
+<entry freq="65" ji="丽(麗)">..</entry>
+<entry freq="66" ji="两(兩)">..</entry>
+<entry freq="67" ji="灵(靈)">..</entry>
+<entry freq="68" ji="刘(劉)">..</entry>
+<entry freq="69" ji="龙(龍)">..</entry>
+<entry freq="70" ji="娄(婁)">..</entry>
+<entry freq="71" ji="卢(盧)">..</entry>
+<entry freq="72" ji="虏(虜)">..</entry>
+<entry freq="73" ji="卤(鹵)">..</entry>
+<entry freq="74" ji="卤(滷)">..</entry>
+<entry freq="75" ji="录( )">..</entry>
+<entry freq="76" ji="虑(慮)">..</entry>
+<entry freq="77" ji="仑(侖)">..</entry>
+<entry freq="78" ji="罗(羅)">..</entry>
+<entry freq="M"/>
+<entry freq="79" ji="马(馬)">..</entry>
+<entry freq="80" ji="买(買)">..</entry>
+<entry freq="81" ji="卖(賣)">..</entry>
+<entry freq="82" ji="麦(麥)">..</entry>
+<entry freq="83" ji="门(門)">..</entry>
+<entry freq="84" ji="黾(黽)">..</entry>
+<entry freq="N"/>
+<entry freq="85" ji="难(難)">..</entry>
+<entry freq="86" ji="鸟(鳥)">..</entry>
+<entry freq="87" ji="聂(聶)">..</entry>
+<entry freq="88" ji="宁( )">..</entry>
+<entry freq="89" ji="农(農)">..</entry>
+<entry freq="Q"/>
+<entry freq="90" ji="齐(齊)">..</entry>
+<entry freq="91" ji="岂(豈)">..</entry>
+<entry freq="92" ji="气(氣)">..</entry>
+<entry freq="93" ji="迁(遷)">..</entry>
+<entry freq="94" ji="佥(僉)">..</entry>
+<entry freq="95" ji="乔(喬)">..</entry>
+<entry freq="96" ji="亲(親)">..</entry>
+<entry freq="97" ji="穷(窮)">..</entry>
+<entry freq="98" ji="区(區)">..</entry>
+<entry freq="S"/>
+<entry freq="99" ji="啬(嗇)">..</entry>
+<entry freq="100" ji="杀(殺)">..</entry>
+<entry freq="101" ji="审(審)">..</entry>
+<entry freq="102" ji="圣(聖)">..</entry>
+<entry freq="103" ji="师(師)">..</entry>
+<entry freq="104" ji="时(時)">..</entry>
+<entry freq="105" ji="寿( )">..</entry>
+<entry freq="106" ji="属(屬)">..</entry>
+<entry freq="107" ji="双(雙)">..</entry>
+<entry freq="108" ji="肃(肅)">..</entry>
+<entry freq="109" ji="岁( )">..</entry>
+<entry freq="110" ji="孙(孫)">..</entry>
+<entry freq="T"/>
+<entry freq="111" ji="条(條)">..</entry>
+<entry freq="W"/>
+<entry freq="112" ji="万(萬)">..</entry>
+<entry freq="113" ji="为(為)">..</entry>
+<entry freq="114" ji="韦(韋)">..</entry>
+<entry freq="115" ji="乌(烏)">..</entry>
+<entry freq="116" ji="无(無)">..</entry>
+<entry freq="X"/>
+<entry freq="117" ji="献(獻)">..</entry>
+<entry freq="118" ji="乡(鄉)">..</entry>
+<entry freq="119" ji="写(寫)">..</entry>
+<entry freq="120" ji="寻(尋)">..</entry>
+<entry freq="Y"/>
+<entry freq="121" ji="亚(亞)">..</entry>
+<entry freq="122" ji="严(嚴)">..</entry>
+<entry freq="123" ji="厌(厭)">..</entry>
+<entry freq="124" ji="尧(堯)">..</entry>
+<entry freq="125" ji="业(業)">..</entry>
+<entry freq="126" ji="页(頁)">..</entry>
+<entry freq="127" ji="义(義)">..</entry>
+<entry freq="128" ji="艺( )">..</entry>
+<entry freq="129" ji="阴(陰)">..</entry>
+<entry freq="130" ji="隐(隱)">..</entry>
+<entry freq="131" ji="犹(猶)">..</entry>
+<entry freq="132" ji="鱼(魚)">..</entry>
+<entry freq="133" ji="与(與)">..</entry>
+<entry freq="134" ji="云(雲)">..</entry>
+<entry freq="Z"/>
+<entry freq="135" ji="郑(鄭)">..</entry>
+<entry freq="136" ji="执(執)">..</entry>
+<entry freq="137" ji="质(質)">..</entry>
+<entry freq="138" ji="专(專)">..</entry>
+<entry freq="爱">3rd set</entry>
+<entry freq="1" ji="嗳(噯)">..</entry>
+<entry freq="2" ji="嫒(嬡)">..</entry>
+<entry freq="3" ji=" (靉)">..</entry>
+<entry freq="4" ji="瑷(璦)">..</entry>
+<entry freq="5" ji="暧(曖)">..</entry>
+<entry freq="罢"/>
+<entry freq="6" ji="摆(擺)">..</entry>
+<entry freq="7" ji="摆(襬)">..</entry>
+<entry freq="8" ji="罴(羆)">..</entry>
+<entry freq="9" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="备"/>
+<entry freq="10" ji="惫(憊)">..</entry>
+<entry freq="贝"/>
+<entry freq="11" ji="贞(貞)">..</entry>
+<entry freq="12" ji="则(則)">..</entry>
+<entry freq="13" ji="负(負)">..</entry>
+<entry freq="14" ji="贡(貢)">..</entry>
+<entry freq="15" ji="呗(唄)">..</entry>
+<entry freq="16" ji="员(員)">..</entry>
+<entry freq="17" ji="财(財)">..</entry>
+<entry freq="18" ji="狈(狽)">..</entry>
+<entry freq="19" ji="责(責)">..</entry>
+<entry freq="20" ji="厕( )">..</entry>
+<entry freq="21" ji="贤(賢)">..</entry>
+<entry freq="22" ji="账(賬)">..</entry>
+<entry freq="23" ji="贩(販)">..</entry>
+<entry freq="24" ji="贬(貶)">..</entry>
+<entry freq="25" ji="败(敗)">..</entry>
+<entry freq="26" ji="贮(貯)">..</entry>
+<entry freq="27" ji="贪(貪)">..</entry>
+<entry freq="28" ji="贫(貧)">..</entry>
+<entry freq="29" ji="侦(偵)">..</entry>
+<entry freq="30" ji="侧(側)">..</entry>
+<entry freq="31" ji="货(貨)">..</entry>
+<entry freq="32" ji="贯(貫)">..</entry>
+<entry freq="33" ji="测(測)">..</entry>
+<entry freq="34" ji="浈(湞)">..</entry>
+<entry freq="35" ji="恻(惻)">..</entry>
+<entry freq="36" ji="贰(貳)">..</entry>
+<entry freq="37" ji="贲(賁)">..</entry>
+<entry freq="38" ji="贳(貰)">..</entry>
+<entry freq="39" ji="费(費)">..</entry>
+<entry freq="40" ji="郧(鄖)">..</entry>
+<entry freq="41" ji="勋(勛)">..</entry>
+<entry freq="42" ji="帧(幀)">..</entry>
+<entry freq="43" ji="贴(貼)">..</entry>
+<entry freq="44" ji="贶(貺)">..</entry>
+<entry freq="45" ji="贻(貽)">..</entry>
+<entry freq="46" ji="贱(賤)">..</entry>
+<entry freq="47" ji="贵(貴)">..</entry>
+<entry freq="48" ji="钡(鋇)">..</entry>
+<entry freq="49" ji="贷(貸)">..</entry>
+<entry freq="50" ji="贸(貿)">..</entry>
+<entry freq="51" ji="贺(賀)">..</entry>
+<entry freq="52" ji="陨(隕)">..</entry>
+<entry freq="53" ji=" (溳)">..</entry>
+<entry freq="54" ji="资(資)">..</entry>
+<entry freq="55" ji="祯(禎)">..</entry>
+<entry freq="56" ji="贾(賈)">..</entry>
+<entry freq="57" ji="损(損)">..</entry>
+<entry freq="58" ji="贽(贄)">..</entry>
+<entry freq="59" ji="埙(塤)">..</entry>
+<entry freq="60" ji="桢(楨)">..</entry>
+<entry freq="61" ji=" (嗊)">..</entry>
+<entry freq="62" ji="唢(嗩)">..</entry>
+<entry freq="63" ji="赅(賅)">..</entry>
+<entry freq="64" ji="圆(圓)">..</entry>
+<entry freq="65" ji="贼(賊)">..</entry>
+<entry freq="66" ji="贿(賄)">..</entry>
+<entry freq="67" ji="赆(贐)">..</entry>
+<entry freq="68" ji="赂(賂)">..</entry>
+<entry freq="69" ji="债(債)">..</entry>
+<entry freq="70" ji="赁(賃)">..</entry>
+<entry freq="71" ji="渍(漬)">..</entry>
+<entry freq="72" ji="惯(慣)">..</entry>
+<entry freq="73" ji="琐(瑣)">..</entry>
+<entry freq="74" ji="赉(賚)">..</entry>
+<entry freq="75" ji="匮(匱)">..</entry>
+<entry freq="76" ji="掼(摜)">..</entry>
+<entry freq="77" ji="殒(殞)">..</entry>
+<entry freq="78" ji=" (勩)">..</entry>
+<entry freq="79" ji="赈(賑)">..</entry>
+<entry freq="80" ji="婴(嬰)">..</entry>
+<entry freq="81" ji="啧(嘖)">..</entry>
+<entry freq="82" ji="赊(賒)">..</entry>
+<entry freq="83" ji="帻(幘)">..</entry>
+<entry freq="84" ji="偾(僨)">..</entry>
+<entry freq="85" ji="铡(鍘)">..</entry>
+<entry freq="86" ji="绩(績)">..</entry>
+<entry freq="87" ji="溃(潰)">..</entry>
+<entry freq="88" ji="溅(濺)">..</entry>
+<entry freq="89" ji="赓(賡)">..</entry>
+<entry freq="90" ji="愦(憒)">..</entry>
+<entry freq="91" ji="愤(憤)">..</entry>
+<entry freq="92" ji="蒉(蕢)">..</entry>
+<entry freq="93" ji="赍( )">..</entry>
+<entry freq="94" ji="蒇(蕆)">..</entry>
+<entry freq="95" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="96" ji="赔(賠)">..</entry>
+<entry freq="97" ji="赕(賧)">..</entry>
+<entry freq="98" ji="遗(遺)">..</entry>
+<entry freq="99" ji="赋(賦)">..</entry>
+<entry freq="100" ji="喷(噴)">..</entry>
+<entry freq="101" ji="赌(賭)">..</entry>
+<entry freq="102" ji="赎(贖)">..</entry>
+<entry freq="103" ji="赏(賞)">..</entry>
+<entry freq="104" ji="赐(賜)">..</entry>
+<entry freq="105" ji=" (賙)">..</entry>
+<entry freq="106" ji="锁(鎖)">..</entry>
+<entry freq="107" ji="馈(饋)">..</entry>
+<entry freq="108" ji="赖(賴)">..</entry>
+<entry freq="109" ji=" (赬)">..</entry>
+<entry freq="110" ji="碛(磧)">..</entry>
+<entry freq="111" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="112" ji=" (賵)">..</entry>
+<entry freq="113" ji="腻(膩)">..</entry>
+<entry freq="114" ji="赛(賽)">..</entry>
+<entry freq="115" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="116" ji="赘(贅)">..</entry>
+<entry freq="117" ji="撄(攖)">..</entry>
+<entry freq="118" ji=" (檟)">..</entry>
+<entry freq="119" ji="嘤(嚶)">..</entry>
+<entry freq="120" ji="赚(賺)">..</entry>
+<entry freq="121" ji="赙(賻)">..</entry>
+<entry freq="122" ji="罂(罌)">..</entry>
+<entry freq="123" ji="镄(鐨)">..</entry>
+<entry freq="124" ji="箦(簀)">..</entry>
+<entry freq="125" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="126" ji="缨(纓)">..</entry>
+<entry freq="127" ji="璎(瓔)">..</entry>
+<entry freq="128" ji="聩(聵)">..</entry>
+<entry freq="129" ji="樱(櫻)">..</entry>
+<entry freq="130" ji="赜(賾)">..</entry>
+<entry freq="131" ji="篑(簣)">..</entry>
+<entry freq="132" ji="濑(瀨)">..</entry>
+<entry freq="133" ji="瘿(癭)">..</entry>
+<entry freq="134" ji="懒(懶)">..</entry>
+<entry freq="135" ji="赝( )">..</entry>
+<entry freq="136" ji=" (豶)">..</entry>
+<entry freq="137" ji="赠(贈)">..</entry>
+<entry freq="138" ji="鹦(鸚)">..</entry>
+<entry freq="139" ji="獭(獺)">..</entry>
+<entry freq="140" ji="赞(贊)">..</entry>
+<entry freq="141" ji="赢(贏)">..</entry>
+<entry freq="142" ji="赡(贍)">..</entry>
+<entry freq="143" ji="癞(癩)">..</entry>
+<entry freq="144" ji="攒(攢)">..</entry>
+<entry freq="145" ji="籁(籟)">..</entry>
+<entry freq="146" ji="缵(纘)">..</entry>
+<entry freq="147" ji="瓒(瓚)">..</entry>
+<entry freq="148" ji=" (臢)">..</entry>
+<entry freq="149" ji="赣(贛)">..</entry>
+<entry freq="150" ji="趱(趲)">..</entry>
+<entry freq="151" ji="躜(躦)">..</entry>
+<entry freq="152" ji="戆(戇)">..</entry>
+<entry freq="153" ji="滗(潷)">..</entry>
+<entry freq="毕"/>
+<entry freq="154" ji="荜(蓽)">..</entry>
+<entry freq="155" ji="哔(嗶)">..</entry>
+<entry freq="156" ji="筚(篳)">..</entry>
+<entry freq="157" ji="跸(蹕)">..</entry>
+<entry freq="边"/>
+<entry freq="158" ji="笾(籩)">..</entry>
+<entry freq="宾"/>
+<entry freq="159" ji="傧(儐)">..</entry>
+<entry freq="160" ji="滨(濱)">..</entry>
+<entry freq="161" ji="摈(擯)">..</entry>
+<entry freq="162" ji="嫔(嬪)">..</entry>
+<entry freq="163" ji="缤(繽)">..</entry>
+<entry freq="164" ji="殡(殯)">..</entry>
+<entry freq="165" ji="槟(檳)">..</entry>
+<entry freq="166" ji="膑(臏)">..</entry>
+<entry freq="167" ji="镔(鑌)">..</entry>
+<entry freq="168" ji="髌(髕)">..</entry>
+<entry freq="169" ji="鬓(鬢)">..</entry>
+<entry freq="参"/>
+<entry freq="170" ji="渗(滲)">..</entry>
+<entry freq="171" ji="惨(慘)">..</entry>
+<entry freq="172" ji="掺(摻)">..</entry>
+<entry freq="173" ji="骖(驂)">..</entry>
+<entry freq="174" ji="毵(毿)">..</entry>
+<entry freq="175" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="176" ji="碜(磣)">..</entry>
+<entry freq="177" ji=" (穇)">..</entry>
+<entry freq="178" ji="糁(糝)">..</entry>
+<entry freq="仓"/>
+<entry freq="179" ji="伧(傖)">..</entry>
+<entry freq="180" ji="创(創)">..</entry>
+<entry freq="181" ji="沧(滄)">..</entry>
+<entry freq="182" ji="怆(愴)">..</entry>
+<entry freq="183" ji="苍(蒼)">..</entry>
+<entry freq="184" ji="抢(搶)">..</entry>
+<entry freq="185" ji="呛(嗆)">..</entry>
+<entry freq="186" ji="炝(熗)">..</entry>
+<entry freq="187" ji=" (瑲)">..</entry>
+<entry freq="188" ji="枪(槍)">..</entry>
+<entry freq="189" ji="戗(戧)">..</entry>
+<entry freq="190" ji="疮(瘡)">..</entry>
+<entry freq="191" ji=" (鶬)">..</entry>
+<entry freq="192" ji="舱(艙)">..</entry>
+<entry freq="193" ji="跄(蹌)">..</entry>
+<entry freq="产"/>
+<entry freq="194" ji=" (滻)">..</entry>
+<entry freq="195" ji="萨(薩)">..</entry>
+<entry freq="196" ji="铲(鏟)">..</entry>
+<entry freq="25"/>
+<entry freq="长"/>
+<entry freq="197" ji="伥(倀)">..</entry>
+<entry freq="198" ji="怅(悵)">..</entry>
+<entry freq="199" ji="帐(帳)">..</entry>
+<entry freq="200" ji="张(張)">..</entry>
+<entry freq="201" ji="枨(棖)">..</entry>
+<entry freq="202" ji="账(賬)">..</entry>
+<entry freq="203" ji="胀(脹)">..</entry>
+<entry freq="204" ji="涨(漲)">..</entry>
+<entry freq="尝"/>
+<entry freq="205" ji=" (鱨)">..</entry>
+<entry freq="车"/>
+<entry freq="206" ji="轧(軋)">..</entry>
+<entry freq="207" ji="军(軍)">..</entry>
+<entry freq="208" ji="轨(軌)">..</entry>
+<entry freq="209" ji="厍(厙)">..</entry>
+<entry freq="210" ji="阵(陣)">..</entry>
+<entry freq="211" ji="库(庫)">..</entry>
+<entry freq="212" ji="连(連)">..</entry>
+<entry freq="213" ji="轩(軒)">..</entry>
+<entry freq="214" ji="诨(諢)">..</entry>
+<entry freq="215" ji="郓(鄆)">..</entry>
+<entry freq="216" ji="轫(軔)">..</entry>
+<entry freq="217" ji="轭(軛)">..</entry>
+<entry freq="218" ji="匦(匭)">..</entry>
+<entry freq="219" ji="转(轉)">..</entry>
+<entry freq="220" ji="轮(輪)">..</entry>
+<entry freq="221" ji="斩(斬)">..</entry>
+<entry freq="222" ji="软(軟)">..</entry>
+<entry freq="223" ji="浑(渾)">..</entry>
+<entry freq="224" ji="恽(惲)">..</entry>
+<entry freq="225" ji="砗(硨)">..</entry>
+<entry freq="226" ji="轶(軼)">..</entry>
+<entry freq="227" ji="轲(軻)">..</entry>
+<entry freq="228" ji="轱( )">..</entry>
+<entry freq="229" ji="轷( )">..</entry>
+<entry freq="230" ji="轻(輕)">..</entry>
+<entry freq="231" ji="轳(轤)">..</entry>
+<entry freq="232" ji="轴(軸)">..</entry>
+<entry freq="233" ji="挥(揮)">..</entry>
+<entry freq="234" ji="荤(葷)">..</entry>
+<entry freq="235" ji="轹(轢)">..</entry>
+<entry freq="236" ji="轸(軫)">..</entry>
+<entry freq="237" ji="轺(軺)">..</entry>
+<entry freq="238" ji="涟(漣)">..</entry>
+<entry freq="239" ji="珲(琿)">..</entry>
+<entry freq="240" ji="载(載)">..</entry>
+<entry freq="241" ji="莲(蓮)">..</entry>
+<entry freq="242" ji="较(較)">..</entry>
+<entry freq="243" ji="轼(軾)">..</entry>
+<entry freq="244" ji="轾(輊)">..</entry>
+<entry freq="245" ji="辂(輅)">..</entry>
+<entry freq="246" ji="轿(轎)">..</entry>
+<entry freq="247" ji="晕(暈)">..</entry>
+<entry freq="248" ji="渐(漸)">..</entry>
+<entry freq="249" ji="惭(慚)">..</entry>
+<entry freq="250" ji="皲(皸)">..</entry>
+<entry freq="251" ji="琏(璉)">..</entry>
+<entry freq="252" ji="辅(輔)">..</entry>
+<entry freq="253" ji="辄(輒)">..</entry>
+<entry freq="254" ji="辆(輛)">..</entry>
+<entry freq="255" ji="堑(塹)">..</entry>
+<entry freq="256" ji="啭(囀)">..</entry>
+<entry freq="257" ji="崭(嶄)">..</entry>
+<entry freq="258" ji="裤(褲)">..</entry>
+<entry freq="259" ji="裢(褳)">..</entry>
+<entry freq="260" ji="辇(輦)">..</entry>
+<entry freq="261" ji="辋(輞)">..</entry>
+<entry freq="262" ji="辍(輟)">..</entry>
+<entry freq="263" ji="辊(輥)">..</entry>
+<entry freq="264" ji="椠(槧)">..</entry>
+<entry freq="265" ji="辎(輜)">..</entry>
+<entry freq="266" ji="暂(暫)">..</entry>
+<entry freq="267" ji="辉(輝)">..</entry>
+<entry freq="268" ji="辈(輩)">..</entry>
+<entry freq="269" ji="链(鏈)">..</entry>
+<entry freq="270" ji=" (翬)">..</entry>
+<entry freq="271" ji="辏(輳)">..</entry>
+<entry freq="272" ji="辐(輻)">..</entry>
+<entry freq="273" ji="辑(輯)">..</entry>
+<entry freq="274" ji="输(輸)">..</entry>
+<entry freq="275" ji="毂(轂)">..</entry>
+<entry freq="276" ji="辔(轡)">..</entry>
+<entry freq="277" ji="辖(轄)">..</entry>
+<entry freq="278" ji="辕(轅)">..</entry>
+<entry freq="279" ji="辗(輾)">..</entry>
+<entry freq="280" ji="舆(輿)">..</entry>
+<entry freq="281" ji="辘(轆)">..</entry>
+<entry freq="282" ji="撵(攆)">..</entry>
+<entry freq="283" ji="鲢(鰱)">..</entry>
+<entry freq="284" ji="辙(轍)">..</entry>
+<entry freq="285" ji="錾(鏨)">..</entry>
+<entry freq="286" ji="辚(轔)">..</entry>
+<entry freq="齿"/>
+<entry freq="287" ji="龀(齔)">..</entry>
+<entry freq="288" ji="啮(嚙)">..</entry>
+<entry freq="289" ji="龆(齠)">..</entry>
+<entry freq="290" ji="龅(齙)">..</entry>
+<entry freq="291" ji="龃(齟)">..</entry>
+<entry freq="292" ji="龄(齡)">..</entry>
+<entry freq="293" ji="龇(齜)">..</entry>
+<entry freq="294" ji="龈(齦)">..</entry>
+<entry freq="295" ji="龉(齬)">..</entry>
+<entry freq="296" ji="龊(齪)">..</entry>
+<entry freq="297" ji="龌(齷)">..</entry>
+<entry freq="298" ji="龋(齲)">..</entry>
+<entry freq="虫"/>
+<entry freq="299" ji="蛊(蠱)">..</entry>
+<entry freq="28"/>
+<entry freq="刍"/>
+<entry freq="300" ji="诌(謅)">..</entry>
+<entry freq="301" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="302" ji="邹(鄒)">..</entry>
+<entry freq="303" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="304" ji="驺(騶)">..</entry>
+<entry freq="305" ji="绉(縐)">..</entry>
+<entry freq="306" ji="皱(皺)">..</entry>
+<entry freq="307" ji="趋(趨)">..</entry>
+<entry freq="308" ji="雏(雛)">..</entry>
+<entry freq="309" ji="苁(蓯)">..</entry>
+<entry freq="310" ji="纵(縱)">..</entry>
+<entry freq="311" ji="枞(樅)">..</entry>
+<entry freq="312" ji="怂(慫)">..</entry>
+<entry freq="313" ji="耸(聳)">..</entry>
+<entry freq="从"/>
+<entry freq="窜"/>
+<entry freq="314" ji="撺(攛)">..</entry>
+<entry freq="315" ji="镩( )">..</entry>
+<entry freq="316" ji="蹿(躥)">..</entry>
+<entry freq="达"/>
+<entry freq="317" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="318" ji="闼(闥)">..</entry>
+<entry freq="319" ji="挞(撻)">..</entry>
+<entry freq="320" ji="哒(噠)">..</entry>
+<entry freq="321" ji="鞑(韃)">..</entry>
+<entry freq="带"/>
+<entry freq="322" ji="滞(滯)">..</entry>
+<entry freq="29"/>
+<entry freq="单"/>
+<entry freq="323" ji="郸(鄲)">..</entry>
+<entry freq="324" ji="惮(憚)">..</entry>
+<entry freq="325" ji="阐(闡)">..</entry>
+<entry freq="326" ji="掸(撣)">..</entry>
+<entry freq="327" ji="弹(彈)">..</entry>
+<entry freq="328" ji="婵(嬋)">..</entry>
+<entry freq="329" ji="禅(禪)">..</entry>
+<entry freq="330" ji="殚(殫)">..</entry>
+<entry freq="331" ji="瘅(癉)">..</entry>
+<entry freq="332" ji="蝉(蟬)">..</entry>
+<entry freq="333" ji="箪(簞)">..</entry>
+<entry freq="334" ji="蕲(蘄)">..</entry>
+<entry freq="335" ji="冁(囅)">..</entry>
+<entry freq="336" ji="挡(擋)">..</entry>
+<entry freq="337" ji="档(檔)">..</entry>
+<entry freq="338" ji="裆(襠)">..</entry>
+<entry freq="339" ji="铛(鐺)">..</entry>
+<entry freq="当"/>
+<entry freq="党"/>
+<entry freq="340" ji="谠(讜)">..</entry>
+<entry freq="341" ji="傥(儻)">..</entry>
+<entry freq="342" ji=" (钂)">..</entry>
+<entry freq="东"/>
+<entry freq="343" ji="冻(凍)">..</entry>
+<entry freq="344" ji="陈(陳)">..</entry>
+<entry freq="345" ji="岽( )">..</entry>
+<entry freq="346" ji="栋(棟)">..</entry>
+<entry freq="347" ji="胨( )">..</entry>
+<entry freq="348" ji="鸫(鶇)">..</entry>
+<entry freq="动"/>
+<entry freq="349" ji="恸(慟)">..</entry>
+<entry freq="断"/>
+<entry freq="350" ji="簖(籪)">..</entry>
+<entry freq="对"/>
+<entry freq="351" ji="怼(懟)">..</entry>
+<entry freq="队"/>
+<entry freq="352" ji="坠(墜)">..</entry>
+<entry freq="尔"/>
+<entry freq="353" ji="迩(邇)">..</entry>
+<entry freq="354" ji="弥(彌)">..</entry>
+<entry freq="355" ji="弥(瀰)">..</entry>
+<entry freq="356" ji="祢(禰)">..</entry>
+<entry freq="357" ji="玺( )">..</entry>
+<entry freq="358" ji="猕(獼)">..</entry>
+<entry freq="发"/>
+<entry freq="359" ji="泼(潑)">..</entry>
+<entry freq="360" ji="废(廢)">..</entry>
+<entry freq="361" ji="拨(撥)">..</entry>
+<entry freq="362" ji=" (鏺)">..</entry>
+<entry freq="丰"/>
+<entry freq="363" ji="沣(灃)">..</entry>
+<entry freq="364" ji="艳( )">..</entry>
+<entry freq="365" ji="滟( )">..</entry>
+<entry freq="风"/>
+<entry freq="366" ji="讽(諷)">..</entry>
+<entry freq="367" ji=" (渢)">..</entry>
+<entry freq="368" ji="岚(嵐)">..</entry>
+<entry freq="369" ji="枫(楓)">..</entry>
+<entry freq="370" ji="疯(瘋)">..</entry>
+<entry freq="371" ji="飒(颯)">..</entry>
+<entry freq="372" ji="砜( )">..</entry>
+<entry freq="373" ji="飓(颶)">..</entry>
+<entry freq="374" ji=" (颸)">..</entry>
+<entry freq="375" ji="飕(颼)">..</entry>
+<entry freq="376" ji=" (飀)">..</entry>
+<entry freq="377" ji="飘(飄)">..</entry>
+<entry freq="378" ji="飙(飆)">..</entry>
+<entry freq="379" ji="刚(剛)">..</entry>
+<entry freq="380" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="381" ji="岗(崗)">..</entry>
+<entry freq="382" ji="纲(綱)">..</entry>
+<entry freq="383" ji=" (棡)">..</entry>
+<entry freq="384" ji="钢(鋼)">..</entry>
+<entry freq="385" ji="邝(鄺)">..</entry>
+<entry freq="386" ji="圹(壙)">..</entry>
+<entry freq="387" ji="扩(擴)">..</entry>
+<entry freq="388" ji="犷(獷)">..</entry>
+<entry freq="冈"/>
+<entry freq="广"/>
+<entry freq="389" ji="纩(纊)">..</entry>
+<entry freq="390" ji="旷(曠)">..</entry>
+<entry freq="391" ji="矿(礦)">..</entry>
+<entry freq="归"/>
+<entry freq="392" ji="岿(巋)">..</entry>
+<entry freq="龟"/>
+<entry freq="393" ji="阄(鬮)">..</entry>
+<entry freq="国"/>
+<entry freq="394" ji="掴(摑)">..</entry>
+<entry freq="395" ji="帼(幗)">..</entry>
+<entry freq="396" ji=" (膕)">..</entry>
+<entry freq="397" ji="蝈(蟈)">..</entry>
+<entry freq="398" ji="挝(撾)">..</entry>
+<entry freq="华"/>
+<entry freq="399" ji="哗(嘩)">..</entry>
+<entry freq="400" ji="骅(驊)">..</entry>
+<entry freq="401" ji="烨(燁)">..</entry>
+<entry freq="402" ji="桦(樺)">..</entry>
+<entry freq="403" ji="晔(曄)">..</entry>
+<entry freq="404" ji="铧(鏵)">..</entry>
+<entry freq="画"/>
+<entry freq="405" ji=" (嫿)">..</entry>
+<entry freq="汇"/>
+<entry freq="406" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="会"/>
+<entry freq="407" ji="刽(劊)">..</entry>
+<entry freq="408" ji="郐(鄶)">..</entry>
+<entry freq="409" ji="侩(儈)">..</entry>
+<entry freq="410" ji="浍(澮)">..</entry>
+<entry freq="411" ji="荟(薈)">..</entry>
+<entry freq="412" ji="哙(噲)">..</entry>
+<entry freq="413" ji="狯(獪)">..</entry>
+<entry freq="414" ji="绘(繪)">..</entry>
+<entry freq="415" ji="烩(燴)">..</entry>
+<entry freq="416" ji="桧(檜)">..</entry>
+<entry freq="417" ji="脍(膾)">..</entry>
+<entry freq="418" ji=" (鱠)">..</entry>
+<entry freq="几"/>
+<entry freq="419" ji="讥(譏)">..</entry>
+<entry freq="420" ji="叽(嘰)">..</entry>
+<entry freq="421" ji="饥(饑)">..</entry>
+<entry freq="422" ji="机(機)">..</entry>
+<entry freq="423" ji="玑(璣)">..</entry>
+<entry freq="424" ji="矶(磯)">..</entry>
+<entry freq="425" ji="虮(蟣)">..</entry>
+<entry freq="夹"/>
+<entry freq="426" ji="郏(郟)">..</entry>
+<entry freq="427" ji="侠(俠)">..</entry>
+<entry freq="428" ji="陕(陝)">..</entry>
+<entry freq="429" ji="浃(浹)">..</entry>
+<entry freq="430" ji="挟(挾)">..</entry>
+<entry freq="431" ji="荚(莢)">..</entry>
+<entry freq="432" ji="峡(峽)">..</entry>
+<entry freq="433" ji="狭(狹)">..</entry>
+<entry freq="434" ji="惬(愜)">..</entry>
+<entry freq="435" ji="硖(硤)">..</entry>
+<entry freq="436" ji="铗(鋏)">..</entry>
+<entry freq="437" ji="颊(頰)">..</entry>
+<entry freq="438" ji="蛱(蛺)">..</entry>
+<entry freq="439" ji="瘗(瘞)">..</entry>
+<entry freq="440" ji="箧(篋)">..</entry>
+<entry freq="441" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="戋"/>
+<entry freq="442" ji="浅(淺)">..</entry>
+<entry freq="443" ji="饯(餞)">..</entry>
+<entry freq="444" ji="线( )">..</entry>
+<entry freq="445" ji="残(殘)">..</entry>
+<entry freq="446" ji="栈(棧)">..</entry>
+<entry freq="447" ji="贱(賤)">..</entry>
+<entry freq="448" ji="盏(盞)">..</entry>
+<entry freq="449" ji="钱(錢)">..</entry>
+<entry freq="450" ji="笺(箋)">..</entry>
+<entry freq="451" ji="溅(濺)">..</entry>
+<entry freq="452" ji="践(踐)">..</entry>
+<entry freq="监"/>
+<entry freq="453" ji="滥(濫)">..</entry>
+<entry freq="454" ji="蓝(藍)">..</entry>
+<entry freq="455" ji="尴(尷)">..</entry>
+<entry freq="456" ji="槛(檻)">..</entry>
+<entry freq="457" ji="褴(襤)">..</entry>
+<entry freq="458" ji="篮(籃)">..</entry>
+<entry freq="见"/>
+<entry freq="459" ji="苋(莧)">..</entry>
+<entry freq="460" ji="岘(峴)">..</entry>
+<entry freq="35"/>
+<entry freq="461" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="462" ji="视(視)">..</entry>
+<entry freq="463" ji="规(規)">..</entry>
+<entry freq="464" ji="现(現)">..</entry>
+<entry freq="465" ji="枧( )">..</entry>
+<entry freq="466" ji="觅(覓)">..</entry>
+<entry freq="467" ji="觉(覺)">..</entry>
+<entry freq="468" ji="砚(硯)">..</entry>
+<entry freq="469" ji="觇(覘)">..</entry>
+<entry freq="470" ji="览(覽)">..</entry>
+<entry freq="471" ji="宽(寬)">..</entry>
+<entry freq="472" ji="蚬(蜆)">..</entry>
+<entry freq="473" ji="觊(覬)">..</entry>
+<entry freq="474" ji="笕(筧)">..</entry>
+<entry freq="475" ji="觋(覡)">..</entry>
+<entry freq="476" ji="觌(覿)">..</entry>
+<entry freq="477" ji="靓(靚)">..</entry>
+<entry freq="478" ji="搅(攪)">..</entry>
+<entry freq="479" ji="揽(攬)">..</entry>
+<entry freq="480" ji="缆(纜)">..</entry>
+<entry freq="481" ji="窥(窺)">..</entry>
+<entry freq="482" ji="榄(欖)">..</entry>
+<entry freq="483" ji="觎(覦)">..</entry>
+<entry freq="484" ji="觏(覯)">..</entry>
+<entry freq="485" ji="觐(覲)">..</entry>
+<entry freq="486" ji="觑(覷)">..</entry>
+<entry freq="487" ji="髋(髖)">..</entry>
+<entry freq="荐"/>
+<entry freq="488" ji="鞯(韉)">..</entry>
+<entry freq="将"/>
+<entry freq="489" ji="蒋(蔣)">..</entry>
+<entry freq="490" ji="锵(鏘)">..</entry>
+<entry freq="36"/>
+<entry freq="节"/>
+<entry freq="491" ji="栉(櫛)">..</entry>
+<entry freq="尽"/>
+<entry freq="492" ji=" (濜)">..</entry>
+<entry freq="493" ji="荩(藎)">..</entry>
+<entry freq="494" ji="烬(燼)">..</entry>
+<entry freq="495" ji="赆(贐)">..</entry>
+<entry freq="进"/>
+<entry freq="496" ji=" (璡)">..</entry>
+<entry freq="举"/>
+<entry freq="497" ji="榉(櫸)">..</entry>
+<entry freq="壳"/>
+<entry freq="498" ji="悫( )">..</entry>
+<entry freq="来"/>
+<entry freq="499" ji="涞(淶)">..</entry>
+<entry freq="500" ji="莱(萊)">..</entry>
+<entry freq="501" ji="崃(峽)">..</entry>
+<entry freq="502" ji="徕(徠)">..</entry>
+<entry freq="503" ji="赉(賚)">..</entry>
+<entry freq="504" ji="睐(睞)">..</entry>
+<entry freq="505" ji="铼(錸)">..</entry>
+<entry freq="乐"/>
+<entry freq="506" ji="泺(濼)">..</entry>
+<entry freq="507" ji="烁(爍)">..</entry>
+<entry freq="508" ji="栎(櫟)">..</entry>
+<entry freq="509" ji="轹(轢)">..</entry>
+<entry freq="510" ji="砾(礫)">..</entry>
+<entry freq="511" ji="铄(鑠)">..</entry>
+<entry freq="离"/>
+<entry freq="512" ji="漓(灕)">..</entry>
+<entry freq="513" ji="篱(籬)">..</entry>
+<entry freq="历"/>
+<entry freq="514" ji="沥(瀝)">..</entry>
+<entry freq="515" ji="坜(壢)">..</entry>
+<entry freq="516" ji="苈(藶)">..</entry>
+<entry freq="517" ji="呖(嚦)">..</entry>
+<entry freq="518" ji="枥(櫪)">..</entry>
+<entry freq="519" ji="疬( )">..</entry>
+<entry freq="520" ji="雳(靂)">..</entry>
+<entry freq="丽"/>
+<entry freq="521" ji="俪(儷)">..</entry>
+<entry freq="522" ji="郦(酈)">..</entry>
+<entry freq="523" ji="逦(邐)">..</entry>
+<entry freq="524" ji="骊(驪)">..</entry>
+<entry freq="525" ji="鹂(鸝)">..</entry>
+<entry freq="526" ji="酾(釃)">..</entry>
+<entry freq="527" ji="鲡(鱺)">..</entry>
+<entry freq="38"/>
+<entry freq="两"/>
+<entry freq="528" ji="俩(倆)">..</entry>
+<entry freq="529" ji=" (啢)">..</entry>
+<entry freq="530" ji="辆(輛)">..</entry>
+<entry freq="531" ji="满(滿)">..</entry>
+<entry freq="532" ji="瞒(瞞)">..</entry>
+<entry freq="533" ji="颟(顢)">..</entry>
+<entry freq="534" ji="螨( )">..</entry>
+<entry freq="535" ji="魉(魎)">..</entry>
+<entry freq="536" ji="懑(懣)">..</entry>
+<entry freq="537" ji="蹒(蹣)">..</entry>
+<entry freq="灵"/>
+<entry freq="538" ji="棂(欞)">..</entry>
+<entry freq="刘"/>
+<entry freq="539" ji="浏(瀏)">..</entry>
+<entry freq="龙"/>
+<entry freq="540" ji="陇(隴)">..</entry>
+<entry freq="541" ji="泷(瀧)">..</entry>
+<entry freq="542" ji="宠(寵)">..</entry>
+<entry freq="543" ji="庞(龐)">..</entry>
+<entry freq="544" ji="垄(壟)">..</entry>
+<entry freq="545" ji="拢(攏)">..</entry>
+<entry freq="546" ji="茏(蘢)">..</entry>
+<entry freq="547" ji="咙(嚨)">..</entry>
+<entry freq="548" ji="珑(瓏)">..</entry>
+<entry freq="549" ji="栊(櫳)">..</entry>
+<entry freq="550" ji=" (龑)">..</entry>
+<entry freq="551" ji=" (曨)">..</entry>
+<entry freq="552" ji="胧(朧)">..</entry>
+<entry freq="553" ji="砻(礱)">..</entry>
+<entry freq="554" ji="袭(襲)">..</entry>
+<entry freq="555" ji="聋(聾)">..</entry>
+<entry freq="556" ji="龚(龔)">..</entry>
+<entry freq="557" ji="龛(龕)">..</entry>
+<entry freq="558" ji="笼(籠)">..</entry>
+<entry freq="娄"/>
+<entry freq="559" ji="偻(僂)">..</entry>
+<entry freq="560" ji=" (漊)">..</entry>
+<entry freq="561" ji="蒌(蔞)">..</entry>
+<entry freq="562" ji="搂(摟)">..</entry>
+<entry freq="563" ji="嵝(嶁)">..</entry>
+<entry freq="564" ji="喽(嘍)">..</entry>
+<entry freq="565" ji="缕(縷)">..</entry>
+<entry freq="566" ji="屡(屢)">..</entry>
+<entry freq="567" ji="数(數)">..</entry>
+<entry freq="568" ji="楼(樓)">..</entry>
+<entry freq="569" ji="瘘( )">..</entry>
+<entry freq="570" ji="褛(褸)">..</entry>
+<entry freq="571" ji="窭(窶)">..</entry>
+<entry freq="572" ji=" (瞜)">..</entry>
+<entry freq="573" ji="镂(鏤)">..</entry>
+<entry freq="574" ji="屦(屨)">..</entry>
+<entry freq="575" ji="蝼(螻)">..</entry>
+<entry freq="576" ji="篓(簍)">..</entry>
+<entry freq="577" ji="耧(耬)">..</entry>
+<entry freq="578" ji="薮(藪)">..</entry>
+<entry freq="579" ji="擞(擻)">..</entry>
+<entry freq="580" ji="髅(髏)">..</entry>
+<entry freq="卢"/>
+<entry freq="581" ji="泸(濾)">..</entry>
+<entry freq="582" ji="垆(壚)">..</entry>
+<entry freq="583" ji="栌(櫨)">..</entry>
+<entry freq="584" ji="轳(轤)">..</entry>
+<entry freq="585" ji="胪(臚)">..</entry>
+<entry freq="586" ji="鸬(鸕)">..</entry>
+<entry freq="40"/>
+<entry freq="587" ji="颅(顱)">..</entry>
+<entry freq="588" ji="舻(艫)">..</entry>
+<entry freq="589" ji="鲈(鱸)">..</entry>
+<entry freq="虏"/>
+<entry freq="590" ji="掳(擄)">..</entry>
+<entry freq="卤"/>
+<entry freq="591" ji="鹾(鹺)">..</entry>
+<entry freq="录"/>
+<entry freq="592" ji=" (籙)">..</entry>
+<entry freq="虑"/>
+<entry freq="593" ji="滤(濾)">..</entry>
+<entry freq="594" ji="摅(攄)">..</entry>
+<entry freq="仑"/>
+<entry freq="595" ji="论(論)">..</entry>
+<entry freq="596" ji="伦(倫)">..</entry>
+<entry freq="597" ji="沦(淪)">..</entry>
+<entry freq="598" ji="抡(掄)">..</entry>
+<entry freq="599" ji="囵(圇)">..</entry>
+<entry freq="600" ji="纶(綸)">..</entry>
+<entry freq="601" ji="轮(輪)">..</entry>
+<entry freq="602" ji="瘪(癟)">..</entry>
+<entry freq="罗"/>
+<entry freq="603" ji="萝(蘿)">..</entry>
+<entry freq="604" ji=" (囉)">..</entry>
+<entry freq="605" ji="逻(邏)">..</entry>
+<entry freq="606" ji="猡(玀)">..</entry>
+<entry freq="607" ji="椤(欏)">..</entry>
+<entry freq="608" ji="锣(鑼)">..</entry>
+<entry freq="609" ji="箩(籮)">..</entry>
+<entry freq="马"/>
+<entry freq="610" ji="冯(馮)">..</entry>
+<entry freq="611" ji="驭(馭)">..</entry>
+<entry freq="612" ji="闯(闖)">..</entry>
+<entry freq="613" ji="吗(嗎)">..</entry>
+<entry freq="614" ji="犸( )">..</entry>
+<entry freq="615" ji="驮(馱)">..</entry>
+<entry freq="616" ji="驰(馳)">..</entry>
+<entry freq="617" ji="驯(馴)">..</entry>
+<entry freq="618" ji="妈(媽)">..</entry>
+<entry freq="619" ji="玛(瑪)">..</entry>
+<entry freq="620" ji="驱(驅)">..</entry>
+<entry freq="621" ji="驳(駁)">..</entry>
+<entry freq="622" ji="码(碼)">..</entry>
+<entry freq="623" ji="驼(駝)">..</entry>
+<entry freq="624" ji="驻(駐)">..</entry>
+<entry freq="625" ji="驵(駔)">..</entry>
+<entry freq="626" ji="驾(駕)">..</entry>
+<entry freq="627" ji="驿(驛)">..</entry>
+<entry freq="628" ji="驷(駟)">..</entry>
+<entry freq="629" ji="驶(駛)">..</entry>
+<entry freq="630" ji="驹(駒)">..</entry>
+<entry freq="631" ji="驺(騶)">..</entry>
+<entry freq="632" ji="骀(駘)">..</entry>
+<entry freq="633" ji="驸(駙)">..</entry>
+<entry freq="634" ji="驽(駑)">..</entry>
+<entry freq="635" ji="骂( )">..</entry>
+<entry freq="636" ji="蚂(螞)">..</entry>
+<entry freq="637" ji="笃(篤)">..</entry>
+<entry freq="638" ji="骇(駭)">..</entry>
+<entry freq="639" ji="骈(駢)">..</entry>
+<entry freq="640" ji="骁(驍)">..</entry>
+<entry freq="641" ji="骄(驕)">..</entry>
+<entry freq="642" ji="骅(驊)">..</entry>
+<entry freq="643" ji="骆(駱)">..</entry>
+<entry freq="644" ji="骊(驪)">..</entry>
+<entry freq="645" ji="骋(騁)">..</entry>
+<entry freq="646" ji="验(驗)">..</entry>
+<entry freq="647" ji="骏(駿)">..</entry>
+<entry freq="648" ji=" (駸)">..</entry>
+<entry freq="649" ji="骑(騎)">..</entry>
+<entry freq="650" ji="骐(騏)">..</entry>
+<entry freq="651" ji="骒(騍)">..</entry>
+<entry freq="652" ji="骓(騅)">..</entry>
+<entry freq="653" ji="骖(驂)">..</entry>
+<entry freq="654" ji="骗(騙)">..</entry>
+<entry freq="655" ji="骘(騭)">..</entry>
+<entry freq="656" ji="骛(騖)">..</entry>
+<entry freq="657" ji="骚(騷)">..</entry>
+<entry freq="658" ji="骞(騫)">..</entry>
+<entry freq="659" ji="骜(驁)">..</entry>
+<entry freq="660" ji="蓦(驀)">..</entry>
+<entry freq="661" ji="腾(騰)">..</entry>
+<entry freq="662" ji="骝(騮)">..</entry>
+<entry freq="663" ji="骟(騸)">..</entry>
+<entry freq="664" ji="骠(驃)">..</entry>
+<entry freq="665" ji="骢(驄)">..</entry>
+<entry freq="666" ji="骡(騾)">..</entry>
+<entry freq="667" ji="羁( )">..</entry>
+<entry freq="668" ji="骤(驟)">..</entry>
+<entry freq="669" ji="骥(驥)">..</entry>
+<entry freq="670" ji="骧(驤)">..</entry>
+<entry freq="买"/>
+<entry freq="671" ji="荬( )">..</entry>
+<entry freq="卖"/>
+<entry freq="672" ji="读(讀)">..</entry>
+<entry freq="673" ji="渎(瀆)">..</entry>
+<entry freq="674" ji="续(續)">..</entry>
+<entry freq="675" ji="椟(櫝)">..</entry>
+<entry freq="676" ji="觌(覿)">..</entry>
+<entry freq="677" ji="赎(贖)">..</entry>
+<entry freq="678" ji="犊(犢)">..</entry>
+<entry freq="679" ji="牍(牘)">..</entry>
+<entry freq="680" ji="窦(竇)">..</entry>
+<entry freq="681" ji="黩(黷)">..</entry>
+<entry freq="麦"/>
+<entry freq="682" ji="唛(嘜)">..</entry>
+<entry freq="683" ji="麸(麩)">..</entry>
+<entry freq="门"/>
+<entry freq="684" ji="闩(閂)">..</entry>
+<entry freq="685" ji="闪(閃)">..</entry>
+<entry freq="686" ji="们(們)">..</entry>
+<entry freq="687" ji="闭(閉)">..</entry>
+<entry freq="688" ji="闯(闖)">..</entry>
+<entry freq="689" ji="问(問)">..</entry>
+<entry freq="690" ji="扪(捫)">..</entry>
+<entry freq="691" ji="闱(闈)">..</entry>
+<entry freq="692" ji="闵(閔)">..</entry>
+<entry freq="693" ji="闷(悶)">..</entry>
+<entry freq="694" ji="闰(閏)">..</entry>
+<entry freq="695" ji="闲(閑)">..</entry>
+<entry freq="696" ji="间(間)">..</entry>
+<entry freq="697" ji="闹( )">..</entry>
+<entry freq="698" ji="闸(閘)">..</entry>
+<entry freq="699" ji="钔(鍆)">..</entry>
+<entry freq="700" ji="阂(閡)">..</entry>
+<entry freq="701" ji="闺(閨)">..</entry>
+<entry freq="702" ji="闻(聞)">..</entry>
+<entry freq="703" ji="闼(闥)">..</entry>
+<entry freq="704" ji="闽(閩)">..</entry>
+<entry freq="705" ji="闾(閭)">..</entry>
+<entry freq="706" ji=" (闓)">..</entry>
+<entry freq="707" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="708" ji="阁(閣)">..</entry>
+<entry freq="709" ji="阀(閥)">..</entry>
+<entry freq="710" ji="润(潤)">..</entry>
+<entry freq="711" ji="涧(澗)">..</entry>
+<entry freq="712" ji="悯(憫)">..</entry>
+<entry freq="713" ji="阆(閬)">..</entry>
+<entry freq="714" ji="阅( )">..</entry>
+<entry freq="715" ji="阃(閫)">..</entry>
+<entry freq="716" ji="阄(鬮)">..</entry>
+<entry freq="717" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="718" ji="娴(嫻)">..</entry>
+<entry freq="719" ji="阏(閼)">..</entry>
+<entry freq="720" ji="阈(閾)">..</entry>
+<entry freq="721" ji="阉(閹)">..</entry>
+<entry freq="722" ji="阊(閶)">..</entry>
+<entry freq="723" ji="阍(閽)">..</entry>
+<entry freq="724" ji="阌(閿)">..</entry>
+<entry freq="725" ji="阋(鬩)">..</entry>
+<entry freq="726" ji="阐(闡)">..</entry>
+<entry freq="727" ji="阎(閻)">..</entry>
+<entry freq="728" ji="焖(燜)">..</entry>
+<entry freq="729" ji="阑(闌)">..</entry>
+<entry freq="730" ji="裥( )">..</entry>
+<entry freq="731" ji="阔(闊)">..</entry>
+<entry freq="732" ji="痫(癇)">..</entry>
+<entry freq="733" ji="鹇(鷳)">..</entry>
+<entry freq="734" ji="阕(闋)">..</entry>
+<entry freq="735" ji="阒(闃)">..</entry>
+<entry freq="736" ji="搁(擱)">..</entry>
+<entry freq="737" ji="锏( )">..</entry>
+<entry freq="738" ji="锎( )">..</entry>
+<entry freq="739" ji="阙(闕)">..</entry>
+<entry freq="740" ji="阖(闔)">..</entry>
+<entry freq="741" ji="阗(闐)">..</entry>
+<entry freq="742" ji="榈(櫚)">..</entry>
+<entry freq="743" ji="简(簡)">..</entry>
+<entry freq="744" ji="谰(讕)">..</entry>
+<entry freq="745" ji="阚(闞)">..</entry>
+<entry freq="746" ji="蔺(藺)">..</entry>
+<entry freq="747" ji="澜(瀾)">..</entry>
+<entry freq="748" ji="斓(斕)">..</entry>
+<entry freq="749" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="750" ji="镧(鑭)">..</entry>
+<entry freq="751" ji="躏(躪)">..</entry>
+<entry freq="黾"/>
+<entry freq="752" ji="渑(澠)">..</entry>
+<entry freq="753" ji="绳(繩)">..</entry>
+<entry freq="754" ji="鼋(黿)">..</entry>
+<entry freq="755" ji="蝇(蠅)">..</entry>
+<entry freq="756" ji="鼍(鼉)">..</entry>
+<entry freq="难"/>
+<entry freq="757" ji="傩(儺)">..</entry>
+<entry freq="758" ji="滩(灘)">..</entry>
+<entry freq="759" ji="摊( )">..</entry>
+<entry freq="760" ji="瘫(癱)">..</entry>
+<entry freq="鸟"/>
+<entry freq="761" ji="凫( )">..</entry>
+<entry freq="762" ji="鸠(鳩)">..</entry>
+<entry freq="763" ji="岛(島)">..</entry>
+<entry freq="764" ji="茑(蔦)">..</entry>
+<entry freq="765" ji="鸢(鳶)">..</entry>
+<entry freq="766" ji="鸣(鳴)">..</entry>
+<entry freq="767" ji="枭(梟)">..</entry>
+<entry freq="768" ji="鸩(鴆)">..</entry>
+<entry freq="769" ji="鸦(鴉)">..</entry>
+<entry freq="770" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="771" ji="鸥(鷗)">..</entry>
+<entry freq="772" ji="鸨(鴇)">..</entry>
+<entry freq="773" ji=" (鶬)">..</entry>
+<entry freq="774" ji=" (窵)">..</entry>
+<entry freq="775" ji="莺(鶯)">..</entry>
+<entry freq="776" ji="鸪(鴣)">..</entry>
+<entry freq="777" ji="捣(搗)">..</entry>
+<entry freq="778" ji="鸫(鶇)">..</entry>
+<entry freq="779" ji="鸬(鸕)">..</entry>
+<entry freq="780" ji="鸭(鴨)">..</entry>
+<entry freq="781" ji="鸯(鴦)">..</entry>
+<entry freq="782" ji=" (鴞)">..</entry>
+<entry freq="783" ji="鸲(鴝)">..</entry>
+<entry freq="784" ji=" (鴒)">..</entry>
+<entry freq="785" ji="鸳(鴛)">..</entry>
+<entry freq="786" ji="鸵(鴕)">..</entry>
+<entry freq="787" ji="袅(裊)">..</entry>
+<entry freq="788" ji="鸱(鴟)">..</entry>
+<entry freq="789" ji="鸶(鷥)">..</entry>
+<entry freq="790" ji="鸾( )">..</entry>
+<entry freq="791" ji=" (鵁)">..</entry>
+<entry freq="792" ji="鸿(鴻)">..</entry>
+<entry freq="793" ji="鸷(鷙)">..</entry>
+<entry freq="794" ji="鸸(鴯)">..</entry>
+<entry freq="795" ji=" (鴷)">..</entry>
+<entry freq="796" ji=" (鵃)">..</entry>
+<entry freq="797" ji="鸽(鴿)">..</entry>
+<entry freq="798" ji="鸹(鴰)">..</entry>
+<entry freq="799" ji="鸺(鵂)">..</entry>
+<entry freq="800" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="801" ji="鹈(鵜)">..</entry>
+<entry freq="802" ji="鹇(鷳)">..</entry>
+<entry freq="803" ji="鹁(鵓)">..</entry>
+<entry freq="804" ji="鹂(鸝)">..</entry>
+<entry freq="805" ji="鹃(鵑)">..</entry>
+<entry freq="806" ji="鹆(鵒)">..</entry>
+<entry freq="807" ji="鹄(鵠)">..</entry>
+<entry freq="808" ji="鹅(鵝)">..</entry>
+<entry freq="809" ji="鹑(鶉)">..</entry>
+<entry freq="810" ji=" (鶊)">..</entry>
+<entry freq="811" ji=" (鶄)">..</entry>
+<entry freq="812" ji="鹉(鵡)">..</entry>
+<entry freq="813" ji="鹊(鵲)">..</entry>
+<entry freq="814" ji="鹋( )">..</entry>
+<entry freq="815" ji="鹌(鵪)">..</entry>
+<entry freq="816" ji="鹏(鵬)">..</entry>
+<entry freq="817" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="818" ji="鹚( )">..</entry>
+<entry freq="819" ji="鹕(鶘)">..</entry>
+<entry freq="820" ji=" (鶡)">..</entry>
+<entry freq="821" ji=" (鶪)">..</entry>
+<entry freq="822" ji="鹗(鶚)">..</entry>
+<entry freq="823" ji="鹘(鶻)">..</entry>
+<entry freq="824" ji=" (鶖)">..</entry>
+<entry freq="825" ji="鹜(鶩)">..</entry>
+<entry freq="826" ji="鹛( )">..</entry>
+<entry freq="827" ji="鹤(鶴)">..</entry>
+<entry freq="828" ji="鹣(鶼)">..</entry>
+<entry freq="829" ji="鹞(鷂)">..</entry>
+<entry freq="830" ji=" (鶺)">..</entry>
+<entry freq="831" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="832" ji="鹧(鷓)">..</entry>
+<entry freq="833" ji=" (鷖)">..</entry>
+<entry freq="834" ji="鹦(鸚)">..</entry>
+<entry freq="835" ji="鹨(鷚)">..</entry>
+<entry freq="836" ji="鹫( )">..</entry>
+<entry freq="837" ji="鹩(鷯)">..</entry>
+<entry freq="838" ji="鹪(鷦)">..</entry>
+<entry freq="839" ji="鹬(鷸)">..</entry>
+<entry freq="840" ji="鹰(鷹)">..</entry>
+<entry freq="841" ji=" (鸇)">..</entry>
+<entry freq="842" ji="鹭(鷺)">..</entry>
+<entry freq="843" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="844" ji="鹳(鸛)">..</entry>
+<entry freq="聂"/>
+<entry freq="845" ji="慑(攝)">..</entry>
+<entry freq="846" ji="滠(灄)">..</entry>
+<entry freq="847" ji="摄(攝)">..</entry>
+<entry freq="848" ji="嗫(囁)">..</entry>
+<entry freq="849" ji="镊(鑷)">..</entry>
+<entry freq="48"/>
+<entry freq="850" ji="颞(顳)">..</entry>
+<entry freq="851" ji="蹑(躡)">..</entry>
+<entry freq="宁"/>
+<entry freq="852" ji="泞(濘)">..</entry>
+<entry freq="853" ji="拧(擰)">..</entry>
+<entry freq="854" ji="咛(嚀)">..</entry>
+<entry freq="855" ji="狞(獰)">..</entry>
+<entry freq="856" ji="柠(檸)">..</entry>
+<entry freq="857" ji="聍(聹)">..</entry>
+<entry freq="农"/>
+<entry freq="858" ji="侬(儂)">..</entry>
+<entry freq="859" ji="浓(濃)">..</entry>
+<entry freq="860" ji="哝(噥)">..</entry>
+<entry freq="861" ji="脓(膿)">..</entry>
+<entry freq="齐"/>
+<entry freq="862" ji="剂(劑)">..</entry>
+<entry freq="863" ji="侪(儕)">..</entry>
+<entry freq="864" ji="济(濟)">..</entry>
+<entry freq="865" ji="荠(薺)">..</entry>
+<entry freq="866" ji="挤(擠)">..</entry>
+<entry freq="867" ji="脐(臍)">..</entry>
+<entry freq="868" ji="蛴(蠐)">..</entry>
+<entry freq="869" ji="跻(蠐)">..</entry>
+<entry freq="870" ji="霁(霽)">..</entry>
+<entry freq="871" ji="鲚(鱭)">..</entry>
+<entry freq="872" ji="齑(齏)">..</entry>
+<entry freq="岂"/>
+<entry freq="873" ji="剀(剴)">..</entry>
+<entry freq="874" ji="凯(凱)">..</entry>
+<entry freq="875" ji="恺(愷)">..</entry>
+<entry freq="876" ji=" (闓)">..</entry>
+<entry freq="877" ji="垲(塏)">..</entry>
+<entry freq="878" ji="桤(榿)">..</entry>
+<entry freq="879" ji="觊(覬)">..</entry>
+<entry freq="880" ji=" (磑)">..</entry>
+<entry freq="881" ji="皑(皚)">..</entry>
+<entry freq="882" ji="铠(鎧)">..</entry>
+<entry freq="气"/>
+<entry freq="883" ji="忾(愾)">..</entry>
+<entry freq="884" ji="饩(餼)">..</entry>
+<entry freq="迁"/>
+<entry freq="885" ji="跹(躚)">..</entry>
+<entry freq="佥"/>
+<entry freq="886" ji="剑(劍)">..</entry>
+<entry freq="887" ji="俭(儉)">..</entry>
+<entry freq="888" ji="险(險)">..</entry>
+<entry freq="889" ji="捡(撿)">..</entry>
+<entry freq="890" ji="猃(獫)">..</entry>
+<entry freq="891" ji="验(驗)">..</entry>
+<entry freq="892" ji="检(檢)">..</entry>
+<entry freq="893" ji="殓(殮)">..</entry>
+<entry freq="894" ji="敛(斂)">..</entry>
+<entry freq="895" ji="脸(臉)">..</entry>
+<entry freq="896" ji="裣(襝)">..</entry>
+<entry freq="897" ji="睑(瞼)">..</entry>
+<entry freq="898" ji="签(簽)">..</entry>
+<entry freq="899" ji="潋(瀲)">..</entry>
+<entry freq="900" ji="蔹(蘞)">..</entry>
+<entry freq="乔"/>
+<entry freq="901" ji="侨(僑)">..</entry>
+<entry freq="902" ji="挢(撟)">..</entry>
+<entry freq="903" ji="荞(蕎)">..</entry>
+<entry freq="904" ji="峤(嶠)">..</entry>
+<entry freq="905" ji="骄(驕)">..</entry>
+<entry freq="906" ji="娇(嶠)">..</entry>
+<entry freq="907" ji="桥(橋)">..</entry>
+<entry freq="908" ji="轿(轎)">..</entry>
+<entry freq="909" ji=" (礄)">..</entry>
+<entry freq="910" ji="矫(矯)">..</entry>
+<entry freq="911" ji="鞒( )">..</entry>
+<entry freq="亲"/>
+<entry freq="912" ji="榇(櫬)">..</entry>
+<entry freq="穷"/>
+<entry freq="913" ji=" (藭)">..</entry>
+<entry freq="区"/>
+<entry freq="914" ji="讴(謳)">..</entry>
+<entry freq="915" ji="伛(傴)">..</entry>
+<entry freq="916" ji="沤(漚)">..</entry>
+<entry freq="917" ji="怄(慪)">..</entry>
+<entry freq="918" ji="抠(摳)">..</entry>
+<entry freq="919" ji="奁(奩)">..</entry>
+<entry freq="920" ji="呕(嘔)">..</entry>
+<entry freq="921" ji="岖(嶇)">..</entry>
+<entry freq="922" ji="妪(嫗)">..</entry>
+<entry freq="923" ji="驱(驅)">..</entry>
+<entry freq="924" ji="枢(樞)">..</entry>
+<entry freq="925" ji="瓯(甌)">..</entry>
+<entry freq="926" ji="欧(歐)">..</entry>
+<entry freq="927" ji="殴(毆)">..</entry>
+<entry freq="928" ji="鸥(鷗)">..</entry>
+<entry freq="929" ji="眍( )">..</entry>
+<entry freq="930" ji="躯(軀)">..</entry>
+<entry freq="931" ji="蔷(薔)">..</entry>
+<entry freq="932" ji="墙(墻)">..</entry>
+<entry freq="933" ji="嫱(嬙)">..</entry>
+<entry freq="934" ji="樯(檣)">..</entry>
+<entry freq="935" ji="穑(穡)">..</entry>
+<entry freq="啬"/>
+<entry freq="杀"/>
+<entry freq="936" ji="铩(鎩)">..</entry>
+<entry freq="审"/>
+<entry freq="937" ji=" (讅)">..</entry>
+<entry freq="938" ji="婶(嬸)">..</entry>
+<entry freq="圣"/>
+<entry freq="939" ji="柽(檉)">..</entry>
+<entry freq="940" ji="蛏(蟶)">..</entry>
+<entry freq="师"/>
+<entry freq="941" ji=" (溮)">..</entry>
+<entry freq="942" ji="狮(獅)">..</entry>
+<entry freq="943" ji="蛳(螄)">..</entry>
+<entry freq="944" ji="筛(篩)">..</entry>
+<entry freq="时"/>
+<entry freq="945" ji="埘(塒)">..</entry>
+<entry freq="946" ji="莳(蒔)">..</entry>
+<entry freq="947" ji="鲥(鰣)">..</entry>
+<entry freq="寿"/>
+<entry freq="948" ji="俦(儔)">..</entry>
+<entry freq="949" ji="涛(濤)">..</entry>
+<entry freq="950" ji="祷(禱)">..</entry>
+<entry freq="951" ji="焘(燾)">..</entry>
+<entry freq="952" ji="畴(疇)">..</entry>
+<entry freq="953" ji="铸(鑄)">..</entry>
+<entry freq="954" ji="筹(籌)">..</entry>
+<entry freq="955" ji="踌(躊)">..</entry>
+<entry freq="属"/>
+<entry freq="956" ji="嘱(囑)">..</entry>
+<entry freq="957" ji="瞩(矚)">..</entry>
+<entry freq="双"/>
+<entry freq="958" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="肃"/>
+<entry freq="959" ji="萧(蕭)">..</entry>
+<entry freq="960" ji="啸(嘯)">..</entry>
+<entry freq="961" ji="潇(瀟)">..</entry>
+<entry freq="962" ji="箫(簫)">..</entry>
+<entry freq="963" ji=" (蠨)">..</entry>
+<entry freq="岁"/>
+<entry freq="964" ji="刿(劌)">..</entry>
+<entry freq="965" ji="哕(噦)">..</entry>
+<entry freq="966" ji="秽(穢)">..</entry>
+<entry freq="孙"/>
+<entry freq="967" ji="荪(蓀)">..</entry>
+<entry freq="968" ji="狲(猻)">..</entry>
+<entry freq="969" ji="逊(遜)">..</entry>
+<entry freq="条"/>
+<entry freq="970" ji="涤(滌)">..</entry>
+<entry freq="971" ji="绦( )">..</entry>
+<entry freq="972" ji="鲦(鰷)">..</entry>
+<entry freq="万"/>
+<entry freq="973" ji="厉(厲)">..</entry>
+<entry freq="974" ji="迈(邁)">..</entry>
+<entry freq="975" ji="励(勵)">..</entry>
+<entry freq="976" ji="疠(癘)">..</entry>
+<entry freq="977" ji="虿(蠆)">..</entry>
+<entry freq="978" ji="趸(躉)">..</entry>
+<entry freq="979" ji="砺(礪)">..</entry>
+<entry freq="980" ji="粝(糲)">..</entry>
+<entry freq="981" ji="蛎(蠣)">..</entry>
+<entry freq="为"/>
+<entry freq="982" ji="伪( )">..</entry>
+<entry freq="983" ji="沩(溈)">..</entry>
+<entry freq="984" ji="妫(媯)">..</entry>
+<entry freq="韦"/>
+<entry freq="985" ji="讳(諱)">..</entry>
+<entry freq="986" ji="伟(偉)">..</entry>
+<entry freq="987" ji="闱(闈)">..</entry>
+<entry freq="988" ji="违(違)">..</entry>
+<entry freq="989" ji="苇(葦)">..</entry>
+<entry freq="990" ji="韧(韌)">..</entry>
+<entry freq="991" ji="帏(幃)">..</entry>
+<entry freq="992" ji="围(圍)">..</entry>
+<entry freq="993" ji="纬(緯)">..</entry>
+<entry freq="994" ji="炜(煒)">..</entry>
+<entry freq="995" ji=" (禕)">..</entry>
+<entry freq="996" ji="玮(瑋)">..</entry>
+<entry freq="997" ji=" (韍)">..</entry>
+<entry freq="998" ji="涠(潿)">..</entry>
+<entry freq="999" ji="韩(韓)">..</entry>
+<entry freq="1000" ji="韫(韞)">..</entry>
+<entry freq="1001" ji="韪(韙)">..</entry>
+<entry freq="1002" ji="韬(韜)">..</entry>
+<entry freq="乌"/>
+<entry freq="1003" ji="邬(鄔)">..</entry>
+<entry freq="1004" ji="坞(塢)">..</entry>
+<entry freq="1005" ji="呜(嗚)">..</entry>
+<entry freq="1006" ji="钨(鎢)">..</entry>
+<entry freq="1007" ji="怃(憮)">..</entry>
+<entry freq="1008" ji="庑(廡)">..</entry>
+<entry freq="1009" ji="抚(撫)">..</entry>
+<entry freq="1010" ji="芜(蕪)">..</entry>
+<entry freq="1011" ji="呒(嘸)">..</entry>
+<entry freq="1012" ji="妩(嫵)">..</entry>
+<entry freq="无"/>
+<entry freq="55"/>
+<entry freq="献"/>
+<entry freq="1013" ji="谳(讞)">..</entry>
+<entry freq="乡"/>
+<entry freq="1014" ji="芗(薌)">..</entry>
+<entry freq="1015" ji="飨(饗)">..</entry>
+<entry freq="写"/>
+<entry freq="1016" ji="泻(瀉)">..</entry>
+<entry freq="寻"/>
+<entry freq="1017" ji="浔(潯)">..</entry>
+<entry freq="1018" ji="荨(蕁)">..</entry>
+<entry freq="1019" ji=" (撏)">..</entry>
+<entry freq="1020" ji="鲟(鱘)">..</entry>
+<entry freq="亚"/>
+<entry freq="1021" ji="垩(堊)">..</entry>
+<entry freq="1022" ji="垭(埡)">..</entry>
+<entry freq="1023" ji=" (掗)">..</entry>
+<entry freq="1024" ji="哑(啞)">..</entry>
+<entry freq="1025" ji="娅(婭)">..</entry>
+<entry freq="1026" ji="恶(惡)">..</entry>
+<entry freq="1027" ji="恶(噁)">..</entry>
+<entry freq="1028" ji="氩(氬)">..</entry>
+<entry freq="1029" ji="壶(壺)">..</entry>
+<entry freq="严"/>
+<entry freq="1030" ji="俨(儼)">..</entry>
+<entry freq="1031" ji="酽(釅)">..</entry>
+<entry freq="56"/>
+<entry freq="厌"/>
+<entry freq="1032" ji="恹(懨)">..</entry>
+<entry freq="1033" ji="厣(厴)">..</entry>
+<entry freq="1034" ji="靥(靨)">..</entry>
+<entry freq="1035" ji="餍(饜)">..</entry>
+<entry freq="1036" ji="魇(魘)">..</entry>
+<entry freq="1037" ji=" (黶)">..</entry>
+<entry freq="尧"/>
+<entry freq="1038" ji="侥(僥)">..</entry>
+<entry freq="1039" ji="浇(澆)">..</entry>
+<entry freq="1040" ji="挠(撓)">..</entry>
+<entry freq="1041" ji="荛(蕘)">..</entry>
+<entry freq="1042" ji=" (嶢)">..</entry>
+<entry freq="1043" ji="哓(嘵)">..</entry>
+<entry freq="1044" ji="娆(嬈)">..</entry>
+<entry freq="1045" ji="骁(驍)">..</entry>
+<entry freq="1046" ji="绕(繞)">..</entry>
+<entry freq="1047" ji="饶(饒)">..</entry>
+<entry freq="1048" ji="烧( )">..</entry>
+<entry freq="1049" ji="桡(橈)">..</entry>
+<entry freq="1050" ji="晓(曉)">..</entry>
+<entry freq="1051" ji="硗(磽)">..</entry>
+<entry freq="1052" ji="铙(鐃)">..</entry>
+<entry freq="1053" ji="翘(翹)">..</entry>
+<entry freq="1054" ji="蛲(蟯)">..</entry>
+<entry freq="1055" ji="跷(蹺)">..</entry>
+<entry freq="业"/>
+<entry freq="1056" ji="邺(鄴)">..</entry>
+<entry freq="页"/>
+<entry freq="1057" ji="顶(頂)">..</entry>
+<entry freq="57"/>
+<entry freq="1058" ji="顷(頃)">..</entry>
+<entry freq="1059" ji="项(項)">..</entry>
+<entry freq="1060" ji="顸(頇)">..</entry>
+<entry freq="1061" ji="顺(順)">..</entry>
+<entry freq="1062" ji="须(須)">..</entry>
+<entry freq="1063" ji="颃(頏)">..</entry>
+<entry freq="1064" ji="烦(煩)">..</entry>
+<entry freq="1065" ji="顼(瑣)">..</entry>
+<entry freq="1066" ji="顽(頑)">..</entry>
+<entry freq="1067" ji="顿(頓)">..</entry>
+<entry freq="1068" ji="颀(頎)">..</entry>
+<entry freq="1069" ji="颁(頒)">..</entry>
+<entry freq="1070" ji="颂(頌)">..</entry>
+<entry freq="1071" ji="倾(傾)">..</entry>
+<entry freq="1072" ji="预(預)">..</entry>
+<entry freq="1073" ji=" (廎)">..</entry>
+<entry freq="1074" ji="硕(碩)">..</entry>
+<entry freq="1075" ji="颅(顱)">..</entry>
+<entry freq="1076" ji="领(領)">..</entry>
+<entry freq="1077" ji="颈(頸)">..</entry>
+<entry freq="1078" ji="颇(頗)">..</entry>
+<entry freq="1079" ji="颏(頦)">..</entry>
+<entry freq="1080" ji="颊(頰)">..</entry>
+<entry freq="1081" ji="颉(頡)">..</entry>
+<entry freq="1082" ji="颍(潁)">..</entry>
+<entry freq="1083" ji="颌(頜)">..</entry>
+<entry freq="1084" ji=" (頲)">..</entry>
+<entry freq="1085" ji=" (澦)">..</entry>
+<entry freq="1086" ji="颐(頤)">..</entry>
+<entry freq="1087" ji="蓣(蕷)">..</entry>
+<entry freq="1088" ji="频(頻)">..</entry>
+<entry freq="1089" ji="颓( )">..</entry>
+<entry freq="1090" ji="颔(頷)">..</entry>
+<entry freq="1091" ji="颖(穎)">..</entry>
+<entry freq="1092" ji="颗(顆)">..</entry>
+<entry freq="1093" ji="额(額)">..</entry>
+<entry freq="1094" ji="颜( )">..</entry>
+<entry freq="1095" ji="撷(擷)">..</entry>
+<entry freq="1096" ji="题(題)">..</entry>
+<entry freq="1097" ji=" (顒)">..</entry>
+<entry freq="1098" ji="颛(顓)">..</entry>
+<entry freq="1099" ji="缬(纈)">..</entry>
+<entry freq="1100" ji="濒(瀕)">..</entry>
+<entry freq="1101" ji="颠(顛)">..</entry>
+<entry freq="1102" ji="颟(顢)">..</entry>
+<entry freq="1103" ji="颞(顳)">..</entry>
+<entry freq="1104" ji="颡(顙)">..</entry>
+<entry freq="1105" ji="嚣(囂)">..</entry>
+<entry freq="1106" ji="颢(顥)">..</entry>
+<entry freq="1107" ji="颤(顫)">..</entry>
+<entry freq="1108" ji="巅(巔)">..</entry>
+<entry freq="1109" ji="颥( )">..</entry>
+<entry freq="1110" ji="癫(癲)">..</entry>
+<entry freq="1111" ji="灏(灝)">..</entry>
+<entry freq="1112" ji="颦(顰)">..</entry>
+<entry freq="1113" ji="颧(顴)">..</entry>
+<entry freq="义"/>
+<entry freq="1114" ji="议(議)">..</entry>
+<entry freq="1115" ji="仪(儀)">..</entry>
+<entry freq="1116" ji="蚁(蟻)">..</entry>
+<entry freq="艺"/>
+<entry freq="1117" ji="呓(囈)">..</entry>
+<entry freq="阴"/>
+<entry freq="1118" ji="荫(蔭)">..</entry>
+<entry freq="隐"/>
+<entry freq="1119" ji="瘾(癮)">..</entry>
+<entry freq="犹"/>
+<entry freq="1120" ji="莸(蕕)">..</entry>
+<entry freq="鱼"/>
+<entry freq="1121" ji=" (魛)">..</entry>
+<entry freq="1122" ji="渔(漁)">..</entry>
+<entry freq="1123" ji="鲂(魴)">..</entry>
+<entry freq="1124" ji="鱿(魷)">..</entry>
+<entry freq="1125" ji="鲁(魯)">..</entry>
+<entry freq="1126" ji="鲎(鱟)">..</entry>
+<entry freq="1127" ji="蓟(薊)">..</entry>
+<entry freq="1128" ji="鲆( )">..</entry>
+<entry freq="1129" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1130" ji="鲅( )">..</entry>
+<entry freq="1131" ji="鲈(鱸)">..</entry>
+<entry freq="1132" ji="鲇(點)">..</entry>
+<entry freq="1133" ji=" (鮓)">..</entry>
+<entry freq="1134" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1135" ji="稣(穌)">..</entry>
+<entry freq="1136" ji="鲋(鮒)">..</entry>
+<entry freq="1137" ji="鲍(鮑)">..</entry>
+<entry freq="1138" ji="鲐(鮐)">..</entry>
+<entry freq="1139" ji="鲞(鯗)">..</entry>
+<entry freq="1140" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1141" ji="鲚(鱭)">..</entry>
+<entry freq="1142" ji="鲛(鮫)">..</entry>
+<entry freq="1143" ji="鲜(鮮)">..</entry>
+<entry freq="1144" ji="鲑(鮭)">..</entry>
+<entry freq="1145" ji="鲒(鮚)">..</entry>
+<entry freq="1146" ji="鲟(鱘)">..</entry>
+<entry freq="1147" ji="鲔(鮪)">..</entry>
+<entry freq="1148" ji="鲟(鱘)">..</entry>
+<entry freq="1149" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1150" ji=" (鮦)">..</entry>
+<entry freq="1151" ji=" (鱠)">..</entry>
+<entry freq="1152" ji="鲨(鯊)">..</entry>
+<entry freq="1153" ji="噜(嚕)">..</entry>
+<entry freq="1154" ji="鲡(鱺)">..</entry>
+<entry freq="1155" ji="鲠(鯁)">..</entry>
+<entry freq="1156" ji="鲢(鰱)">..</entry>
+<entry freq="1157" ji="鲫(鯽)">..</entry>
+<entry freq="1158" ji="鲥(鰣)">..</entry>
+<entry freq="1159" ji="鲩(鯇)">..</entry>
+<entry freq="1160" ji="鲣(鰹)">..</entry>
+<entry freq="1161" ji="鲤(鯉)">..</entry>
+<entry freq="1162" ji="鲦(鰷)">..</entry>
+<entry freq="1163" ji="鲧(鯀)">..</entry>
+<entry freq="1164" ji="橹(櫓)">..</entry>
+<entry freq="1165" ji="氇(氌)">..</entry>
+<entry freq="1166" ji="鲸(鯨)">..</entry>
+<entry freq="1167" ji="鲭(鯖)">..</entry>
+<entry freq="1168" ji="鲮(鯪)">..</entry>
+<entry freq="1169" ji="鲰(鯫)">..</entry>
+<entry freq="1170" ji="鲲(鯤)">..</entry>
+<entry freq="1171" ji="鲻(鯔)">..</entry>
+<entry freq="1172" ji="鲳(鯧)">..</entry>
+<entry freq="1173" ji="鲱(鯡)">..</entry>
+<entry freq="1174" ji="鲵(鯢)">..</entry>
+<entry freq="1175" ji="鲷(鯛)">..</entry>
+<entry freq="1176" ji="鲶(鯰)">..</entry>
+<entry freq="1177" ji="藓(蘚)">..</entry>
+<entry freq="1178" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1179" ji=" (鰆)">..</entry>
+<entry freq="1180" ji=" (鱨)">..</entry>
+<entry freq="1181" ji="鳊( )">..</entry>
+<entry freq="1182" ji="鲽(鰈)">..</entry>
+<entry freq="1183" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1184" ji="鳃(鰓)">..</entry>
+<entry freq="1185" ji="鳄( )">..</entry>
+<entry freq="1186" ji="镥( )">..</entry>
+<entry freq="1187" ji="鳅(鰍)">..</entry>
+<entry freq="1188" ji="鳆(鰒)">..</entry>
+<entry freq="1189" ji="鳇(鰉)">..</entry>
+<entry freq="1190" ji="鳌(鰲)">..</entry>
+<entry freq="1191" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1192" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1193" ji=" (鰜)">..</entry>
+<entry freq="1194" ji="鳍(鰭)">..</entry>
+<entry freq="1195" ji="鳎(鰨)">..</entry>
+<entry freq="1196" ji="鳏(鰥)">..</entry>
+<entry freq="1197" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1198" ji="癣(癬)">..</entry>
+<entry freq="1199" ji="鳖(鱉)">..</entry>
+<entry freq="1200" ji="鳙( )">..</entry>
+<entry freq="1201" ji=" (鰼)">..</entry>
+<entry freq="1202" ji="鳕(鱈)">..</entry>
+<entry freq="1203" ji="鳔(鰾)">..</entry>
+<entry freq="1204" ji="鳓(鰳)">..</entry>
+<entry freq="1205" ji="鳘( )">..</entry>
+<entry freq="1206" ji="鳗(鰻)">..</entry>
+<entry freq="1207" ji="鳝(鱔)">..</entry>
+<entry freq="1208" ji="鳟(鱒)">..</entry>
+<entry freq="1209" ji="鳞(鱗)">..</entry>
+<entry freq="1210" ji="鳜(鱖)">..</entry>
+<entry freq="1211" ji=" (鱣)">..</entry>
+<entry freq="1212" ji="鳢(鱧)">..</entry>
+<entry freq="与"/>
+<entry freq="1213" ji="屿(嶼)">..</entry>
+<entry freq="1214" ji="欤(歟)">..</entry>
+<entry freq="云"/>
+<entry freq="1215" ji="芸(蕓)">..</entry>
+<entry freq="1216" ji="昙(曇)">..</entry>
+<entry freq="1217" ji=" (靉)">..</entry>
+<entry freq="1218" ji=" (靆)">..</entry>
+<entry freq="郑"/>
+<entry freq="1219" ji="掷(擲)">..</entry>
+<entry freq="1220" ji="踯(躑)">..</entry>
+<entry freq="执"/>
+<entry freq="1221" ji="垫(墊)">..</entry>
+<entry freq="1222" ji="挚(摯)">..</entry>
+<entry freq="1223" ji="贽(贄)">..</entry>
+<entry freq="1224" ji="鸷(鷙)">..</entry>
+<entry freq="1225" ji="蛰(蟄)">..</entry>
+<entry freq="1226" ji="絷(縶)">..</entry>
+<entry freq="质"/>
+<entry freq="1227" ji=" (鑕)">..</entry>
+<entry freq="1228" ji="踬(躓)">..</entry>
+<entry freq="专"/>
+<entry freq="1229" ji="传(傳)">..</entry>
+<entry freq="1230" ji="抟(摶)">..</entry>
+<entry freq="1231" ji="转(轉)">..</entry>
+<entry freq="1232" ji=" (膞)">..</entry>
+<entry freq="1233" ji="砖(磚)">..</entry>
+<entry freq="1234" ji="啭(囀)">..</entry>
+<entry freq="讠"/>
+<entry freq="1235" ji="计(計)">..</entry>
+<entry freq="1236" ji="订(訂)">..</entry>
+<entry freq="1237" ji="讣(訃)">..</entry>
+<entry freq="1238" ji="讥(譏)">..</entry>
+<entry freq="1239" ji="议(議)">..</entry>
+<entry freq="1240" ji="讨(討)">..</entry>
+<entry freq="1241" ji="讧(訌)">..</entry>
+<entry freq="1242" ji="讦(訐)">..</entry>
+<entry freq="1243" ji="记(記)">..</entry>
+<entry freq="1244" ji="讯(訊)">..</entry>
+<entry freq="1245" ji="讪(訕)">..</entry>
+<entry freq="1246" ji="训(訓)">..</entry>
+<entry freq="1247" ji="讫(訖)">..</entry>
+<entry freq="1248" ji="访(訪)">..</entry>
+<entry freq="1249" ji="讶(訝)">..</entry>
+<entry freq="1250" ji="讳(諱)">..</entry>
+<entry freq="1251" ji="讵(詎)">..</entry>
+<entry freq="1252" ji="讴(謳)">..</entry>
+<entry freq="1253" ji="诀(訣)">..</entry>
+<entry freq="1254" ji="讷(訥)">..</entry>
+<entry freq="1255" ji="设(設)">..</entry>
+<entry freq="1256" ji="讽(諷)">..</entry>
+<entry freq="1257" ji="讹(訛)">..</entry>
+<entry freq="1258" ji=" (訢)">..</entry>
+<entry freq="1259" ji="许(許)">..</entry>
+<entry freq="1260" ji="论(論)">..</entry>
+<entry freq="1261" ji="讼(訟)">..</entry>
+<entry freq="1262" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1263" ji="诂(詁)">..</entry>
+<entry freq="1264" ji="诃(訶)">..</entry>
+<entry freq="1265" ji="评(評)">..</entry>
+<entry freq="1266" ji="诏(詔)">..</entry>
+<entry freq="1267" ji="词(詞)">..</entry>
+<entry freq="1268" ji="译(譯)">..</entry>
+<entry freq="1269" ji="诎(詘)">..</entry>
+<entry freq="1270" ji=" (詗)">..</entry>
+<entry freq="1271" ji="诅(詛)">..</entry>
+<entry freq="1272" ji="识(識)">..</entry>
+<entry freq="1273" ji="诌(謅)">..</entry>
+<entry freq="1274" ji="诋(詆)">..</entry>
+<entry freq="1275" ji="诉(訴)">..</entry>
+<entry freq="1276" ji="诈(詐)">..</entry>
+<entry freq="1277" ji="诊(診)">..</entry>
+<entry freq="1278" ji="诒(詒)">..</entry>
+<entry freq="1279" ji="诨(諢)">..</entry>
+<entry freq="1280" ji="该(該)">..</entry>
+<entry freq="1281" ji="详(詳)">..</entry>
+<entry freq="1282" ji="诧(詫)">..</entry>
+<entry freq="1283" ji="诓(誆)">..</entry>
+<entry freq="1284" ji="诖(詿)">..</entry>
+<entry freq="1285" ji="诘(詰)">..</entry>
+<entry freq="1286" ji="诙(詼)">..</entry>
+<entry freq="1287" ji="试(試)">..</entry>
+<entry freq="1288" ji="诗(詩)">..</entry>
+<entry freq="1289" ji="诩(詡)">..</entry>
+<entry freq="1290" ji="诤(諍)">..</entry>
+<entry freq="1291" ji="诠(詮)">..</entry>
+<entry freq="1292" ji="诛(誅)">..</entry>
+<entry freq="1293" ji="诔(誄)">..</entry>
+<entry freq="1294" ji="诟(詬)">..</entry>
+<entry freq="1295" ji="诣(詣)">..</entry>
+<entry freq="1296" ji="话(話)">..</entry>
+<entry freq="1297" ji="诡(詭)">..</entry>
+<entry freq="1298" ji="询(詢)">..</entry>
+<entry freq="1299" ji="诚(誠)">..</entry>
+<entry freq="1300" ji="诞(誕)">..</entry>
+<entry freq="1301" ji="浒(滸)">..</entry>
+<entry freq="1302" ji="诮(誚)">..</entry>
+<entry freq="1303" ji="说( )">..</entry>
+<entry freq="1304" ji="诫(誡)">..</entry>
+<entry freq="1305" ji="诬(誣)">..</entry>
+<entry freq="1306" ji="语(語)">..</entry>
+<entry freq="1307" ji="诵(誦)">..</entry>
+<entry freq="1308" ji="罚( )">..</entry>
+<entry freq="1309" ji="误(誤)">..</entry>
+<entry freq="1310" ji="诰(誥)">..</entry>
+<entry freq="1311" ji="诳(誑)">..</entry>
+<entry freq="1312" ji="诱(誘)">..</entry>
+<entry freq="1313" ji="诲(誨)">..</entry>
+<entry freq="1314" ji="诶( )">..</entry>
+<entry freq="1315" ji="狱(獄)">..</entry>
+<entry freq="1316" ji="谊(誼)">..</entry>
+<entry freq="1317" ji="谅(諒)">..</entry>
+<entry freq="1318" ji="谈(談)">..</entry>
+<entry freq="1319" ji="谆(諄)">..</entry>
+<entry freq="1320" ji=" (讅)">..</entry>
+<entry freq="1321" ji="谇(誶)">..</entry>
+<entry freq="1322" ji="请(請)">..</entry>
+<entry freq="1323" ji="诺(諾)">..</entry>
+<entry freq="1324" ji="诸(諸)">..</entry>
+<entry freq="1325" ji="读(讀)">..</entry>
+<entry freq="1326" ji="诼(諑)">..</entry>
+<entry freq="1327" ji="诹(諏)">..</entry>
+<entry freq="1328" ji="课(課)">..</entry>
+<entry freq="1329" ji="诽(誹)">..</entry>
+<entry freq="1330" ji="诿(諉)">..</entry>
+<entry freq="1331" ji="谁(誰)">..</entry>
+<entry freq="1332" ji="谀(諛)">..</entry>
+<entry freq="1333" ji="调(調)">..</entry>
+<entry freq="1334" ji="谄(諂)">..</entry>
+<entry freq="1335" ji="谂(諗)">..</entry>
+<entry freq="1336" ji="谛(諦)">..</entry>
+<entry freq="1337" ji="谙(諳)">..</entry>
+<entry freq="1338" ji="谜(謎)">..</entry>
+<entry freq="1339" ji="谚(諺)">..</entry>
+<entry freq="1340" ji="谝(諞)">..</entry>
+<entry freq="1341" ji="谘(諮)">..</entry>
+<entry freq="1342" ji="谌(諶)">..</entry>
+<entry freq="1343" ji="谎(謊)">..</entry>
+<entry freq="1344" ji="谋(謀)">..</entry>
+<entry freq="1345" ji="谍(諜)">..</entry>
+<entry freq="1346" ji="谐(諧)">..</entry>
+<entry freq="1347" ji="谏(諫)">..</entry>
+<entry freq="1348" ji=" (諝)">..</entry>
+<entry freq="1349" ji="谑(謔)">..</entry>
+<entry freq="1350" ji="谒(謁)">..</entry>
+<entry freq="1351" ji="谔(諤)">..</entry>
+<entry freq="1352" ji="谓(謂)">..</entry>
+<entry freq="1353" ji="谖(諼)">..</entry>
+<entry freq="1354" ji="谕(諭)">..</entry>
+<entry freq="1355" ji="谥(謚)">..</entry>
+<entry freq="1356" ji="谤(謗)">..</entry>
+<entry freq="1357" ji="谦(謙)">..</entry>
+<entry freq="1358" ji="谧(謐)">..</entry>
+<entry freq="1359" ji="谟(謨)">..</entry>
+<entry freq="1360" ji="谠(讜)">..</entry>
+<entry freq="1361" ji="谡(謖)">..</entry>
+<entry freq="1362" ji="谢(謝)">..</entry>
+<entry freq="1363" ji="谣( )">..</entry>
+<entry freq="1364" ji="储(儲)">..</entry>
+<entry freq="1365" ji="谪(謫)">..</entry>
+<entry freq="1366" ji="谫(譾)">..</entry>
+<entry freq="1367" ji="谨(謹)">..</entry>
+<entry freq="1368" ji="谬(謬)">..</entry>
+<entry freq="1369" ji="谩(謾)">..</entry>
+<entry freq="1370" ji="谱(譜)">..</entry>
+<entry freq="1371" ji="谮(譖)">..</entry>
+<entry freq="1372" ji="谭(譚)">..</entry>
+<entry freq="1373" ji="谰(讕)">..</entry>
+<entry freq="1374" ji="谲(譎)">..</entry>
+<entry freq="1375" ji="谯(譙)">..</entry>
+<entry freq="1376" ji="蔼(藹)">..</entry>
+<entry freq="1377" ji="槠(櫧)">..</entry>
+<entry freq="1378" ji="谴(譴)">..</entry>
+<entry freq="1379" ji="谵(譫)">..</entry>
+<entry freq="1380" ji="谳(讞)">..</entry>
+<entry freq="1381" ji="辩(辯)">..</entry>
+<entry freq="1382" ji=" (讌)">..</entry>
+<entry freq="1383" ji="雠(讎)">..</entry>
+<entry freq="1384" ji="谶(讖)">..</entry>
+<entry freq="1385" ji="霭(靄)">..</entry>
+<entry freq="饣"/>
+<entry freq="1386" ji="饥(饑)">..</entry>
+<entry freq="1387" ji=" (飥)">..</entry>
+<entry freq="1388" ji="饧(餳)">..</entry>
+<entry freq="1389" ji="饨(飩)">..</entry>
+<entry freq="1390" ji="饭(飯)">..</entry>
+<entry freq="1391" ji="饮(飲)">..</entry>
+<entry freq="1392" ji="饫(飫)">..</entry>
+<entry freq="1393" ji="饩(餼)">..</entry>
+<entry freq="1394" ji="饪(飪)">..</entry>
+<entry freq="1395" ji="饬(飭)">..</entry>
+<entry freq="1396" ji="饲(飼)">..</entry>
+<entry freq="1397" ji="饯(餞)">..</entry>
+<entry freq="1398" ji="饰(飾)">..</entry>
+<entry freq="1399" ji="饱(飽)">..</entry>
+<entry freq="1400" ji="饴(飴)">..</entry>
+<entry freq="1401" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1402" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1403" ji="饷(餉)">..</entry>
+<entry freq="1404" ji="饺(餃)">..</entry>
+<entry freq="1405" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1406" ji="饼( )">..</entry>
+<entry freq="1407" ji="饵(餌)">..</entry>
+<entry freq="1408" ji="饶(饒)">..</entry>
+<entry freq="1409" ji="蚀(蝕)">..</entry>
+<entry freq="1410" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1411" ji="饽(餑)">..</entry>
+<entry freq="1412" ji="馁(餒)">..</entry>
+<entry freq="1413" ji="饿(餓)">..</entry>
+<entry freq="1414" ji="馆(館)">..</entry>
+<entry freq="1415" ji="馄(餛)">..</entry>
+<entry freq="1416" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1417" ji="馅(餡)">..</entry>
+<entry freq="1418" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1419" ji="馇( )">..</entry>
+<entry freq="1420" ji="馈(饋)">..</entry>
+<entry freq="1421" ji="馊(餿)">..</entry>
+<entry freq="1422" ji="馐(饈)">..</entry>
+<entry freq="1423" ji="馍(饃)">..</entry>
+<entry freq="1424" ji=" (餺)">..</entry>
+<entry freq="1425" ji="馏(餾)">..</entry>
+<entry freq="1426" ji="馑(饉)">..</entry>
+<entry freq="1427" ji="馒(饅)">..</entry>
+<entry freq="1428" ji="馓( )">..</entry>
+<entry freq="1429" ji="馔(饌)">..</entry>
+<entry freq="1430" ji="馕(饟)">..</entry>
+<entry freq="1431" ji="汤(湯)">..</entry>
+<entry freq="1432" ji="扬(揚)">..</entry>
+<entry freq="1433" ji="场(場)">..</entry>
+<entry freq="1434" ji=" (暘)">..</entry>
+<entry freq="1435" ji="饧(餳)">..</entry>
+<entry freq="1436" ji="炀(煬)">..</entry>
+<entry freq="1437" ji="杨(楊)">..</entry>
+<entry freq="1438" ji="肠(腸)">..</entry>
+<entry freq="1439" ji="疡(瘍)">..</entry>
+<entry freq="1440" ji="砀(碭)">..</entry>
+<entry freq="1441" ji="畅(暢)">..</entry>
+<entry freq="1442" ji=" (錫)">..</entry>
+<entry freq="1443" ji="殇(殤)">..</entry>
+<entry freq="1444" ji="荡(蕩)">..</entry>
+<entry freq="1445" ji="烫(燙)">..</entry>
+<entry freq="1446" ji="觞(觴)">..</entry>
+<entry freq="纟"/>
+<entry freq="1447" ji="丝(絲)">..</entry>
+<entry freq="1448" ji="纠(糾)">..</entry>
+<entry freq="1449" ji="纩(纊)">..</entry>
+<entry freq="1450" ji="纡(紆)">..</entry>
+<entry freq="1451" ji="纣(紂)">..</entry>
+<entry freq="1452" ji="红(紅)">..</entry>
+<entry freq="1453" ji="纪(紀)">..</entry>
+<entry freq="1454" ji="纫(紉)">..</entry>
+<entry freq="1455" ji="纥(紇)">..</entry>
+<entry freq="1456" ji="约( )">..</entry>
+<entry freq="1457" ji="纨(紈)">..</entry>
+<entry freq="1458" ji="级(級)">..</entry>
+<entry freq="1459" ji="纺(紡)">..</entry>
+<entry freq="1460" ji="纹(紋)">..</entry>
+<entry freq="1461" ji="纬(緯)">..</entry>
+<entry freq="1462" ji="纭(紜)">..</entry>
+<entry freq="1463" ji="纯(純)">..</entry>
+<entry freq="1464" ji="纰(紕)">..</entry>
+<entry freq="1465" ji="纽(紐)">..</entry>
+<entry freq="1466" ji="纳(納)">..</entry>
+<entry freq="1467" ji="纲(綱)">..</entry>
+<entry freq="1468" ji="纱(紗)">..</entry>
+<entry freq="1469" ji=" (紝)">..</entry>
+<entry freq="1470" ji="纷(紛)">..</entry>
+<entry freq="1471" ji="纶(綸)">..</entry>
+<entry freq="1472" ji="纸(紙)">..</entry>
+<entry freq="1473" ji="纵(縱)">..</entry>
+<entry freq="1474" ji="纾(紓)">..</entry>
+<entry freq="1475" ji=" (紖)">..</entry>
+<entry freq="1476" ji="咝( )">..</entry>
+<entry freq="1477" ji="绊(絆)">..</entry>
+<entry freq="1478" ji="线( )">..</entry>
+<entry freq="1479" ji="绀(紺)">..</entry>
+<entry freq="1480" ji="绁(紲)">..</entry>
+<entry freq="1481" ji="绂(紱)">..</entry>
+<entry freq="1482" ji="绋(紼)">..</entry>
+<entry freq="1483" ji="绎(繹)">..</entry>
+<entry freq="1484" ji="经(經)">..</entry>
+<entry freq="1485" ji="绍(紹)">..</entry>
+<entry freq="1486" ji="组(組)">..</entry>
+<entry freq="1487" ji="细(細)">..</entry>
+<entry freq="1488" ji=" (紬)">..</entry>
+<entry freq="1489" ji="绅(紳)">..</entry>
+<entry freq="1490" ji="织(織)">..</entry>
+<entry freq="1491" ji="绌(絀)">..</entry>
+<entry freq="1492" ji="终(終)">..</entry>
+<entry freq="1493" ji="绉(縐)">..</entry>
+<entry freq="1494" ji="绐(紿)">..</entry>
+<entry freq="1495" ji="哟(喲)">..</entry>
+<entry freq="1496" ji=" (絰)">..</entry>
+<entry freq="1497" ji="荮( )">..</entry>
+<entry freq="1498" ji="荭(葒)">..</entry>
+<entry freq="1499" ji="绞(絞)">..</entry>
+<entry freq="1500" ji="统(統)">..</entry>
+<entry freq="1501" ji="绒(絨)">..</entry>
+<entry freq="1502" ji="绕(繞)">..</entry>
+<entry freq="1503" ji="绔( )">..</entry>
+<entry freq="1504" ji="结(結)">..</entry>
+<entry freq="1505" ji="绗(絎)">..</entry>
+<entry freq="1506" ji="给(給)">..</entry>
+<entry freq="1507" ji="绘(繪)">..</entry>
+<entry freq="1508" ji="绝( )">..</entry>
+<entry freq="1509" ji="绛(絳)">..</entry>
+<entry freq="1510" ji="络(絡)">..</entry>
+<entry freq="1511" ji="绚(絢)">..</entry>
+<entry freq="1512" ji="绑(綁)">..</entry>
+<entry freq="1513" ji="莼( )">..</entry>
+<entry freq="1514" ji="绠(綆)">..</entry>
+<entry freq="1515" ji="绨(綈)">..</entry>
+<entry freq="1516" ji="绡(綃)">..</entry>
+<entry freq="1517" ji="绢(絹)">..</entry>
+<entry freq="1518" ji="绣( )">..</entry>
+<entry freq="1519" ji="绥(綏)">..</entry>
+<entry freq="1520" ji="绦( )">..</entry>
+<entry freq="1521" ji="鸶(鷥)">..</entry>
+<entry freq="1522" ji="综(綜)">..</entry>
+<entry freq="1523" ji="绽(綻)">..</entry>
+<entry freq="1524" ji="绾(綰)">..</entry>
+<entry freq="1525" ji="绻(綣)">..</entry>
+<entry freq="1526" ji="绩(績)">..</entry>
+<entry freq="1527" ji="绫(綾)">..</entry>
+<entry freq="1528" ji="绪(緒)">..</entry>
+<entry freq="1529" ji="续(續)">..</entry>
+<entry freq="1530" ji="绮(綺)">..</entry>
+<entry freq="1531" ji="缀(綴)">..</entry>
+<entry freq="1532" ji="绿( )">..</entry>
+<entry freq="1533" ji="绰(綽)">..</entry>
+<entry freq="1534" ji="绲(緄)">..</entry>
+<entry freq="1535" ji="绳(繩)">..</entry>
+<entry freq="1536" ji="绯(緋)">..</entry>
+<entry freq="1537" ji="绶(綬)">..</entry>
+<entry freq="1538" ji="绸(綢)">..</entry>
+<entry freq="1539" ji="绷( )">..</entry>
+<entry freq="1540" ji="绺(綹)">..</entry>
+<entry freq="1541" ji="维(維)">..</entry>
+<entry freq="1542" ji="绵(綿)">..</entry>
+<entry freq="1543" ji="缁(緇)">..</entry>
+<entry freq="1544" ji="缔(締)">..</entry>
+<entry freq="1545" ji="编(編)">..</entry>
+<entry freq="1546" ji="缕(縷)">..</entry>
+<entry freq="1547" ji="缃(緗)">..</entry>
+<entry freq="1548" ji="缂(緙)">..</entry>
+<entry freq="1549" ji="缅(緬)">..</entry>
+<entry freq="1550" ji="缘(緣)">..</entry>
+<entry freq="1551" ji="缉(緝)">..</entry>
+<entry freq="1552" ji="缇(緹)">..</entry>
+<entry freq="1553" ji="缈(緲)">..</entry>
+<entry freq="1554" ji="缗(緡)">..</entry>
+<entry freq="1555" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1556" ji="缌(緦)">..</entry>
+<entry freq="1557" ji="缆(纜)">..</entry>
+<entry freq="1558" ji="缓(緩)">..</entry>
+<entry freq="1559" ji="缄(緘)">..</entry>
+<entry freq="1560" ji="缑(緱)">..</entry>
+<entry freq="1561" ji="缒(縋)">..</entry>
+<entry freq="1562" ji="缎(緞)">..</entry>
+<entry freq="1563" ji="辔(轡)">..</entry>
+<entry freq="1564" ji=" (縗)">..</entry>
+<entry freq="1565" ji="缤(繽)">..</entry>
+<entry freq="1566" ji="缟(縞)">..</entry>
+<entry freq="1567" ji="缣(縑)">..</entry>
+<entry freq="1568" ji="缢(縊)">..</entry>
+<entry freq="1569" ji="缚(縛)">..</entry>
+<entry freq="1570" ji="缙(縉)">..</entry>
+<entry freq="1571" ji="缛(縟)">..</entry>
+<entry freq="1572" ji="缜(縝)">..</entry>
+<entry freq="1573" ji="缝(縫)">..</entry>
+<entry freq="1574" ji="缡(縭)">..</entry>
+<entry freq="1575" ji="潍(濰)">..</entry>
+<entry freq="1576" ji="缩(縮)">..</entry>
+<entry freq="1577" ji="缥(縹)">..</entry>
+<entry freq="1578" ji="缪(繆)">..</entry>
+<entry freq="1579" ji="缦(縵)">..</entry>
+<entry freq="1580" ji="缨(纓)">..</entry>
+<entry freq="1581" ji="缫(繅)">..</entry>
+<entry freq="1582" ji="缧(縲)">..</entry>
+<entry freq="1583" ji="蕴( )">..</entry>
+<entry freq="1584" ji="缮(繕)">..</entry>
+<entry freq="1585" ji="缯(繒)">..</entry>
+<entry freq="1586" ji="缬(纈)">..</entry>
+<entry freq="1587" ji="缭(繚)">..</entry>
+<entry freq="1588" ji="橼(櫞)">..</entry>
+<entry freq="1589" ji="缰( )">..</entry>
+<entry freq="1590" ji="缳(繯)">..</entry>
+<entry freq="1591" ji="缲(繰)">..</entry>
+<entry freq="1592" ji="缱(繾)">..</entry>
+<entry freq="1593" ji="缴(繳)">..</entry>
+<entry freq="1594" ji="辫(辮)">..</entry>
+<entry freq="1595" ji="缵(纘)">..</entry>
+<entry freq="1596" ji="坚(堅)">..</entry>
+<entry freq="1597" ji="贤(賢)">..</entry>
+<entry freq="1598" ji="肾(腎)">..</entry>
+<entry freq="1599" ji="竖( )">..</entry>
+<entry freq="1600" ji="悭(慳)">..</entry>
+<entry freq="1601" ji="紧(緊)">..</entry>
+<entry freq="1602" ji="铿(鏗)">..</entry>
+<entry freq="1603" ji="鲣(鰹)">..</entry>
+<entry freq="1604" ji="劳(勞)">..</entry>
+<entry freq="1605" ji="茕(煢)">..</entry>
+<entry freq="1606" ji="茔(塋)">..</entry>
+<entry freq="1607" ji="荧(熒)">..</entry>
+<entry freq="1608" ji="荣(榮)">..</entry>
+<entry freq="1609" ji="荥(滎)">..</entry>
+<entry freq="1610" ji="荦(熒)">..</entry>
+<entry freq="1611" ji="涝(澇)">..</entry>
+<entry freq="1612" ji="崂(嶗)">..</entry>
+<entry freq="1613" ji="莹(瑩)">..</entry>
+<entry freq="1614" ji="捞(撈)">..</entry>
+<entry freq="1615" ji="唠(嘮)">..</entry>
+<entry freq="1616" ji="莺(鶯)">..</entry>
+<entry freq="1617" ji="萤(螢)">..</entry>
+<entry freq="1618" ji="营(營)">..</entry>
+<entry freq="1619" ji="萦(縈)">..</entry>
+<entry freq="1620" ji="痨(癆)">..</entry>
+<entry freq="1621" ji="嵘(嶸)">..</entry>
+<entry freq="1622" ji="铹(鐒)">..</entry>
+<entry freq="1623" ji="耢( )">..</entry>
+<entry freq="1624" ji="蝾(蠑)">..</entry>
+<entry freq="1625" ji="览( )">..</entry>
+<entry freq="1626" ji="揽(攬)">..</entry>
+<entry freq="1627" ji="缆(纜)">..</entry>
+<entry freq="1628" ji="榄(欖)">..</entry>
+<entry freq="1629" ji="鉴(鑒)">..</entry>
+<entry freq="只"/>
+<entry freq="1630" ji="识(識)">..</entry>
+<entry freq="1631" ji="帜(幟)">..</entry>
+<entry freq="1632" ji="织(織)">..</entry>
+<entry freq="1633" ji="炽(熾)">..</entry>
+<entry freq="1634" ji="职(職)">..</entry>
+<entry freq="钅"/>
+<entry freq="1635" ji="钆(釓)">..</entry>
+<entry freq="1636" ji="钇(釔)">..</entry>
+<entry freq="1637" ji="钌(釕)">..</entry>
+<entry freq="1638" ji="钋(釙)">..</entry>
+<entry freq="1639" ji="钉(釘)">..</entry>
+<entry freq="1640" ji="针(針)">..</entry>
+<entry freq="1641" ji="钊(釗)">..</entry>
+<entry freq="1642" ji="钗(釵)">..</entry>
+<entry freq="1643" ji="钎( )">..</entry>
+<entry freq="1644" ji="钓(釣)">..</entry>
+<entry freq="1645" ji="钏(釧)">..</entry>
+<entry freq="1646" ji="钍(釷)">..</entry>
+<entry freq="1647" ji="钐(釤)">..</entry>
+<entry freq="1648" ji="钒(釩)">..</entry>
+<entry freq="1649" ji=" (鍚)">..</entry>
+<entry freq="1650" ji="钕(釹)">..</entry>
+<entry freq="1651" ji="钔(鍆)">..</entry>
+<entry freq="1652" ji="钬(鈥)">..</entry>
+<entry freq="1653" ji="钫(鈁)">..</entry>
+<entry freq="1654" ji="钚( )">..</entry>
+<entry freq="1655" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1656" ji="钪(鈧)">..</entry>
+<entry freq="1657" ji="钯(鈀)">..</entry>
+<entry freq="1658" ji="钭(鈄)">..</entry>
+<entry freq="1659" ji="钙(鈣)">..</entry>
+<entry freq="1660" ji="钝(鈍)">..</entry>
+<entry freq="1661" ji="钛(鈦)">..</entry>
+<entry freq="1662" ji=" (鈃)">..</entry>
+<entry freq="1663" ji="钮(鈕)">..</entry>
+<entry freq="1664" ji="钞(鈔)">..</entry>
+<entry freq="1665" ji="钢(鋼)">..</entry>
+<entry freq="1666" ji="钠(鈉)">..</entry>
+<entry freq="1667" ji="钡(鋇)">..</entry>
+<entry freq="1668" ji="钤(鈐)">..</entry>
+<entry freq="1669" ji="钧(鈞)">..</entry>
+<entry freq="1670" ji="钩( )">..</entry>
+<entry freq="1671" ji="钦(欽)">..</entry>
+<entry freq="1672" ji="钨(鎢)">..</entry>
+<entry freq="1673" ji="铋(鉍)">..</entry>
+<entry freq="1674" ji="钰(鈺)">..</entry>
+<entry freq="1675" ji="钱(錢)">..</entry>
+<entry freq="1676" ji="钲(鉦)">..</entry>
+<entry freq="1677" ji="钳(鉗)">..</entry>
+<entry freq="1678" ji="钴(鈷)">..</entry>
+<entry freq="1679" ji="钺(鉞)">..</entry>
+<entry freq="1680" ji="钵( )">..</entry>
+<entry freq="1681" ji="钹(鈸)">..</entry>
+<entry freq="1682" ji="钼(鉬)">..</entry>
+<entry freq="1683" ji="钾(鉀)">..</entry>
+<entry freq="1684" ji="铀(鈾)">..</entry>
+<entry freq="1685" ji="钿(鈿)">..</entry>
+<entry freq="1686" ji="铎(鐸)">..</entry>
+<entry freq="1687" ji=" (鏺)">..</entry>
+<entry freq="1688" ji="铃(鈴)">..</entry>
+<entry freq="1689" ji="铅(鉛)">..</entry>
+<entry freq="1690" ji="铂(鉑)">..</entry>
+<entry freq="1691" ji="铄(鑠)">..</entry>
+<entry freq="1692" ji="铆(鉚)">..</entry>
+<entry freq="1693" ji="铍(鈹)">..</entry>
+<entry freq="1694" ji="钶(鈳)">..</entry>
+<entry freq="1695" ji="铊(鉈)">..</entry>
+<entry freq="1696" ji="钽(鉭)">..</entry>
+<entry freq="1697" ji="铌(鈮)">..</entry>
+<entry freq="1698" ji="钷( )">..</entry>
+<entry freq="1699" ji="铈(鈰)">..</entry>
+<entry freq="1700" ji="铉(鉉)">..</entry>
+<entry freq="1701" ji="铒(鉺)">..</entry>
+<entry freq="1702" ji="铑(銠)">..</entry>
+<entry freq="1703" ji="铕(銪)">..</entry>
+<entry freq="1704" ji="铟(銦)">..</entry>
+<entry freq="1705" ji="铷(銣)">..</entry>
+<entry freq="1706" ji="铯(銫)">..</entry>
+<entry freq="1707" ji="铥(銩)">..</entry>
+<entry freq="1708" ji="铪(鉿)">..</entry>
+<entry freq="1709" ji="铞( )">..</entry>
+<entry freq="1710" ji="铫(銚)">..</entry>
+<entry freq="1711" ji="铵(銨)">..</entry>
+<entry freq="1712" ji="衔(銜)">..</entry>
+<entry freq="1713" ji="铲(鏟)">..</entry>
+<entry freq="1714" ji="铰(鉸)">..</entry>
+<entry freq="1715" ji="铳(銃)">..</entry>
+<entry freq="1716" ji="铱(銥)">..</entry>
+<entry freq="1717" ji=" (鋩)">..</entry>
+<entry freq="1718" ji="铗(鋏)">..</entry>
+<entry freq="1719" ji="铐(銬)">..</entry>
+<entry freq="1720" ji=" (鉶)">..</entry>
+<entry freq="1721" ji="铙(鐃)">..</entry>
+<entry freq="1722" ji="银(銀)">..</entry>
+<entry freq="1723" ji="铛(鐺)">..</entry>
+<entry freq="1724" ji="铜(銅)">..</entry>
+<entry freq="1725" ji="铝(鋁)">..</entry>
+<entry freq="1726" ji="铡(鍘)">..</entry>
+<entry freq="1727" ji="铠(鎧)">..</entry>
+<entry freq="1728" ji="铨(銓)">..</entry>
+<entry freq="1729" ji="铢(銖)">..</entry>
+<entry freq="1730" ji="铣(銑)">..</entry>
+<entry freq="1731" ji="铤(鋌)">..</entry>
+<entry freq="1732" ji="铭(銘)">..</entry>
+<entry freq="1733" ji="铬(鉻)">..</entry>
+<entry freq="1734" ji="铮(錚)">..</entry>
+<entry freq="1735" ji="铧(鏵)">..</entry>
+<entry freq="1736" ji="铩(鎩)">..</entry>
+<entry freq="1737" ji="揿(撳)">..</entry>
+<entry freq="1738" ji="锌(鋅)">..</entry>
+<entry freq="1739" ji="锐( )">..</entry>
+<entry freq="1740" ji="锑(銻)">..</entry>
+<entry freq="1741" ji="锒(鋃)">..</entry>
+<entry freq="1742" ji="铺(鋪)">..</entry>
+<entry freq="1743" ji="铸(鑄)">..</entry>
+<entry freq="1744" ji=" (嶔)">..</entry>
+<entry freq="1745" ji="锓(鋟)">..</entry>
+<entry freq="1746" ji="锃( )">..</entry>
+<entry freq="1747" ji="链(鏈)">..</entry>
+<entry freq="1748" ji="铿(鏗)">..</entry>
+<entry freq="1749" ji="锏( )">..</entry>
+<entry freq="1750" ji="销(銷)">..</entry>
+<entry freq="1751" ji="锁(鎖)">..</entry>
+<entry freq="1752" ji="锄(鋤)">..</entry>
+<entry freq="1753" ji="锅(鍋)">..</entry>
+<entry freq="1754" ji="锉(銼)">..</entry>
+<entry freq="1755" ji="锈(銹)">..</entry>
+<entry freq="1756" ji="锋(鋒)">..</entry>
+<entry freq="1757" ji="锆(鋯)">..</entry>
+<entry freq="1758" ji="铹(鐒)">..</entry>
+<entry freq="1759" ji="锔(鋦)">..</entry>
+<entry freq="1760" ji="锕(錒)">..</entry>
+<entry freq="1761" ji="锎( )">..</entry>
+<entry freq="1762" ji="铽(鋱)">..</entry>
+<entry freq="1763" ji="铼(錸)">..</entry>
+<entry freq="1764" ji="锇(鋨)">..</entry>
+<entry freq="1765" ji="锂(鋰)">..</entry>
+<entry freq="1766" ji=" (鑕)">..</entry>
+<entry freq="1767" ji="锘( )">..</entry>
+<entry freq="1768" ji="锞(錁)">..</entry>
+<entry freq="1769" ji="锭(錠)">..</entry>
+<entry freq="1770" ji="锗(鍺)">..</entry>
+<entry freq="1771" ji="锝( )">..</entry>
+<entry freq="1772" ji="锫( )">..</entry>
+<entry freq="1773" ji="错(錯)">..</entry>
+<entry freq="1774" ji="锚(錨)">..</entry>
+<entry freq="1775" ji="锛(錛)">..</entry>
+<entry freq="1776" ji="锯(鋸)">..</entry>
+<entry freq="1777" ji="锰(錳)">..</entry>
+<entry freq="1778" ji="锢(錮)">..</entry>
+<entry freq="1779" ji="锟(錕)">..</entry>
+<entry freq="1780" ji="锡(錫)">..</entry>
+<entry freq="1781" ji="锣(鑼)">..</entry>
+<entry freq="1782" ji="锤(錘)">..</entry>
+<entry freq="1783" ji="锥(錐)">..</entry>
+<entry freq="1784" ji="锦(錦)">..</entry>
+<entry freq="1785" ji="锨( )">..</entry>
+<entry freq="1786" ji="锱(錙)">..</entry>
+<entry freq="1787" ji="键(鍵)">..</entry>
+<entry freq="1788" ji="镀(鍍)">..</entry>
+<entry freq="1789" ji=" (鎡)">..</entry>
+<entry freq="1790" ji="镁(鎂)">..</entry>
+<entry freq="1791" ji="镂(鏤)">..</entry>
+<entry freq="1792" ji="锲(鍥)">..</entry>
+<entry freq="1793" ji="锵(鏘)">..</entry>
+<entry freq="1794" ji="锷(鍔)">..</entry>
+<entry freq="1795" ji="锶(鍶)">..</entry>
+<entry freq="1796" ji="锴(鍇)">..</entry>
+<entry freq="1797" ji="锾(鍰)">..</entry>
+<entry freq="1798" ji="锹(鍬)">..</entry>
+<entry freq="1799" ji="锿( )">..</entry>
+<entry freq="1800" ji="镅( )">..</entry>
+<entry freq="1801" ji="镄(鐨)">..</entry>
+<entry freq="1802" ji="锻(鍛)">..</entry>
+<entry freq="1803" ji="锸(鍤)">..</entry>
+<entry freq="1804" ji="锼(鎪)">..</entry>
+<entry freq="1805" ji="镎( )">..</entry>
+<entry freq="1806" ji="镓(鎵)">..</entry>
+<entry freq="1807" ji=" (钂)">..</entry>
+<entry freq="1808" ji="镔(鑌)">..</entry>
+<entry freq="1809" ji="镒(鎰)">..</entry>
+<entry freq="1810" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1811" ji="镑(鎊)">..</entry>
+<entry freq="1812" ji="镐(鎬)">..</entry>
+<entry freq="1813" ji="镉(鎘)">..</entry>
+<entry freq="1814" ji="镊(鑷)">..</entry>
+<entry freq="1815" ji="镇(鎮)">..</entry>
+<entry freq="1816" ji="镍(鎳)">..</entry>
+<entry freq="1817" ji="镌( )">..</entry>
+<entry freq="1818" ji="镏(鎦)">..</entry>
+<entry freq="1819" ji="镜(鏡)">..</entry>
+<entry freq="1820" ji="镝(鏑)">..</entry>
+<entry freq="1821" ji="镛(鏞)">..</entry>
+<entry freq="1822" ji="镞(鏃)">..</entry>
+<entry freq="1823" ji="镖(鏢)">..</entry>
+<entry freq="1824" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1825" ji="镗(鏜)">..</entry>
+<entry freq="1826" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1827" ji="镘(鏝)">..</entry>
+<entry freq="1828" ji="镩( )">..</entry>
+<entry freq="1829" ji="镦(鐓)">..</entry>
+<entry freq="1830" ji="&lt;em&gt;neither simp. nor trad. char could be output&lt;/em&gt;">..</entry>
+<entry freq="1831" ji="镨(鐠)">..</entry>
+<entry freq="1832" ji="镧(鑭)">..</entry>
+<entry freq="1833" ji="镥( )">..</entry>
+<entry freq="1834" ji="镤(鏷)">..</entry>
+<entry freq="1835" ji="镢( )">..</entry>
+<entry freq="1836" ji="镣(鐐)">..</entry>
+<entry freq="1837" ji="镫(鐙)">..</entry>
+<entry freq="1838" ji="镪(鏹)">..</entry>
+<entry freq="1839" ji="镰(鐮)">..</entry>
+<entry freq="1840" ji="镱(鐿)">..</entry>
+<entry freq="1841" ji="镭(鐳)">..</entry>
+<entry freq="1842" ji="镬(鑊)">..</entry>
+<entry freq="1843" ji=" (鐶)">..</entry>
+<entry freq="1844" ji="镯(鐲)">..</entry>
+<entry freq="1845" ji="镲( )">..</entry>
+<entry freq="1846" ji="镳(鑣)">..</entry>
+<entry freq="1847" ji=" (鑞)">..</entry>
+<entry freq="1848" ji="镶(鑲)">..</entry>
+<entry freq="1849" ji=" (钁)">..</entry>
+<entry freq="1850" ji=" (嶨)">..</entry>
+<entry freq="1851" ji="学(學)">..</entry>
+<entry freq="1852" ji="觉(覺)">..</entry>
+<entry freq="1853" ji="搅(攪)">..</entry>
+<entry freq="1854" ji="喾(嚳)">..</entry>
+<entry freq="1855" ji="鲎(鱟)">..</entry>
+<entry freq="1856" ji="黉(黌)">..</entry>
+<entry freq="1857" ji="译(譯)">..</entry>
+<entry freq="1858" ji="泽(澤)">..</entry>
+<entry freq="1859" ji="怿(懌)">..</entry>
+<entry freq="1860" ji="择(擇)">..</entry>
+<entry freq="1861" ji="峄(嶧)">..</entry>
+<entry freq="1862" ji="绎(繹)">..</entry>
+<entry freq="1863" ji="驿(驛)">..</entry>
+<entry freq="1864" ji="铎(鐸)">..</entry>
+<entry freq="1865" ji=" (蘀)">..</entry>
+<entry freq="1866" ji="释(釋)">..</entry>
+<entry freq="1867" ji="箨(籜)">..</entry>
+<entry freq="1868" ji="劲(勁)">..</entry>
+<entry freq="1869" ji="刭(剄)">..</entry>
+<entry freq="1870" ji="陉(陘)">..</entry>
+<entry freq="1871" ji="泾(涇)">..</entry>
+<entry freq="1872" ji="茎(莖)">..</entry>
+<entry freq="1873" ji="径(徑)">..</entry>
+<entry freq="1874" ji="经(經)">..</entry>
+<entry freq="1875" ji="烃(烴)">..</entry>
+<entry freq="1876" ji="轻(輕)">..</entry>
+<entry freq="1877" ji="氢(氫)">..</entry>
+<entry freq="1878" ji="胫(脛)">..</entry>
+<entry freq="1879" ji="痉(痙)">..</entry>
+<entry freq="1880" ji="羟(羥)">..</entry>
+<entry freq="1881" ji="颈(頸)">..</entry>
+<entry freq="1882" ji="巯(巰)">..</entry>
+<entry freq="亦"/>
+<entry freq="1883" ji="变(變)">..</entry>
+<entry freq="1884" ji="弯(彎)">..</entry>
+<entry freq="1885" ji="孪(孿)">..</entry>
+<entry freq="1886" ji="峦(巒)">..</entry>
+<entry freq="1887" ji="娈(孌)">..</entry>
+<entry freq="1888" ji="恋(戀)">..</entry>
+<entry freq="1889" ji="栾(欒)">..</entry>
+<entry freq="1890" ji="挛(攣)">..</entry>
+<entry freq="1891" ji="鸾(鸞)">..</entry>
+<entry freq="1892" ji="湾(灣)">..</entry>
+<entry freq="1893" ji="蛮(蠻)">..</entry>
+<entry freq="1894" ji="脔(臠)">..</entry>
+<entry freq="1895" ji="滦(灤)">..</entry>
+<entry freq="1896" ji="銮(鑾)">..</entry>
+<entry freq="呙"/>
+<entry freq="1897" ji="剐(剮)">..</entry>
+<entry freq="1898" ji="涡(渦)">..</entry>
+<entry freq="1899" ji="埚(堝)">..</entry>
+<entry freq="1900" ji=" (喎)">..</entry>
+<entry freq="1901" ji="莴(萵)">..</entry>
+<entry freq="1902" ji="娲(媧)">..</entry>
+<entry freq="1903" ji="祸(禍)">..</entry>
+<entry freq="1904" ji="脶(腡)">..</entry>
+<entry freq="1905" ji="窝(窩)">..</entry>
+<entry freq="1906" ji="锅(鍋)">..</entry>
+<entry freq="1907" ji="蜗(蝸)">..</entry>
+</kanji>

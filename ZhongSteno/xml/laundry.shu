@@ -1,0 +1,113 @@
+	$snd_player.playPinyinAndTone = function(pinyin,tone) {
+		var snd = snd_cache[pinyin+tone];
+		if(!snd) {
+			snd = snd_cache[pinyin + tone] = soundManager.createSound({
+				id: pinyin + tone,
+				url: '//yabla.vo.llnwd.net/media.yabla.com/chinese_static/audio/alicia/'+ pinyin.replace('ü','v') + tone +'.mp3',
+				autoLoad: true,
+				autoPlay: false,
+				volume: 100,
+			});
+		}
+		snd.play();
+	}
+(([\t ](([mr])([1-6])|([^aeiou]+)*(u\:|[iuü]){0,1}(u\:|[aeiouüv]+)([^aeiouüv]+)*([1-6])))+)$
+
+^(.)([\t ]([mr])([1-6])|([\t ]([^aeiou]+)*(u\:|[iuü]){0,1}(u\:|[aeiouüv]+)([^aeiouüv]+)*([1-6]))+)$
+/^(.)([\t ]([mr])([1-6])|
+([\t ]([^aeiou]+)*(u\:|[iuü]){0,1}(u\:|[aeiouüv]+)([^aeiouüv]+)*([1-6]))
+)+$/ig.exec(ln)
+
+^(.*)(\r?\n(\1))+$
+	$1
+^((.).*)(\r?\n\2(.*))$
+	$1│$4
+
+^((.).*)(\r?\n\2.*)+$
+^((.).*)(\r?\n\2(.*))+$
+^((.)[A-Z].*)(\r?\n(\2.*)){1}$
+
+áàǎāéèěēíìǐīóòǒōúùǔū
+--	a,o,e,i,i,er,ai,ei,ao,ou,an,en,ang,eng,ong,i,ia,iao,ie,iu,ian,in,iang,ing,iong,u,ua,uo,uai,ui,uan,un,uang,ueng,ü,üe,üan,ün
+	a,o,e,er,ai,ao,ou,an,en,ang,eng,yi,ya,yao,ye,you,yan,yin,yang,ying,yong,wu,wa,wo,wai,wei,wan,wen,wang,weng,yu,yue,yuan,yun
+b	ba,bo,bai,bei,bao,ban,ben,bang,beng,bi,biao,bie,bian,bin,bing,bu,
+p	pa,po,pai,pei,pao,pou,pan,pen,pang,peng,pi,piao,pie,pian,pin,ping,pu,
+m	ma,mo,me,mai,mei,mao,mou,man,men,mang,meng,mi,miao,mie,miu,mian,min,ming,mu,
+f	fa,fo,fei,fou,fan,fen,fang,feng,fu,
+d	da,de,dai,dei,dao,dou,dan,den,dang,deng,dong,di,diao,die,diu,dian,ding,du,duo,dui,duan,dun,
+t	ta,te,tai,tei,tao,tou,tan,tang,teng,tong,ti,tiao,tie,tian,ting,tu,tuo,tui,tuan,tun,
+n	na,ne,nai,nei,nao,nou,nan,nen,nang,neng,nong,ni,niao,nie,niu,nian,nin,niang,ning,nu,nuo,nuan,nü,nüe,
+l	la,le,lai,lei,lao,lou,lan,lang,leng,long,li,lia,liao,lie,liu,lian,lin,liang,ling,lu,luo,luan,lun,lü,lüe,
+g	ga,ge,gai,gei,gao,gou,gan,gen,gang,geng,gong,gu,gua,guo,guai,gui,guan,gun,guang,
+k	ka,ke,kai,kei,kao,kou,kan,ken,kang,keng,kong,ku,kua,kuo,kuai,kui,kuan,kun,kuang,
+h	ha,he,hai,hei,hao,hou,han,hen,hang,heng,hong,hu,hua,huo,huai,hui,huan,hun,huang,
+z	za,ze,zi,zai,zei,zao,zou,zan,zen,zang,zeng,zong,zu,zuo,zui,zuan,zun,
+c	ca,ce,ci,cai,cao,cou,can,cen,cang,ceng,cong,cu,cuo,cui,cuan,cun,
+s	sa,se,si,sai,sao,sou,san,sen,sang,seng,song,su,suo,sui,suan,sun,
+zh	zha,zhe,zhi,zhai,zhei,zhao,zhou,zhan,zhen,zhang,zheng,zhong,zhu,zhua,zhuo,zhuai,zhui,zhuan,zhun,zhuang,
+ch	cha,che,chi,chai,chao,chou,chan,chen,chang,cheng,chong,chu,chua,chuo,chuai,chui,chuan,chun,chuang,
+sh	sha,she,shi,shai,shei,shao,shou,shan,shen,shang,sheng,shu,shua,shuo,shuai,shui,shuan,shun,shuang,
+r	re,ri,rao,rou,ran,ren,rang,reng,rong,ru,rua,ruo,rui,ruan,run,
+j	ji,jia,jiao,jie,jiu,jian,jin,jiang,jing,jiong,ju,jue,juan,jun
+q	qi,qia,qiao,qie,qiu,qian,qin,qiang,qing,qiong,qu,que,quan,qun
+x	xi,xia,xiao,xie,xiu,xian,xin,xiang,xing,xiong,xu,xue,xuan,xun
+
+^((.) (.) \[([^\]]+)\]|.).*$
+[\n\r]+\t
+
+
+.NET Developer, AVP - 90226134
+
+
+Design and implement new features, and maintain current functions, of the trust management  product.
+-Substantially improved the (SQL) data performance
+-Fixed long existed problem on COM+ unresponsive socket issue that had been manual intervened
+-introduced requirejs (AMD) to improve page loads
+
+creator of new data layer framework and API tier 
+create new ASP.NET applications with DevExpress controls  
+Performance rewrites to SQL Server routines.
+created new automated/scheduled ETL routine for operations
+
+Developer on support portal. setup integration test harness.
+Performance rewrites to SQL Server routines --e.g., a 4 hours operation routine was improved down to a few minutes cost.
+introduced SQL-CLR (C#), which was used to quickly deflate data storage on whole systems and free up ceiling limits.
+
+
+https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=CHB%2BPml6jxMDQrH9duvILA%3D%3D
+https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=CHB%2BPml6jxMDQrH9duvILA%3D%3D
+
+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
+
+
+/([xo])((\1){2}|(.{2}\1){2}|(.{3}\1){2}|(.{4}\1){2})/s
+oox
+xoo
+xxo :1 => o
+oox
+xxx
+xxo :2 => x
+oxx
+oox
+xox :3 => x
+oox
+oxo
+xxo :4 => x
+oox
+xoo
+xxx :5 => x
+xox
+oxo
+xox :6 => x
+oox
+xoo
+xxo :7 => o
+oox
+xoo
+xxo :8 => o
+oxx
+oxo
+oxo :9 => o
+
+U:\newt>

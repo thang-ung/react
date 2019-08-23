@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<safe>
+<!--	<fields value="*"/>-->
+	<fields>
+		<item name="first_name" type="STRING"/>
+		<item name="last_name" type="STRING"/>
+		<item name="full_name" type="STRING"/>
+		<item name="price" type="DECIMAL"/>
+		<item name="transaction"/>
+		<item name="audit_date"/>
+		<item name="ccy"/>
+		<item name="fund_name"/>
+	</fields>
+	<operators>
+		<item name="Equal" value="="/>
+		<item name="Greater" value="&gt;&gt;"/>
+		<item name="Lesser" value="&lt;&lt;"/>
+		<item name="Begins" value="^="/>
+		<item name="Ends" value="$="/>
+		<item name="Contains" value=".="/>
+		<item name="Between" value="-=" argcount="2"/>
+		<item name="MAX" value="#=" argcount="+"/>
+		<item name="COALESCE" value="~=" argcount="+"/>
+		<item name="IN" value="@=" argcount="+"/>
+		<item name="&gt; Some/Any" value="@&gt;" argcount="+"/>
+		<item name="&lt; Some/Any" value="@&lt;" argcount="+"/>
+		<item name="Never (Not Any)" value="@!" argcount="+"/>
+	</operators>
+<!--	<functions value="*"/>-->
+	<functions>
+		<item name="ISNULL" args=""/>
+		<item name="NULLIF" args=""/>
+		<item name="DATEPART" args=""/>
+		<item name="MONTH" args=""/>
+		<item name="DAY" args=""/>
+		<item name="YEAR" args=""/>
+		<item name="" args=""/>
+		<item name="" args=""/>
+	</functions>
+	<options>
+		<item name="unary" value="false"/>
+		<item name="expand-r" value="true"/>
+	</options>
+</safe>
