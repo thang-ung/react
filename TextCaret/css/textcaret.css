@@ -154,6 +154,3 @@ div.caretshell > :not(textarea)::-webkit-scrollbar-thumb{
 	display: none;
 	box-shadow:none!important;
 }
-body{
-	padding:.5rem;
-}
