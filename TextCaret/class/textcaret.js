@@ -1,5 +1,4 @@
 import React from "react";
-import {ints} from "./utils";
 
 export default class TextCaret extends React.Component{
     constructor(props){
@@ -37,7 +36,7 @@ export default class TextCaret extends React.Component{
         let placeChar =marker.classList.contains("afts") ? this.state.caretContent:"i";
         caret.style.maxWidth =io.clientWidth +'px';
         caret.style.maxHeight =io.offsetHeight +'px';
- 
+
 		try{
             if(caret.childNodes[0].nodeName ==="MARK")
                 caret.insertBefore(document.createTextNode(" "), caret.childNodes[0]);
@@ -113,4 +112,3 @@ export default class TextCaret extends React.Component{
         );
     }
 }
-
