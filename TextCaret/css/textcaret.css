@@ -51,6 +51,9 @@ mark.afts:not([data-content])::after, mark.aft:not([data-content])::after{
 mark[data-content]::after{
 	content:attr(data-content);
 }
+mark[data-content="┃"]::after{
+	font-family:arial unicode ms;
+}
 mark.afts::after{
 	animation:blinkingText 1s infinite;
 	border:none;
@@ -82,26 +85,32 @@ mark.aft::after{
 .input > mark.aft::after{
 	margin-top:.0;
 }
-span.caretsub{
-	overflow:visible;
+.caretsub{
+	overflow:visible scroll;
 	color:transparent;
 	white-space: pre-wrap;
-	height:0;
 	max-width:none;
 	width:fit-content;
 	pointer-events:none;
 	z-index:1;
+
+}
+.caretsub.input{
+	overflow:scroll hidden;
+}
+.caretsub.input{
+	white-space: pre;
 }
 .caretsub.anipause mark::after{
 	animation-play-state: initial;
 	animation-duration:120s;
 }
-div.caretshell > *, span.caretsub{
+div.caretshell > *, .caretsub{
 	display:block;
 	font-family:inherit!important;
 	font-size:inherit!important;
 	line-height:inherit!important;
-	position: relative;
+	position: fixed;
 	padding:0;
 	margin:0;
 	border:none;
@@ -139,9 +148,12 @@ div.caretshell > *:not(.caretsub){
 div.caretshell > input[type="text"]{
 	overflow:hidden;
 }
-div.caretshell > *::-webkit-scrollbar-track,
-div.caretshell > *::-webkit-scrollbar,
-div.caretshell > *::-webkit-scrollbar-thumb{
+div.caretshell > :not(textarea)::-webkit-scrollbar-track,
+div.caretshell > :not(textarea)::-webkit-scrollbar,
+div.caretshell > :not(textarea)::-webkit-scrollbar-thumb{
 	display: none;
 	box-shadow:none!important;
+}
+body{
+	padding:.5rem;
 }
