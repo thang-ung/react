@@ -2,54 +2,6 @@ import React from "react";
 import {ints} from "./utils";
 
 export default class TextCaret extends React.Component{
-	constructor(props){
-		super(props);
-
-		this.state ={
-			 className: props.className
-			//,children: props.children
-			,caretClass: props.blinkChars ? "afts":"aft"
-			,caretContent: props.caretContent ||"▐"
-			,className : [props.className, "react", "caretshell"].join(" ")
-			,childType : props.children.type
-			,style: props.style
-			,step: props.instep ? 0: 1
-
-			,scrollExtent: 0
-			,scrollLeft: null
-			,scrollWidth: null
-			};
-		this.div =React.createRef();
-		this.carettop =React.createRef();
-
-		this.syncCaret =this.syncCaret.bind(this);
-		this.blur =this.blur.bind(this);
-		this.focus =this.focus.bind(this);
-		this.tmrPauase =0;
-	}//end ctor
-
-	syncCaret(evt){
-		clearTimeout(this.tmrPauase);
-		let io =evt.target
-			,caret =this.carettop.current;
-
-		this.tmrPause =setTimeout(()=>caret.classList.remove("anipause"),50);
-		caret.classList.remove("anipause");
-
-		let leftspin
-			,offw =io.offsetWidth
-			,txt =io.value
-			,marker =caret.querySelector("mark")
-			,selectionEnd =io.selectionEnd +this.state.step;
-		var stretched =this.state.scrollExtent;
-
-		if(io.scrollWidth != this.state.scrollWidth){
-
-			let ioc =io.cloneNode(false);
-			ioc.style.position ="absolute";import React from "react";
-import {ints} from "./utils";
-
-export default class TextCaret extends React.Component{
     constructor(props){
         super(props);
 
@@ -160,4 +112,5 @@ export default class TextCaret extends React.Component{
             </div>
         );
     }
-}//end TextCaret
+}
+
