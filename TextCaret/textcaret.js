@@ -20,14 +20,15 @@ export default class TextCaret extends React.Component{
         this.carettop =React.createRef();
 
         this.syncCaret =this.syncCaret.bind(this);
+        this.blur =this.blur.bind(this);
     }//end ctor
 
     syncCaret(evt){
         let io =evt.target
             ,caret =this.carettop.current;
 
-        this.tmrPause =setTimeout(()=>caret.classList.remove("anipause"),50);
-        caret.classList.remove("anipause");
+        this.tmrPause =setTimeout(()=>caret.classList.remove("anipause"),20);
+        caret.classList.add("anipause");
 
         let txt =io.value
             ,marker =caret.querySelector("mark")
@@ -37,8 +38,8 @@ export default class TextCaret extends React.Component{
         let placeChar =marker.classList.contains("afts") ? this.state.caretContent:"i";
         caret.style.maxWidth =io.clientWidth +'px';
         caret.style.maxHeight =io.offsetHeight +'px';
- 
-		try{
+
+        try{
             if(caret.childNodes[0].nodeName ==="MARK")
                 caret.insertBefore(document.createTextNode(" "), caret.childNodes[0]);
 
@@ -53,8 +54,8 @@ export default class TextCaret extends React.Component{
             else{
                 marker.removeAttribute("data-content");
             }
-		}
-		finally{
+        }
+        finally{
             var markwidth =parseInt(window.getComputedStyle(marker,":after").getPropertyValue("width"));
             let caretChar =marker.getAttribute("data-content");
             if(caretChar ===this.state.caretContent){
@@ -73,17 +74,26 @@ export default class TextCaret extends React.Component{
             else
                 caret.appendChild(document.createTextNode(caretChar));
 
-           caret.scrollTop =io.scrollTop;
-           caret.scrollLeft =io.scrollLeft;
-		}//end finally
+            caret.scrollTop =io.scrollTop;
+            caret.scrollLeft =io.scrollLeft;
+        }//end finally
 
-        //let aftwidth =markwidth || parseInt(window.getComputedStyle(marker,":after").getPropertyValue("width"));
     }//end syncCaret
+
+    blur(evt){
+        if(this.state.scrollLeft){
+            setTimeout(()=>evt.target.scrollLeft =this.state.scrollLeft, 5);
+        }
+    }//end blur
 
     componentDidMount(){
         let ctl =React.Children.toArray(this.props.children)
                     .find(v=>["textarea","input"].indexOf(v.type) !== -1 && v.ref);
         if(!ctl || !(ctl =ctl.ref.current)) return;
+        if(this.state.childType ==="input"){
+            ctl.onblur =this.blur;
+            this.carettop.current.classList.add("input");
+        }
 
         ctl.oninput =ctl.onkeyup = ctl.onclick =ctl.onscroll =this.syncCaret;
 
@@ -92,10 +102,7 @@ export default class TextCaret extends React.Component{
                     .indexOf(window.getComputedStyle(ctl)["overflow-y"])
                     ===-1;
         }
-
-        if(this.state.childType==="input")
-            this.carettop.current.classList.add("input");
-    }
+    }//end componentDidMount
 
     shouldComponentUpdate(nextProps, nextState){
         return false;
@@ -104,13 +111,11 @@ export default class TextCaret extends React.Component{
     render(){
         return(
             <div className={this.state.className} style={this.state.style} ref={this.div}>
-                <div tabIndex="-1" className="caretsub" ref={this.carettop}
-                  style={this.state.childType==="input" ? {whiteSpace:"nowrap"}:null}>
+                <div tabIndex="-1" className="caretsub" ref={this.carettop}>
                     <mark className={this.state.caretClass}/>
                 </div>
                 {this.props.children}
             </div>
         );
     }
-}
-
+}//end TextCaret
